@@ -8,6 +8,7 @@ Legacy fit
 ## Fit
 
 ```
+[Rifter, [NVY-5] Poverty Rifter]
 Counterbalanced Compact Gyrostabilizer
 Type-D Restrained Overdrive Injector
 Type-D Restrained Overdrive Injector
