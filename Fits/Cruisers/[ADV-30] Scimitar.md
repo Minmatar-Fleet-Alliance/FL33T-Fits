@@ -1,4 +1,4 @@
-# Augoror
+# Scimitar
 Intermediate shield logistics cruiser
 
 ## Description
