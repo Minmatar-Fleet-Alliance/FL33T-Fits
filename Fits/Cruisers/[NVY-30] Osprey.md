@@ -1,4 +1,4 @@
-# Augoror
+# Osprey
 Basic shield logistics cruiser
 
 ## Description

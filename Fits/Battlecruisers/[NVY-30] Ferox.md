@@ -1,4 +1,4 @@
-# Drake
+# Ferox
 Entry level shield battlecruiser
 
 ## Description

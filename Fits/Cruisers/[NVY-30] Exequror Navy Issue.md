@@ -1,4 +1,4 @@
-# Augoror Navy Issue 
+# Exequror Navy Issue 
 Specialty armor cruiser
 
 ## Description
