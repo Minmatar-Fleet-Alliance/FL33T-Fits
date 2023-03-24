@@ -37,6 +37,9 @@ Medium Ancillary Current Router I
 Medium Energy Locus Coordinator II
 Medium Energy Locus Coordinator II
 
+Hornet EC-300 x5
+Warrior II x5
+
 Nanite Repair Paster x64
 Navy Cap Booster 800 x12
 Imperial Navy Multifrequency M x4
