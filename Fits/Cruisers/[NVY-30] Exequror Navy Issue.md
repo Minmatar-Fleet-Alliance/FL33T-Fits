@@ -24,9 +24,9 @@ Tracking Computer II
 
 250mm Railgun II
 250mm Railgun II
-250mm Railgun II
-250mm Railgun II
 [Empty High slot]
+250mm Railgun II
+250mm Railgun II
 
 Medium Hybrid Locus Coordinator II
 Medium Hybrid Locus Coordinator II
@@ -34,4 +34,14 @@ Medium Ancillary Current Router I
 
 
 Acolyte II x5
+
+Javelin M x1600
+Spike M x1600
+Caldari Navy Antimatter Charge M x800
+Caldari Navy Thorium Charge M x800
+ECCM Script x2
+Scan Resolution Script x2
+Targeting Range Script x2
+Optimal Range Script x1
+Tracking Speed Script x1
 ```
