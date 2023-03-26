@@ -5,9 +5,9 @@ Small gang/Solo Exeq navy fit
 ## Description
 
 After its recent revamp the Exequror Navy became one of the most scary nano ship there is.
-Projection, damage, tank, speed: this ship has it all. It's only weaknesses are a cap a bit
+Projection, damage, tank, speed: this ship has it all. Its only weaknesses are a cap a bit
 frail when you start to rep and the bad tracking of railgun. You will need to manually pilot
-to track properly while kiting and be mindful of your cap usage to not cap yourself out.
+to track properly while kiting and be mindful of your cap usage when repping to not cap yourself out.
 
 ## Fit
 
