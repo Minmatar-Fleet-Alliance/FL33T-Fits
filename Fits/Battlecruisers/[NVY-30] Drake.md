@@ -41,7 +41,7 @@ Acolyte II x5
 
 
 Scourge Rage Heavy Assault Missile x7500
-Caldari Navy Scourge Heavy Missile x2500
+Caldari Navy Scourge Heavy Assault Missile x2500
 X5 Enduring Stasis Webifier x1
 Phased Scoped Target Painter x1
 ```
