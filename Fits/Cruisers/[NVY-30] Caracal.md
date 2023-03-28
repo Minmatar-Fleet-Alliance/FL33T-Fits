@@ -35,6 +35,13 @@ Warrior II x2
 
 Inferno Fury Light Missile x2500
 Caldari Navy Inferno Light Missile x1000
+Nova Fury Light Missile x2500
+Caldari Navy Nova Light Missile x1000
+Mjolnir Fury Light Missile x2500
+Caldari Navy Mjolnir Light Missile x1000
+Scourge Fury Light Missile x2500
+Caldari Navy Scourge Light Missile x1000
 Experimental SV-2000 Rapid Light Missile Launcher x5
 EM Shield Amplifier II x1
+Nanite Repair Paste x50
 ```
