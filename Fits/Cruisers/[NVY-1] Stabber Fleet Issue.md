@@ -45,4 +45,5 @@ Republic Fleet Phased Plasma M x1200
 Hail M x4000
 Barrage M x2000
 Navy Cap Booster 800 x12
+Nanite Repair Paste x64
 ```
