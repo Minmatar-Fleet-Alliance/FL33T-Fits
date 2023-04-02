@@ -22,10 +22,10 @@ Reactive Armor Hardener
 Fleeting Compact Stasis Webifier
 Initiated Compact Warp Scrambler
 
-Medium Ghoul Compact Energy Nosferatu
+Heavy Pulse Laser II
 Small Ghoul Compact Energy Nosferatu
 Heavy Pulse Laser II
-Heavy Pulse Laser II
+Medium Ghoul Compact Energy Nosferatu
 Heavy Pulse Laser II
 
 Medium Trimark Armor Pump I
@@ -35,7 +35,8 @@ Medium Trimark Armor Pump I
 
 Acolyte II x3
 
-
-Aurora M x3
+Imperial Navy Standard M x3
+Imperial Navy Multifrequency M x3
+Scorch M x3
 Conflagration M x3
 ```

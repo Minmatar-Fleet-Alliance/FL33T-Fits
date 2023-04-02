@@ -30,6 +30,7 @@ Small Rocket Fuel Cache Partition I
 
 
 Caldari Navy Nova Light Missile x700
+Nova Light Missile x2000
 Scan Resolution Script x2
 Targeting Range Script x2
 ```

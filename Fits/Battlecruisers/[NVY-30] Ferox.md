@@ -27,10 +27,10 @@ Faint Epsilon Scoped Warp Scrambler
 Heavy Neutron Blaster II
 Heavy Neutron Blaster II
 Heavy Neutron Blaster II
-Heavy Neutron Blaster II
-Heavy Neutron Blaster II
-Heavy Neutron Blaster II
 Small Knave Scoped Energy Nosferatu
+Heavy Neutron Blaster II
+Heavy Neutron Blaster II
+Heavy Neutron Blaster II
 
 Medium Core Defense Field Extender I
 Medium Core Defense Field Extender I
@@ -42,5 +42,6 @@ Hornet EC-300 x5
 
 Null M x2500
 Void M x2500
+Caldari Navy Antimatter Charge M x960
 X5 Enduring Stasis Webifier x1
 ```
