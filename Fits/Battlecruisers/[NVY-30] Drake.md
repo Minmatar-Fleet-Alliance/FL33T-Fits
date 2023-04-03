@@ -27,10 +27,10 @@ Initiated Compact Warp Scrambler
 Heavy Assault Missile Launcher II
 Heavy Assault Missile Launcher II
 Heavy Assault Missile Launcher II
-Heavy Assault Missile Launcher II
-Heavy Assault Missile Launcher II
-Heavy Assault Missile Launcher II
 Small Gremlin Compact Energy Neutralizer
+Heavy Assault Missile Launcher II
+Heavy Assault Missile Launcher II
+Heavy Assault Missile Launcher II
 
 Medium EM Shield Reinforcer I
 Medium Thermal Shield Reinforcer I

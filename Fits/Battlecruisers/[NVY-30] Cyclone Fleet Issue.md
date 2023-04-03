@@ -27,11 +27,11 @@ EM Shield Hardener II
 Heavy Assault Missile Launcher II
 Heavy Assault Missile Launcher II
 Heavy Assault Missile Launcher II
-Heavy Assault Missile Launcher II
-Heavy Assault Missile Launcher II
-Heavy Assault Missile Launcher II
 Medium Energy Neutralizer II
 Medium Energy Neutralizer II
+Heavy Assault Missile Launcher II
+Heavy Assault Missile Launcher II
+Heavy Assault Missile Launcher II
 
 Medium EM Shield Reinforcer II
 Medium Thermal Shield Reinforcer II
