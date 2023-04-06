@@ -22,7 +22,7 @@ Multispectrum Shield Hardener II
 Multispectrum Shield Hardener II
 Large Shield Extender II
 Large Shield Extender II
-Faint Epsilon Scoped Warp Scrambler
+X5 Enduring Stasis Webifier
 
 Heavy Neutron Blaster II
 Heavy Neutron Blaster II
@@ -43,5 +43,5 @@ Hornet EC-300 x5
 Null M x2500
 Void M x2500
 Caldari Navy Antimatter Charge M x960
-X5 Enduring Stasis Webifier x1
+Faint Epsilon Scoped Warp Scrambler x1
 ```
