@@ -28,8 +28,8 @@ Light Electron Blaster II
 Light Electron Blaster II
 
 Small Hybrid Burst Aerator II
-Small Trimark Armor Pump I
-Small Trimark Armor Pump I
+Small Transverse Bulkhead I
+Small Transverse Bulkhead I
 
 
 Null S x1000

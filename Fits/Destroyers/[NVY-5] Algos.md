@@ -21,14 +21,14 @@ X5 Enduring Stasis Webifier
 
 200mm AutoCannon II
 200mm AutoCannon II
-200mm AutoCannon II
-200mm AutoCannon II
-200mm AutoCannon II
 [Empty High slot]
+200mm AutoCannon II
+200mm AutoCannon II
+200mm AutoCannon II
 
-Small Trimark Armor Pump I
-Small Trimark Armor Pump I
-Small Trimark Armor Pump I
+Small Transverse Bulkhead I
+Small Transverse Bulkhead I
+Small Transverse Bulkhead I
 
 
 Hobgoblin II x3

@@ -15,20 +15,20 @@ Small gang armor destroyer, best when flown with other armor destroyers.
 AE-K Compact Drone Damage Amplifier
 Damage Control II
 
-5MN Cold-Gas Enduring Microwarpdrive
+5MN Y-T8 Compact Microwarpdrive
 Faint Epsilon Scoped Warp Scrambler
 Fleeting Compact Stasis Webifier
 
 200mm Light Prototype Automatic Cannon
 200mm Light Prototype Automatic Cannon
-200mm Light Prototype Automatic Cannon
-200mm Light Prototype Automatic Cannon
-200mm Light Prototype Automatic Cannon
 [Empty High slot]
+200mm Light Prototype Automatic Cannon
+200mm Light Prototype Automatic Cannon
+200mm Light Prototype Automatic Cannon
 
-Small Trimark Armor Pump I
-Small Trimark Armor Pump I
-Small Trimark Armor Pump I
+Small Transverse Bulkhead I
+Small Transverse Bulkhead I
+Small Transverse Bulkhead I
 
 
 Hornet I x3
