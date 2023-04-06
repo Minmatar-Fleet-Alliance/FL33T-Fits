@@ -23,10 +23,10 @@ Initiated Compact Warp Disruptor
 280mm Howitzer Artillery II
 280mm Howitzer Artillery II
 280mm Howitzer Artillery II
-280mm Howitzer Artillery II
-280mm Howitzer Artillery II
-280mm Howitzer Artillery II
 [Empty High slot]
+280mm Howitzer Artillery II
+280mm Howitzer Artillery II
+280mm Howitzer Artillery II
 
 Small Transverse Bulkhead I
 Small Projectile Collision Accelerator I
@@ -35,10 +35,7 @@ Small Ancillary Current Router I
 
 Quake S x1500
 Tremor S x1500
-Nanite Repair Paste x100
 Republic Fleet EMP S x1000
 Republic Fleet Fusion S x1000
 Republic Fleet Phased Plasma S x1000
-Agency 'Overclocker' SB3 Dose I x1
-Synth Drop Booster x1
 ```

@@ -28,8 +28,8 @@ Small Focused Pulse Laser II
 Small Focused Pulse Laser II
 
 Small Energy Collision Accelerator II
-Small Trimark Armor Pump I
-Small Trimark Armor Pump I
+Small Transverse Bulkhead I
+Small Transverse Bulkhead I
 
 
 Conflagration S x8

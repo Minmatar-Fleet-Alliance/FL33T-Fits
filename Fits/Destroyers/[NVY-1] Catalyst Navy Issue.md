@@ -24,22 +24,17 @@ Small F-RX Compact Capacitor Booster
 Light Ion Blaster II
 Light Ion Blaster II
 Light Ion Blaster II
+Small Infectious Scoped Energy Neutralizer
 Light Ion Blaster II
 Light Ion Blaster II
 Light Ion Blaster II
-[Empty High slot]
 
 Small Hybrid Burst Aerator II
-Small Trimark Armor Pump I
-Small Trimark Armor Pump I
-
-
-Synth Exile Booster
-Agency 'Hardshell' TB3 Dose I
-
+Small Transverse Bulkhead I
+Small Transverse Bulkhead I
 
 Null S x2500
 Void S x5000
-Navy Cap Booster 400 x15
-Nanite Repair Paste x100
+Navy Cap Booster 400 x12
+Nanite Repair Paste x18
 ```
