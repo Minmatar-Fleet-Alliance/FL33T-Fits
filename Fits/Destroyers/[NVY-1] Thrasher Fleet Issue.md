@@ -38,4 +38,5 @@ Tremor S x1500
 Republic Fleet EMP S x1000
 Republic Fleet Fusion S x1000
 Republic Fleet Phased Plasma S x1000
+Republic Fleet Depleted Uranium S x1000
 ```
