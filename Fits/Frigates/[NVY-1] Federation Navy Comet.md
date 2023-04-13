@@ -18,7 +18,7 @@ Small Ancillary Armor Repairer
 
 1MN Monopropellant Enduring Afterburner
 Fleeting Compact Stasis Webifier
-Warp Scrambler II
+Faint Epsilon Scoped Warp Scrambler
 
 Light Neutron Blaster II
 Small Infectious Scoped Energy Neutralizer
