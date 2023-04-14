@@ -40,7 +40,7 @@ Medium Energy Locus Coordinator II
 Hornet EC-300 x5
 Warrior II x5
 
-Nanite Repair Paster x64
+Nanite Repair Paste x64
 Navy Cap Booster 800 x12
 Imperial Navy Multifrequency M x4
 Scorch M x4
