@@ -1,14 +1,15 @@
 # Osprey
+
 Basic shield logistics cruiser
 
 ## Description
+
 The core of any fleet, logistics. Excellent for battlefields, complexes, and all other non-advanced complexes.
-
 Load ECCM scripts into your sensor boosters by default.
-
 Capacitor transfers go up and down.
 
 ## Fit
+
 ```
 [Osprey, [NVY-30] Osprey]
 
