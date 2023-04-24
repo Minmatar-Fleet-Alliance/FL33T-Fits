@@ -6,19 +6,19 @@ The core of any fleet, logistics. Excellent for battlefields, complexes, and all
 
 Load ECCM scripts into your sensor boosters by default.
 
-Capacitor transfers go *down* due to different sizing.
+Capacitor transfers go up and down.
 
 ## Fit
 ```
 [Osprey, [NVY-30] Osprey]
 
-Co-Processor II
+Photonic Upgraded Co-Processor
 Damage Control II
-Reactor Control Unit II
+Mark I Compact Reactor Control Unit
 
 50MN Quad LiF Restrained Microwarpdrive
-Compact Multispectrum Shield Hardener
-Compact Multispectrum Shield Hardener
+Enduring Multispectrum Shield Hardener
+Enduring Multispectrum Shield Hardener
 Large Shield Extender II
 Sensor Booster II
 
@@ -39,5 +39,4 @@ Warrior II x4
 ECCM Script x1
 Scan Resolution Script x1
 Targeting Range Script x1
-Medium Inductive Compact Remote Capacitor Transmitter x1
 ```
