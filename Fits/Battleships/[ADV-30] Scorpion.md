@@ -15,10 +15,10 @@ Use the mindflood booster, it has no negative drawbacks for this fit.
 ```
 [Scorpion, [ADV-30] Scorpion]
 
-Imperial Navy 1600mm Steel Plates
-Imperial Navy 1600mm Steel Plates
-Imperial Navy Multispectrum Energized Membrane
-Imperial Navy Multispectrum Energized Membrane
+1600mm Steel Plates II
+1600mm Steel Plates II
+Multispectrum Energized Membrane II
+Multispectrum Energized Membrane II
 Reactive Armor Hardener
 
 Signature Radius Suppressor I
