@@ -18,30 +18,28 @@ Signal Amplifier II
 50MN Quad LiF Restrained Microwarpdrive
 Large Shield Extender II
 Large Shield Extender II
-Multispectrum Shield Hardener II
 Small Capacitor Booster II
 Warp Scrambler II
+Multispectrum Shield Hardener II
 
 425mm AutoCannon II
 425mm AutoCannon II
-425mm AutoCannon II
-425mm AutoCannon II
 Warp Disruption Field Generator II
 Warp Disruption Field Generator II
+425mm AutoCannon II
+425mm AutoCannon II
 
 Medium Core Defense Field Extender II
 Medium Core Defense Field Extender II
 
 
-Agency 'Overclocker' SB5 Dose II
-
-
+Agency 'Overclocker' SB5 Dose II x1
 Barrage M x5000
 Hail M x5000
 Navy Cap Booster 400 x18
 Nanite Repair Paste x100
 Focused Warp Disruption Script x2
 Focused Warp Scrambling Script x2
-Standard Mindflood Booster x2
+Standard Mindflood Booster x1
 M-36 Enduring Warp Disruption Field Generator x2
 ```

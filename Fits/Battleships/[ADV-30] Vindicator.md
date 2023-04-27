@@ -12,7 +12,7 @@ effectively with the FCs and broadcast targets that it caught.
 
 
 ## Fit
- 
+
 ```
 [Vindicator, [ADV-30] Vindicator]
 
