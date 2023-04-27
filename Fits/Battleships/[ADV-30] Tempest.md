@@ -19,7 +19,7 @@ Damage Control II
 Reactive Armor Hardener
 
 Tracking Computer II
-Tracking Computer II
+Medium Capacitor Booster II
 Remote Sensor Dampener II
 Radar ECM II
 100MN Afterburner II
@@ -59,4 +59,6 @@ Remote Sensor Dampener II x1
 Phased Scoped Target Painter x1
 Warp Scrambler II x1
 Warp Disruptor II x1
+Stasis Webifier II x1
+Navy Cap Booster 400 x20
 ```

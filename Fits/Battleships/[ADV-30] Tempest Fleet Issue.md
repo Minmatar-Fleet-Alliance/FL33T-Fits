@@ -12,7 +12,7 @@ This is a fleet armor Tempest Fleet Issue with both armor brawling and a sniping
 [Tempest Fleet Issue, [ADV-30] Tempest Fleet Issue]
 
 Imperial Navy 1600mm Steel Plates
-Imperial Navy Multispectrum Energized Membrane
+Imperial Navy 1600mm Steel Plates
 Imperial Navy Multispectrum Energized Membrane
 Damage Control II
 Corpum C-Type Thermal Energized Membrane
@@ -20,7 +20,7 @@ Corpum C-Type Kinetic Energized Membrane
 Corpus X-Type Explosive Armor Hardener
 
 100MN Afterburner II
-Stasis Webifier II
+Medium Capacitor Booster II
 Warp Disruptor II
 Ladar ECM II
 Ladar ECM II
@@ -57,5 +57,7 @@ Radar ECM II x2
 Remote Sensor Dampener II x2
 Phased Scoped Target Painter x1
 Warp Scrambler II x1
+Stasis Webifier II x1
 1400mm Howitzer Artillery II x6
+Navy Cap Booster 400 x25
 ```
