@@ -1,0 +1,48 @@
+name: build-xml
+permissions:
+  contents: write
+  pull-requests: read
+run-name: Build new XML release from PR
+on:
+  pull_request_target:
+    types:
+      - closed
+jobs:
+  build-xml:
+    if: github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+    steps: 
+      - name: Get current date
+        id: date
+        run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+      - name: Trim Hash
+        id: hash
+        run: echo "hash=$(echo $GITHUB_SHA | cut -c 1-8)" >> $GITHUB_OUTPUT
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 2
+      - name: Get Diff
+        id: diff
+        run: git diff --name-only HEAD~1 > grep Fits > ./diff
+      - name: Get Diff Count
+        id: diffCount
+        run: echo "length=$(wc -l < ./diff)" >> $GITHUB_OUTPUT
+      - name: Setup Node
+        if: steps.diffCount.outputs.length > 0
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+      - name: Build XMLBuilder
+        if: steps.diffCount.outputs.length > 0
+        run: cd .builder; npm i; tsc;
+      - name: Build XML
+        if: steps.diffCount.outputs.length > 0
+        run: node .builder/dist/main.js ${{ steps.hash.outputs.hash }} ${{ steps.date.outputs.date }}
+        env: 
+          WEBHOOK_URL: ${{secrets.NOTIFICATION_WEBHOOK_URL}}
+      - name: Create release
+        if: steps.diffCount.outputs.length > 0
+        run: gh release create ${{ steps.date.outputs.date }}-${{ steps.hash.outputs.hash }} .builder/${{ steps.date.outputs.date }}-${{ steps.hash.outputs.hash }}.diff.xml .builder/${{ steps.date.outputs.date }}-${{ steps.hash.outputs.hash }}.full.xml
+        env: 
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
