@@ -34,6 +34,8 @@ function parseFile(filename: string, absolutePath: boolean = false): [boolean, F
     
     const fitText = file.slice(codeblockStart + fitSecStart + 1, codeblockStart + fitSecStart + codeblockEnd + 1).join("\n");
     
+    if(fitText.trim().length < 1) return [false, {} as Fit];
+
     try{
         const fit = Fit.FromEFT(fitText);
         if(desc.trim().length > 0) fit.description = desc.trim();
