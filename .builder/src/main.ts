@@ -17,6 +17,8 @@ function parseFile(filename: string, absolutePath: boolean = false): [boolean, F
     else
         path = `${process.cwd()}/${filename}`;
 
+    if(!fs.existsSync(path)) return [false, {} as Fit];
+
     let file = fs
         .readFileSync(path)
         .toString()
