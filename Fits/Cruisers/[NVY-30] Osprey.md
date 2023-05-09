@@ -13,7 +13,7 @@ Capacitor transfers go up and down.
 ```
 [Osprey, [NVY-30] Osprey]
 
-Photonic Upgraded Co-Processor
+Co-Processor II
 Damage Control II
 Mark I Compact Reactor Control Unit
 
