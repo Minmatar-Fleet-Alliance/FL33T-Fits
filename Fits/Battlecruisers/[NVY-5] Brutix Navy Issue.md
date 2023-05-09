@@ -40,8 +40,8 @@ Warrior II x5
 Valkyrie II x5
 
 
-Null M x1000
-Void M x1000
+Null M x1500
+Void M x1500
 Caldari Navy Antimatter Charge M x2000
 Nanite Repair Paste x50
 Agency 'Pyrolancea' DB3 Dose I x2
