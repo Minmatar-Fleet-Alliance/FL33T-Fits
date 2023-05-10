@@ -42,7 +42,11 @@ Large Trimark Armor Pump I
 Large Trimark Armor Pump I
 
 
-Berserker II x5
+Warrior II x5
+Hammerhead II x5
+Federation Navy Ogre x5
+Republic Fleet Berserker x5
+Hornet EC-300 x5
 
 Improved Mindflood Booster x1
 Navy Cap Booster 3200 x7
