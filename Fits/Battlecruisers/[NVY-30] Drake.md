@@ -2,7 +2,7 @@
 Entry level shield battlecruiser
 
 ## Description
-The most recognizable ship in the game. Obligatory "FC, can I bring my drake?"...
+The most recognizable ship in the game. Obligatory: FC, can I bring my drake?...
 
 The Drake is an excellent, cheap alternative to the HAM Cyclone Fleet Issue for fleet commanders who are still learning the fundamentals like target calling, damage swapping, and composisions. 
 

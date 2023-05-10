@@ -5,7 +5,7 @@ Newbros Rifter fit
 
 ## Description
 
-An almost day-1 fit for the rifter (requires Hull Upgrades to IV which is an excellent early train), useful for our newer player to help them get into this action. This fit will not work solo but is a good addition to any small gang, acting as an heavy tackle with good tank and speed with scram and web. As the fit does not have a "main" ammo, it does not follow the usual guidelines for AC and instead contains a healthy mix of all RF ammo (limited as it cost a lot when compared to the hull).
+An almost day-1 fit for the rifter (requires Hull Upgrades to IV which is an excellent early train), useful for our newer player to help them get into this action. This fit will not work solo but is a good addition to any small gang, acting as an heavy tackle with good tank and speed with scram and web. As the fit does not have a main ammo, it does not follow the usual guidelines for AC and instead contains a healthy mix of all RF ammo (limited as it cost a lot when compared to the hull).
 
 
 ## Fit

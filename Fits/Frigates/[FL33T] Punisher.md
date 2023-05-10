@@ -5,7 +5,7 @@ Starter Punisher fit
 
 ## Description
 
-A starter Punisher fit aimed at "flying cheap and tackling money". The DPS is pretty anemic
+A starter Punisher fit aimed at flying cheap and tackling money. The DPS is pretty anemic
 but is good enough to clear drones and put a bit of pressur on other frigates, while tanking
 with 18k EHP.
 
