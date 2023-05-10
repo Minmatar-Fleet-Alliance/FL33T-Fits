@@ -9,7 +9,7 @@ Small gang armor destroyer, best when flown with other armor destroyers.
 ## Fit
 
 ```
-[Coercer, Coercer]
+[Coercer, [NVY-5] Coercer]
 
 200mm Rolled Tungsten Compact Plates
 Damage Control II
@@ -27,7 +27,7 @@ Small Focused Pulse Laser II
 Small Focused Pulse Laser II
 Small Focused Pulse Laser II
 
-Small Energy Collision Accelerator II
+Small Transverse Bulkhead I
 Small Transverse Bulkhead I
 Small Transverse Bulkhead I
 
