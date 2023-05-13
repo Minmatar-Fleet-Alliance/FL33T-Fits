@@ -3,7 +3,7 @@
 
 ## Description
 
-A small gang or solor ship designed to brawl at close range and deal significant damage.
+A small gang or solo ship designed to brawl at close range and deal significant damage.
 
 ## Fit
 
@@ -26,10 +26,10 @@ Stasis Webifier II
 Heavy Neutron Blaster II
 Heavy Neutron Blaster II
 Heavy Neutron Blaster II
-Heavy Neutron Blaster II
-Heavy Neutron Blaster II
-Heavy Neutron Blaster II
 [Empty High slot]
+Heavy Neutron Blaster II
+Heavy Neutron Blaster II
+Heavy Neutron Blaster II
 
 Medium Transverse Bulkhead II
 Medium Transverse Bulkhead II
@@ -41,6 +41,6 @@ Valkyrie II x5
 
 
 Null M x1800
-Void M x 1800
+Void M x1800
 Caldari Navy Antimatter Charge M x1800
 ```
