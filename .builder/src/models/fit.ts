@@ -36,7 +36,7 @@ export default class Fit {
     }
 
     public ToXML(slug: string): string {
-        let output = `\t\t<fitting name="${this.name} ${slug}">\n`;
+        let output = `\t\t<fitting name="${this.name}">\n`;
         const tabs = `\t\t\t`;
         if (this.description) {
             output += `${tabs}<description value="${this.description}"/>\n`;
@@ -82,12 +82,12 @@ export default class Fit {
 
         eft = eft.replace(/\[(?<type>.+?)\,\s*?(?<name>.+?)\]$/gim, "");
 
-        let cargo = [...eft.matchAll(/^(?<type>.?)\sx(?<qty>\d+)$/gi)].map(
+        let cargo = [...eft.matchAll(/(?<type>.?)\s(?-i)x(?<qty>\d+)/gi)].map(
             (c) => {
                 return { type: c.groups?.type, qty: c.groups?.qty };
             }
         );
-        eft = eft.replace(/^(?<type>.?)\sx(?<qty>\d+)$/gi, "");
+        eft = eft.replace(/(?<type>.?)\s(?-i)x(?<qty>\d+)/gi, "");
 
         let moduleList = require("../../data/modules.json");
 
