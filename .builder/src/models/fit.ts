@@ -82,12 +82,12 @@ export default class Fit {
 
         eft = eft.replace(/\[(?<type>.+?)\,\s*?(?<name>.+?)\]$/gim, "");
 
-        let cargo = [...eft.matchAll(/(?<type>.?)\sx(?<qty>\d+)/g)].map(
+        let cargo = [...eft.matchAll(/(?<type>.*?)\sx(?<qty>\d+)/g)].map(
             (c) => {
                 return { type: c.groups?.type, qty: c.groups?.qty };
             }
         );
-        eft = eft.replace(/(?<type>.?)\sx(?<qty>\d+)/g, "");
+        eft = eft.replace(/(?<type>.*?)\sx(?<qty>\d+)/g, "");
 
         let moduleList = require("../../data/modules.json");
 
