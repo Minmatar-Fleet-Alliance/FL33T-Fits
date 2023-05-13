@@ -41,6 +41,6 @@ Valkyrie II x5
 
 
 Null M x1800
-Void M x1800
-Caldari Navy Antimatter Charge M x1800
+Void M x 1800
+Caldari Navy Antimatter Charge M x2000
 ```
