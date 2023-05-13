@@ -27,11 +27,11 @@ Warp Scrambler II
 X5 Enduring Stasis Webifier
 Small Capacitor Booster II, Navy Cap Booster 400
 
-Heavy Neutron Blaster II, Caldari Navy Antimatter Charge M
-Heavy Neutron Blaster II, Caldari Navy Antimatter Charge M
+Heavy Neutron Blaster II
+Heavy Neutron Blaster II
 Small Energy Nosferatu II
-Heavy Neutron Blaster II, Caldari Navy Antimatter Charge M
-Heavy Neutron Blaster II, Caldari Navy Antimatter Charge M
+Heavy Neutron Blaster II
+Heavy Neutron Blaster II
 
 Medium Ancillary Current Router I
 Medium Trimark Armor Pump I

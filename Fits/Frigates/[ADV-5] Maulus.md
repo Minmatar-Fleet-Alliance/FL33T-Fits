@@ -36,3 +36,4 @@ Warrior II x2
 Nanite Repair Paste x24
 Scan Resolution Dampening Script x3
 Targeting Range Dampening Script x3
+```

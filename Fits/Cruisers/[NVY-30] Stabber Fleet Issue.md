@@ -10,7 +10,7 @@ Hail never fails.
 
 ## Fit
 ```
-[Stabber Fleet Issue, [NVY-30] Stabber FI]
+[Stabber Fleet Issue, [NVY-30] Stabber Fleet Issue]
 
 1600mm Steel Plates II
 Gyrostabilizer II

@@ -27,7 +27,7 @@ Reactive Armor Hardener
 500MN Quad LiF Restrained Microwarpdrive
 Large Compact Pb-Acid Cap Battery
 Large Compact Pb-Acid Cap Battery
-Heavy F-RX Compact Capacitor Booster, Navy Cap Booster 3200
+Heavy F-RX Compact Capacitor Booster
 
 Heavy Energy Neutralizer II
 Heavy Energy Neutralizer II
