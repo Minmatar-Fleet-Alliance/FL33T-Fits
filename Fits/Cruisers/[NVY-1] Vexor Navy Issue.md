@@ -1,6 +1,6 @@
-# Vexor Navy issue
+# Vexor Navy Issue
 
-Solo fit for the Vexor Navy issue
+Solo fit for the Vexor Navy Issue
 
 
 ## Description
