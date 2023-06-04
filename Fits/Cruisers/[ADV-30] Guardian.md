@@ -1,6 +1,6 @@
 # Guardian
 
- Heavy Arnmor logistics cruiser
+ Heavy Armor logistics cruiser
 
 ## Description
 
