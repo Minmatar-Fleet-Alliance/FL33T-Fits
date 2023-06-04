@@ -34,6 +34,7 @@ Acolyte II x3
 Hornet EC-300 x3
 
 Void S x1600
+Federation Navy Antimatter Charge S x800
 Null S x800
 Nanite Repair Paste x18
 ```
