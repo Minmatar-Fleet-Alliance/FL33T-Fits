@@ -86,7 +86,7 @@ async function main(): Promise<void> {
     fs.writeFileSync(`${filename}.full.xml`, full);
 
     
-    axios.post(webhook, {content: "The following fits have been udpated:\n" + changedFiles.map(f => f.replace(/^Fits\/\w+?\//gim, "").replace(".md", "")).join("\n")});
+    //axios.post(webhook, {content: "The following fits have been udpated:\n" + changedFiles.map(f => f.replace(/^Fits\/\w+?\//gim, "").replace(".md", "")).join("\n")});
 }
 
 
