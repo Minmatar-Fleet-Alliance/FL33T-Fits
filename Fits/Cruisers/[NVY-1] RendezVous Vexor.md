@@ -10,7 +10,7 @@ A PvE Vexor made to run Rendez-Vous Sites and push the advantage in Faction Warf
 ## Fit
 
 ```
-[Vexor, Amarr Rendezvous Point]
+[Vexor, [NVY-1] RendezVous Vexor]
 
 Medium Armor Repairer II
 Drone Damage Amplifier II
