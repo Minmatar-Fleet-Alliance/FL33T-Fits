@@ -10,7 +10,7 @@ size drones are in cargo, refit for the one you want before undocking.
 
 ## Fit
 ```
-[Exequror, Medium Drone Exequror]
+[Exequror, [NVY-30] Battle Exequror]
 Damage Control II
 1600mm Rolled Tungsten Compact Plates
 Compact Multispectrum Energized Membrane
