@@ -40,4 +40,6 @@ Warrior II x5
 ECCM Script x1
 Scan Resolution Script x1
 Targeting Range Script x1
+50MN Y-T8 Compact Microwarpdrive x1
+Medium Coaxial Compact Remote Armor Repairer x2
 ```
