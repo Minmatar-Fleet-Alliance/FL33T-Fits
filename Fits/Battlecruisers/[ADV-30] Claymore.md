@@ -47,8 +47,8 @@ Vespa EC-600 x5
 Inferno Fury Heavy Missile x1000
 Scourge Fury Heavy Missile x1000
 Navy Cap Booster 400 x11
-Caldari Navy Inferno Heavy Assault Missile x1000
-Caldari Navy Mjolnir Heavy Assault Missile x1000
+Caldari Navy Inferno Heavy Missile x1000
+Caldari Navy Mjolnir Heavy Missile x1000
 Caldari Navy Scourge Heavy Missile x1000
 Electronic Hardening Charge x600
 Electronic Superiority Charge x600

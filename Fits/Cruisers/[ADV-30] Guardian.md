@@ -13,26 +13,27 @@ Logistic Cruiser V in the long run. Load ECCM script by default.
 ## Fit
 
 ```
-[Guardian, [ADV-30] Guardian]
+[Guardian, [ADV-30] Guardian copy 2]
 
-True Sansha EM Armor Hardener
+Multispectrum Energized Membrane II
 Multispectrum Energized Membrane II
 Imperial Navy 1600mm Steel Plates
-Damage Control II
-Shadow Serpentis Thermal Armor Hardener
+Reactive Armor Hardener
+Imperial Navy Thermal Armor Hardener
 
 10MN Afterburner II
 Sensor Booster II
 
-Large Solace Scoped Remote Armor Repairer
+Large Remote Armor Repairer II
 Medium Remote Armor Repairer II
 Large Inductive Compact Remote Capacitor Transmitter
 Large Inductive Compact Remote Capacitor Transmitter
 Medium Remote Armor Repairer II
-Large Solace Scoped Remote Armor Repairer
+Medium Remote Armor Repairer II
 
-Medium Ancillary Current Router II
 Medium Trimark Armor Pump II
+Medium Trimark Armor Pump II
+
 
 Warrior II x5
 
@@ -41,5 +42,5 @@ ECCM Script x1
 Scan Resolution Script x1
 Targeting Range Script x1
 50MN Y-T8 Compact Microwarpdrive x1
-Medium Coaxial Compact Remote Armor Repairer x2
+Medium Remote Armor Repairer II x2
 ```
