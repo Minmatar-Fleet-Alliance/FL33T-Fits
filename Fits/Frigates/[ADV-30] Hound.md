@@ -19,9 +19,9 @@ Ballistic Control System II
 Warp Disruptor II
 Peripheral Compact Target Painter
 
+Prototype 'Arbalest' Torpedo Launcher
+Prototype 'Arbalest' Torpedo Launcher
 Covert Ops Cloaking Device II
-Prototype 'Arbalest' Torpedo Launcher
-Prototype 'Arbalest' Torpedo Launcher
 Prototype 'Arbalest' Torpedo Launcher
 
 Small Processor Overclocking Unit I

@@ -19,9 +19,9 @@ Faint Scoped Warp Disruptor
 Peripheral Compact Target Painter
 Phased Muon Scoped Sensor Dampener
 
+Prototype 'Arbalest' Torpedo Launcher
+Prototype 'Arbalest' Torpedo Launcher
 Covert Ops Cloaking Device II
-Prototype 'Arbalest' Torpedo Launcher
-Prototype 'Arbalest' Torpedo Launcher
 Prototype 'Arbalest' Torpedo Launcher
 
 Small Bay Loading Accelerator I

@@ -18,12 +18,12 @@ Capacitor Power Relay II
 Power Diagnostic System II
 
 50MN Quad LiF Restrained Microwarpdrive
-Warp Disruptor II
 EM Shield Amplifier II
 Republic Fleet Large Shield Extender
 Republic Fleet Large Shield Extender
 Multispectrum Shield Hardener II
 Multispectrum Shield Hardener II
+Warp Disruptor II
 
 Medium EMP Smartbomb II
 Medium EMP Smartbomb II

@@ -24,16 +24,17 @@ Nanofiber Internal Structure II
 Caldari Navy Large Shield Extender
 Caldari Navy Large Shield Extender
 Caldari Navy Large Shield Extender
-Multispectrum Shield Hardener II
 Small Capacitor Booster II
+Multispectrum Shield Hardener II
 
 Heavy Missile Launcher II
 Heavy Missile Launcher II
 Heavy Missile Launcher II
-Heavy Missile Launcher II
-Heavy Missile Launcher II
 Shield Command Burst II
 Shield Command Burst II
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+
 
 Medium Core Defense Field Extender II
 Medium Core Defense Field Extender II
