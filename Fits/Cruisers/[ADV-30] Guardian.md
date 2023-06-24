@@ -13,7 +13,7 @@ Logistic Cruiser V in the long run. Load ECCM script by default.
 ## Fit
 
 ```
-[Guardian, [ADV-30] Guardian copy 2]
+[Guardian, [ADV-30] Guardian]
 
 Multispectrum Energized Membrane II
 Multispectrum Energized Membrane II
