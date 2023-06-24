@@ -20,7 +20,7 @@ Medium Shield Extender II
 Micro Jump Field Generator
 Faint Epsilon Scoped Warp Scrambler
 
-Expanded Probe Launcher I, Sisters Combat Scanner Probe
+Expanded Probe Launcher I
 Prototype Cloaking Device I
 [Empty High slot]
 [Empty High slot]
