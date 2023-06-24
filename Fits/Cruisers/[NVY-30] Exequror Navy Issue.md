@@ -38,12 +38,13 @@ Acolyte II x5
 
 
 Spike M x3000
-Navy Cap Booster 400 x30
-Caldari Navy Antimatter Charge M x800
-Caldari Navy Thorium Charge M x800
+Navy Cap Booster 400 x29
+Caldari Navy Antimatter Charge M x1200
+Caldari Navy Thorium Charge M x2000
 ECCM Script x2
 Scan Resolution Script x2
 Targeting Range Script x2
 Optimal Range Script x1
 Tracking Speed Script x1
+Nanite Repair Paste x100
 ```

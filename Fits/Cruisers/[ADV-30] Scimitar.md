@@ -8,9 +8,9 @@ Excellent ship against the current faction warfare meta, due to its high EM resi
 ```
 [Scimitar, [ADV-30] Scimitar]
 
-Capacitor Power Relay II
-Capacitor Power Relay II
-Capacitor Power Relay II
+Capacitor Flux Coil II
+Capacitor Flux Coil II
+Power Diagnostic System II
 Damage Control II
 
 50MN Quad LiF Restrained Microwarpdrive
@@ -19,13 +19,13 @@ Large Shield Extender II
 Multispectrum Shield Hardener II
 Multispectrum Shield Hardener II
 
-Large Murky Compact Remote Shield Booster
-Large Murky Compact Remote Shield Booster
-Medium Remote Shield Booster II
-Medium Remote Shield Booster II
+Pithum C-Type Medium Remote Shield Booster
+Pithum C-Type Medium Remote Shield Booster
+Pithum C-Type Medium Remote Shield Booster
+Pithum C-Type Medium Remote Shield Booster
 
-Medium Capacitor Control Circuit II
-Medium Core Defense Field Extender I
+Medium Core Defense Field Extender II
+Medium Core Defense Field Extender II
 
 
 Light Shield Maintenance Bot I x1

@@ -1,31 +1,33 @@
 # Bifrost
-Advanced shield support destroyer
+
+Boosher Kamikaze fit
 
 ## Description
+
 The Bifrost is designed to split up the enemy fleet. It is an excellent force multiplier. The combat probes allow you sit at a perch (e.g 250km away) and be a constant threat to the enemy. If you boosh (micro jump) their logistics away, the enemy will bleed ships. 
 
 ## Fit
 ```
 [Bifrost, [ADV-30] Bifrost]
 
-Co-Processor II
-Co-Processor II
 Nanofiber Internal Structure II
+Co-Processor II
+Co-Processor II
 
-1MN Afterburner II
 5MN Quad LiF Restrained Microwarpdrive
-Faint Epsilon Scoped Warp Scrambler
+1MN Monopropellant Enduring Afterburner
 Medium Shield Extender II
 Micro Jump Field Generator
+Faint Epsilon Scoped Warp Scrambler
 
-Expanded Probe Launcher I
-[Empty High slot]
+Expanded Probe Launcher I, Sisters Combat Scanner Probe
+Prototype Cloaking Device I
 [Empty High slot]
 [Empty High slot]
 [Empty High slot]
 [Empty High slot]
 
-Small Low Friction Nozzle Joints II
+Small Processor Overclocking Unit I
 Small Low Friction Nozzle Joints II
 
 
