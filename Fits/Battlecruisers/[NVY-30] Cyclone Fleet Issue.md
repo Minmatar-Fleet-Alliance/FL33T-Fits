@@ -13,7 +13,7 @@ Best paired with the Osprey or Scimitar, with multiple recons and support cruise
 [Cyclone Fleet Issue, [NVY-30] Cyclone Fleet Issue]
 
 Damage Control II
-Power Diagnostic System II
+Signal Amplifier II
 Ballistic Control System II
 Ballistic Control System II
 Ballistic Control System II
@@ -22,16 +22,16 @@ Ballistic Control System II
 Large Shield Extender II
 Large Shield Extender II
 Multispectrum Shield Hardener II
-EM Shield Hardener II
+Multispectrum Shield Hardener II
 
-Heavy Assault Missile Launcher II
-Heavy Assault Missile Launcher II
-Heavy Assault Missile Launcher II
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Drone Link Augmentor II
 Medium Energy Neutralizer II
-Medium Energy Neutralizer II
-Heavy Assault Missile Launcher II
-Heavy Assault Missile Launcher II
-Heavy Assault Missile Launcher II
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Heavy Missile Launcher II
 
 Medium EM Shield Reinforcer II
 Medium Thermal Shield Reinforcer II
@@ -53,8 +53,10 @@ Caldari Navy Mjolnir Heavy Missile x1200
 Caldari Navy Nova Heavy Missile x1200
 Caldari Navy Scourge Heavy Missile x1200
 Nanite Repair Paste x50
-Drone Link Augmentor II x1
-Heavy Missile Launcher II x6
+Medium Energy Neutralizer II x1
+Heavy Assault Missile Launcher II x6
+Power Diagnostic System II x1
+EM Shield Hardener II x1
 X5 Enduring Stasis Webifier x1
 Faint Scoped Warp Disruptor x1
 Warp Scrambler II x1
