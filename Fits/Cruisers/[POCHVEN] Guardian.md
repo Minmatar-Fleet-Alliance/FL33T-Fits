@@ -38,8 +38,4 @@ Scan Resolution Script x1
 Nanite Repair Paste x50
 ECCM Script x1
 Standard Mindflood Booster x2
-10MN Y-S8 Compact Afterburner x1
-Large Coaxial Compact Remote Armor Repairer x1
-10MN Afterburner II x1
-Medium Coaxial Compact Remote Armor Repairer x1
 ```
