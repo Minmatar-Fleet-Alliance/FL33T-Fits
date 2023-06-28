@@ -11,8 +11,8 @@ Designed for our Pochven doctrine, this Vedmak is the entry into Pochven with a 
 ```
 [Vedmak, [POCHVEN] Vedmak]
 Entropic Radiation Sink II
-Corpum B-Type EM Energized Membrane
-Corpum C-Type Thermal Energized Membrane
+Dark Blood EM Energized Membrane
+Dark Blood Thermal Energized Membrane
 Multispectrum Energized Membrane II
 Reactive Armor Hardener
 1600mm Steel Plates II
