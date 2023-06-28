@@ -36,5 +36,6 @@ Vespa EC-600 x5
 
 
 Navy Cap Booster 800 x10
-Targeting Range Script x3
+Scan Resolution Dampening Script x3
+Targeting Range Dampening Script x3
 ```
