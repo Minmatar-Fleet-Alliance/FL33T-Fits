@@ -9,7 +9,7 @@ A small gang or solo ship designed to brawl at close range and deal significant 
 ## Fit
 
 ```
-[Brutix Navy Issue, [NVY-5] Brutix Navy Issue]
+[Brutix Navy Issue, [NVY-5] Blaster Brutix Navy Issue]
 
 Damage Control II
 Magnetic Field Stabilizer II

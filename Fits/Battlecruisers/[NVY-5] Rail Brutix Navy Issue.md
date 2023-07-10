@@ -9,7 +9,7 @@ A small gang nano fit designed to DPS with rails while providing skirm links.
 ## Fit
 
 ```
-[Brutix Navy Issue, [ADV-5] Brutix Navy Issue]
+[Brutix Navy Issue, [NVY-5] Rail Brutix Navy Issue]
 
 Damage Control II
 Magnetic Field Stabilizer II
