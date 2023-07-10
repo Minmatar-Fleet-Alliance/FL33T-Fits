@@ -10,7 +10,7 @@ The cheapest ship to take out and learn how to small gang/nano, the maulus plays
 ## Fit
 
 ```
-[Maulus, [ADV-5] Maulus]
+[Maulus, [NVY-5] Maulus]
 
 Small Ancillary Armor Repairer
 Nanofiber Internal Structure II

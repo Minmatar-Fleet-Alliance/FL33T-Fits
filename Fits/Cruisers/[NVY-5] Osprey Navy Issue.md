@@ -14,7 +14,7 @@ your reps, and everything will go fine.
 ## Fit
 
 ```
-[Osprey Navy Issue,[NVY-5] Osprey Navy Issue]
+[Osprey Navy Issue, [NVY-5] Osprey Navy Issue]
 
 Nanofiber Internal Structure II
 Nanofiber Internal Structure II
@@ -42,7 +42,13 @@ Medium EM Shield Reinforcer II
 Warrior II x5
 
 
+Inferno Fury Light Missile x400
+Mjolnir Fury Light Missile x400
+Nova Fury Light Missile x400
 Scourge Fury Light Missile x1200
-Navy Cap Booster 400 x34
+Navy Cap Booster 400 x30
+Caldari Navy Inferno Light Missile x400
+Caldari Navy Mjolnir Light Missile x400
+Caldari Navy Nova Light Missile x400
 Caldari Navy Scourge Light Missile x600
 ```
