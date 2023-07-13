@@ -10,7 +10,7 @@ FC ship for our Pochven fleets, long range webs and armor links with optional sk
 ## Fit
 
 ```
-[Loki, *[POCHVEN] Loki]
+[Loki, [POCHVEN] Loki]
 Damage Control II
 Multispectrum Energized Membrane II
 Syndicate 1600mm Steel Plates
