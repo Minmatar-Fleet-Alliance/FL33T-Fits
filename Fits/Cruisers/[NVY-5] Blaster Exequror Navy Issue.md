@@ -13,7 +13,7 @@ range or pure kiters who can outrun you.
 ## Fit
 
 ```
-[Exequror Navy Issue, [NVY-1] Exequror Navy Issue]
+[Exequror Navy Issue, [NVY-5] Blaster Exequror Navy Issue]
 
 1600mm Crystalline Carbonide Restrained Plates
 Damage Control II
@@ -25,7 +25,7 @@ Multispectrum Energized Membrane II
 50MN Y-T8 Compact Microwarpdrive
 Warp Scrambler II
 X5 Enduring Stasis Webifier
-Small Capacitor Booster II, Navy Cap Booster 400
+Small Capacitor Booster II
 
 Heavy Neutron Blaster II
 Heavy Neutron Blaster II
