@@ -8,8 +8,8 @@ Excellent ship against the current faction warfare meta, due to its high EM resi
 ```
 [Scimitar, [ADV-30] Scimitar]
 
-Capacitor Flux Coil II
-Capacitor Flux Coil II
+Power Diagnostic System II
+Power Diagnostic System II
 Power Diagnostic System II
 Damage Control II
 
