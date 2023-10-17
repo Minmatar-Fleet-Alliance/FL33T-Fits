@@ -19,7 +19,7 @@ Multispectrum Shield Hardener II
 Capital F-S9 Regolith Compact Shield Extender
 Capital Capacitor Booster II
 Capital F-S9 Regolith Compact Shield Extender
-Heavy Warp Scrambler I
+Pith C-Type EM Shield Hardener
 Multispectrum Shield Hardener II
 Capital F-S9 Regolith Compact Shield Extender
 
@@ -45,5 +45,6 @@ Mjolnir Rage XL Torpedo x1000
 Nova Rage XL Torpedo x1000
 Synth Crash Booster x2
 Agency 'Pyrolancea' DB5 Dose II x2
+Heavy Warp Scrambler I x1
 
 ```
