@@ -1,4 +1,4 @@
-# T1 Anti-Cap "Bomb" Naglfar
+# Naglfar
 
 Anti-Capital Naglfar
 

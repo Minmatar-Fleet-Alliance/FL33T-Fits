@@ -1,4 +1,4 @@
-# T2 Anti-Cap "Bomb" Moros
+# Moros
 
 Anti-Capital Moros
 

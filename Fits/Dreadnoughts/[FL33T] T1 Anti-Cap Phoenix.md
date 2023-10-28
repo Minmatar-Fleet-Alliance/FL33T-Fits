@@ -1,4 +1,4 @@
-# T1 Anti-Cap "Bomb" Phoenix
+# Phoenix
 
 Anti-Capital Phoenix
 
