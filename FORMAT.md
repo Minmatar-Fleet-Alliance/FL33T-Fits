@@ -11,4 +11,7 @@ Information relevant to the *user* about what is required to use the ship, any l
 
 ## Fit
 
+> **Note**
+> This section is machine readable
+
 \`\`\` followed by a newline, then the EFT formatted fit, followed by a newline then \`\`\`
