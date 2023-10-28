@@ -1,4 +1,4 @@
-# T1 Anti-Cap "Bomb" Revelation
+# Revelation
 
 Anti-Capital Revelation
 
