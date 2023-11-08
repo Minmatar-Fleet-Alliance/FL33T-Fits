@@ -19,11 +19,11 @@ Small Ancillary Armor Repairer
 
 1MN Monopropellant Enduring Afterburner
 Faint Epsilon Scoped Warp Scrambler
-5MN Quad LiF Restrained Microwarpdrive
+5MN Y-T8 Compact Microwarpdrive
 
 Light Neutron Blaster II
 Light Neutron Blaster II
-Small Knave Scoped Energy Nosferatu
+Small Ghoul Compact Energy Nosferatu
 Light Neutron Blaster II
 
 Small Ancillary Current Router I
