@@ -13,11 +13,11 @@ Excellent ship for fighting most (if not all) destroyers in the warzone. Beats n
 ```
 [Catalyst Navy Issue, [NVY-1] Blaster Catalyst Navy Issue]
 
-Small Ancillary Armor Repairer
 Damage Control II
-Magnetic Field Stabilizer II
+400mm Rolled Tungsten Compact Plates
+Vortex Compact Magnetic Field Stabilizer
 
-5MN Quad LiF Restrained Microwarpdrive
+5MN Y-T8 Compact Microwarpdrive
 Warp Scrambler II
 Fleeting Compact Stasis Webifier
 
@@ -37,5 +37,4 @@ Small Transverse Bulkhead II
 Null S x2500
 Void S x5000
 Caldari Navy Antimatter Charge S x1000
-Nanite Repair Paste x18
 ```
