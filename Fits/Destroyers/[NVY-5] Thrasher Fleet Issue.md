@@ -19,13 +19,13 @@ Gyrostabilizer II
 400mm Crystalline Carbonide Restrained Plates
 
 Warp Scrambler II
-X5 Enduring Stasis Webifier
+Fleeting Compact Stasis Webifier
 5MN Quad LiF Restrained Microwarpdrive
 
 200mm AutoCannon II
 200mm AutoCannon II
 200mm AutoCannon II
-[Empty High slot]
+Rocket Launcher II
 200mm AutoCannon II
 200mm AutoCannon II
 200mm AutoCannon II
@@ -37,6 +37,7 @@ Small Projectile Burst Aerator II
 
 Barrage S x2500
 Hail S x5000
+Inferno Rage Rocket x1000
 Republic Fleet Depleted Uranium S x1000
 Republic Fleet EMP S x1000
 Republic Fleet Phased Plasma S x1000
