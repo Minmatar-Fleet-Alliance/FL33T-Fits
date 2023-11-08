@@ -11,30 +11,31 @@ Excellent ship for fighting most (if not all) destroyers in the warzone. Beats n
 ## Fit
 
 ```
-[Catalyst Navy Issue, [NVY-1] Catalyst NI]
+[Catalyst Navy Issue, [NVY-1] Blaster Catalyst Navy Issue]
 
-400mm Rolled Tungsten Compact Plates
-Damage Control II
 Small Ancillary Armor Repairer
+Damage Control II
+Magnetic Field Stabilizer II
 
 5MN Quad LiF Restrained Microwarpdrive
 Warp Scrambler II
-Small F-RX Compact Capacitor Booster
+Fleeting Compact Stasis Webifier
 
-Light Ion Blaster II
-Light Ion Blaster II
-Light Ion Blaster II
-Small Infectious Scoped Energy Neutralizer
-Light Ion Blaster II
-Light Ion Blaster II
-Light Ion Blaster II
+Light Neutron Blaster II
+Light Neutron Blaster II
+Light Neutron Blaster II
+[Empty High slot]
+Light Neutron Blaster II
+Light Neutron Blaster II
+Light Neutron Blaster II
 
-Small Hybrid Burst Aerator II
-Small Transverse Bulkhead I
-Small Transverse Bulkhead I
+Small Transverse Bulkhead II
+Small Transverse Bulkhead II
+Small Transverse Bulkhead II
+
 
 Null S x2500
 Void S x5000
-Navy Cap Booster 400 x12
+Caldari Navy Antimatter Charge S x1000
 Nanite Repair Paste x18
 ```
