@@ -1,14 +1,13 @@
 # Thrasher Fleet Issue
 
-Wolfpack/Small gang TFI
+Small gang/Solo TFI
 
 
 ## Description
 
-An autocannon fit for the Thrasher Fleet Issue. Now, the TFI is not a great hull for brawling
-and will get eaten alive by any proper brawling destroyer, even T1. This fit is therefore made
-for small gang looking to pack a punch and leave quickly. Don't try to solo with it or suffer a
-quick death.
+ A TFI designed for small gang and (occasionally) some solo play. Very effective against laser boat but be aware
+ that the TFI is not the best brawler. If you try to ram a Catalyst Navy you will probably die, use your ability to
+ scram kite and brawl against different targets. Depleted uranium + web should avoid any frigate getting under your gun.
 
 ## Fit
 
@@ -17,25 +16,29 @@ quick death.
 
 Damage Control II
 Gyrostabilizer II
-Gyrostabilizer II
+400mm Crystalline Carbonide Restrained Plates
 
-Faint Epsilon Scoped Warp Scrambler
-Medium Shield Extender II
+Warp Scrambler II
+Fleeting Compact Stasis Webifier
 5MN Quad LiF Restrained Microwarpdrive
 
 200mm AutoCannon II
 200mm AutoCannon II
 200mm AutoCannon II
-[Empty High slot]
+Rocket Launcher II
 200mm AutoCannon II
 200mm AutoCannon II
 200mm AutoCannon II
 
+Small Trimark Armor Pump I
+Small Trimark Armor Pump I
 Small Projectile Burst Aerator II
-Small Core Defense Field Extender I
-Small Core Defense Field Extender I
 
-Fleeting Compact Stasis Webifier x1
+
 Barrage S x2500
 Hail S x5000
+Inferno Rage Rocket x1000
+Republic Fleet Depleted Uranium S x1000
+Republic Fleet EMP S x1000
+Republic Fleet Phased Plasma S x1000
 ```
