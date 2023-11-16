@@ -21,8 +21,8 @@ Reactive Armor Hardener
 
 50MN Y-T8 Compact Microwarpdrive
 Initiated Compact Warp Scrambler
-Shade Compact Radar ECM
-Shade Compact Radar ECM
+X5 Enduring Stasis Webifier
+Phased Scoped Target Painter
 
 Heavy Assault Missile Launcher II
 Heavy Assault Missile Launcher II
@@ -39,9 +39,7 @@ Hobgoblin II x5
 Infiltrator II x5
 Hornet EC-300 x5
 
-Phased Scoped Target Painter x1
-X5 Enduring Stasis Webifier x1
-Ballistic Control System II x2
+
 Inferno Rage Heavy Assault Missile x2000
 Mjolnir Rage Heavy Assault Missile x2000
 Nova Rage Heavy Assault Missile x2000
@@ -52,9 +50,11 @@ Caldari Navy Nova Heavy Assault Missile x1000
 Caldari Navy Scourge Heavy Assault Missile x1000
 Nanite Repair Paste x100
 Targeting Range Dampening Script x2
+Ballistic Control System II x2
 Aergia Compact Magnetometric ECM x2
 CZ-4 Compact Gravimetric ECM x2
 Halting Compact Ladar ECM x2
+Shade Compact Radar ECM x2
 10MN Monopropellant Enduring Afterburner x1
 Phased Muon Scoped Sensor Dampener x2
 ```
