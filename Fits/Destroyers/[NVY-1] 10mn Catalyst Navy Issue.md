@@ -37,8 +37,8 @@ Small Transverse Bulkhead II
 
 
 Caldari Navy Antimatter Charge S x2000
-Caldari Navy Iridium Charge M x2000
-Caldari Navy Iron Charge M x2000
+Caldari Navy Iridium Charge S x2000
+Caldari Navy Iron Charge S x2000
 Caldari Navy Thorium Charge S x2000
 Nanite Repair Paste x18
 ```

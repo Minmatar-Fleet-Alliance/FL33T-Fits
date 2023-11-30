@@ -38,4 +38,5 @@ Valkyrie TP-600 x4
 
 
 Barrage S x2500
+100MN Monopropellant Enduring Afterburner x1
 ```

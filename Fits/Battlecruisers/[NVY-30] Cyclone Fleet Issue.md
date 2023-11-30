@@ -42,22 +42,14 @@ Warrior II x5
 Hornet EC-300 x5
 
 
-Inferno Rage Heavy Assault Missile x1980
-Mjolnir Rage Heavy Assault Missile x1980
-Nova Rage Heavy Assault Missile x1980
-Scourge Rage Heavy Assault Missile x1980
-Caldari Navy Inferno Heavy Assault Missile x1188
-Caldari Navy Scourge Heavy Assault Missile x1188
+100MN Monopropellant Enduring Afterburner x1
 Caldari Navy Inferno Heavy Missile x1200
 Caldari Navy Mjolnir Heavy Missile x1200
 Caldari Navy Nova Heavy Missile x1200
 Caldari Navy Scourge Heavy Missile x1200
 Nanite Repair Paste x50
-Medium Energy Neutralizer II x1
-Heavy Assault Missile Launcher II x6
-Power Diagnostic System II x1
-EM Shield Hardener II x1
 X5 Enduring Stasis Webifier x1
 Faint Scoped Warp Disruptor x1
 Warp Scrambler II x1
+Drone Link Augmentor I x2
 ```

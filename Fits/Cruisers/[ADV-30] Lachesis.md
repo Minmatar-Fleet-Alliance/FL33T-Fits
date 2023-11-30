@@ -36,4 +36,5 @@ Medium Core Defense Field Extender II
 
 Acolyte II x5
 Hornet EC-300 x5
+100MN Monopropellant Enduring Afterburner x1
 ```
