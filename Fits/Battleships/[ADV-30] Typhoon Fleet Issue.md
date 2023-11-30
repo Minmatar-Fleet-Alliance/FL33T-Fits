@@ -11,7 +11,7 @@ of guardians and nestors. Torpedoes go brrrrr
 ## Fit
 
 ```
-[Typhoon Fleet Issue, [NVY-30] Torpedo Typhoon Fleet Issue]
+[Typhoon Fleet Issue, [ADV-30] Torpedo Typhoon Fleet Issue]
 
 Imperial Navy 1600mm Steel Plates
 Imperial Navy 1600mm Steel Plates
