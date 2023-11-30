@@ -32,4 +32,6 @@ Light Shield Maintenance Bot I x1
 Medium Shield Maintenance Bot I x4
 
 Standard Mindflood Booster x1
+100MN Monopropellant Enduring Afterburner x1
+Medium Asymmetric Enduring Remote Shield Booster x4
 ```
