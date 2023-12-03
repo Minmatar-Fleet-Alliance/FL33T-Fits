@@ -4,9 +4,9 @@ Intermediate level shield battlecruiser
 ## Description
 The bread and butter of the militia. The Cyclone Fleet Issue has a wide engagement range, from battlecruisers to T3Cs. The majority of our medium scale fleets are with the Cyclone Fleet Issue. 
 
-The default fit is HAM with maximum tank, having multiple fleet members refit to scrambler and webifier. HML is an alternate option for larger engagements where projection is king, allowing us to engage a wider range of compositions without feeding the entire fleet.
+The default fit is HML with maximum tank and 50mn, sometimes having multiple fleet members refit to disruptor and webifier. 100mn is an alternate option for larger engagements where signature-tanking is king, allowing us to engage a wider range of compositions (such as Battleships) without feeding the entire fleet. For 100mn refit, offline the neuts and swap the T2 Drone link to two T1.
 
-Best paired with the Osprey or Scimitar, with multiple recons and support cruisers. 
+Best paired with the Scythe or Scimitar, with multiple recons and support cruisers. 
 
 ## Fit
 ```
@@ -50,6 +50,5 @@ Caldari Navy Scourge Heavy Missile x1200
 Nanite Repair Paste x50
 X5 Enduring Stasis Webifier x1
 Faint Scoped Warp Disruptor x1
-Warp Scrambler II x1
 Drone Link Augmentor I x2
 ```
