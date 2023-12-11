@@ -21,7 +21,7 @@ Small Ancillary Armor Repairer
 Faint Epsilon Scoped Warp Scrambler
 Warp Disruptor II
 
-Core Probe Launcher II, Sisters Core Scanner Probe
+Core Probe Launcher II
 [Empty High slot]
 Small Knave Scoped Energy Nosferatu
 
