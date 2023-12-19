@@ -1,4 +1,4 @@
-# Curse
+# Basilisk
 Advanced shield logistics
 
 ## Description
