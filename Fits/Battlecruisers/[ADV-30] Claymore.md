@@ -13,52 +13,57 @@ adding more Cap boosters/Missile before undocking once you take out the unused l
 ## Fit
 
 ```
-[Claymore, [ADV-30] Claymore]
+[Claymore, [ADV-30] Command Claymore]
 
 Damage Control II
-Ballistic Control System II
-Ballistic Control System II
 Nanofiber Internal Structure II
+Power Diagnostic System II
+Reactor Control Unit II
 
-50MN Cold-Gas Enduring Microwarpdrive
-Caldari Navy Large Shield Extender
-Caldari Navy Large Shield Extender
-Caldari Navy Large Shield Extender
-Small Capacitor Booster II
+50MN Quad LiF Restrained Microwarpdrive
+Republic Fleet Large Shield Extender
+Republic Fleet Large Shield Extender
+Republic Fleet Large Shield Extender
+Multispectrum Shield Hardener II
 Multispectrum Shield Hardener II
 
 Heavy Missile Launcher II
 Heavy Missile Launcher II
 Heavy Missile Launcher II
+Heavy Missile Launcher II
 Shield Command Burst II
 Shield Command Burst II
-Heavy Missile Launcher II
-Heavy Missile Launcher II
+Shield Command Burst II
+
+Medium Polycarbon Engine Housing II
+Medium Command Processor I
 
 
-Medium Core Defense Field Extender II
-Medium Core Defense Field Extender II
+Acolyte II x8
+Hornet EC-300 x7
 
 
-Acolyte II x5
-Vespa EC-600 x5
-
-
-Inferno Fury Heavy Missile x1000
-Scourge Fury Heavy Missile x1000
-Navy Cap Booster 400 x11
-Caldari Navy Inferno Heavy Missile x1000
-Caldari Navy Mjolnir Heavy Missile x1000
-Caldari Navy Scourge Heavy Missile x1000
-Electronic Hardening Charge x600
-Electronic Superiority Charge x600
-Sensor Optimization Charge x600
-Active Shielding Charge x600
-Shield Extension Charge x600
-Shield Harmonizing Charge x600
-Evasive Maneuvers Charge x600
-Interdiction Maneuvers Charge x600
-Rapid Deployment Charge x600
-Information Command Burst II x2
-Skirmish Command Burst II x2
+Inferno Fury Heavy Missile x2400
+Mjolnir Fury Heavy Missile x1200
+Nova Fury Heavy Missile x1200
+Scourge Fury Heavy Missile x2400
+Caldari Navy Inferno Heavy Missile x1200
+Caldari Navy Mjolnir Heavy Missile x1200
+Caldari Navy Nova Heavy Missile x1200
+Caldari Navy Scourge Heavy Missile x1200
+Electronic Hardening Charge x1
+Electronic Superiority Charge x1000
+Sensor Optimization Charge x1000
+Nanite Repair Paste x50
+Active Shielding Charge x1000
+Shield Extension Charge x1000
+Shield Harmonizing Charge x1000
+Evasive Maneuvers Charge x1000
+Interdiction Maneuvers Charge x1000
+Rapid Deployment Charge x1000
+Synth Crash Booster x2
+Republic Fleet Large Cap Battery x1
+Mark I Compact Power Diagnostic System x1
+Shadow Serpentis 100MN Afterburner x1
+Warp Disruptor II x1
 ```
