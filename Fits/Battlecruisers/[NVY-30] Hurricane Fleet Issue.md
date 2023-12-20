@@ -45,5 +45,7 @@ Republic Fleet EMP M x1500
 Republic Fleet Fusion M x1500
 Republic Fleet Phased Plasma M x1500
 Republic Fleet Titanium Sabot M x1000
+Medium Gremlin Compact Energy Neutralizer x1
+425mm Medium 'Scout' Autocannon I x6
 720mm 'Scout' Artillery I x6
 ```

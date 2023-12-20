@@ -13,30 +13,31 @@ Power Diagnostic System II
 Power Diagnostic System II
 Power Diagnostic System II
 
-Multispectrum Shield Hardener II
-Large Shield Extender II
-EM Shield Hardener II
-Large Shield Extender II
-Pith X-Type Thermal Shield Hardener
 50MN Quad LiF Restrained Microwarpdrive
+Caldari Navy Large Shield Extender
+Caldari Navy Large Shield Extender
+Multispectrum Shield Hardener II
+Thermal Shield Hardener II
+EM Shield Hardener II
 
-Medium Energy Nosferatu II
-Medium Energy Nosferatu II
+True Sansha Medium Energy Nosferatu
+True Sansha Medium Energy Nosferatu
 Medium Energy Neutralizer II
 Medium Energy Neutralizer II
-Small Energy Neutralizer II
+Medium Energy Neutralizer II
 
 Medium Core Defense Field Extender II
 Medium Core Defense Field Extender II
 
 
+Acolyte II x5
+Acolyte II x3
 Hammerhead II x5
-Valkyrie II x5
-Vespa EC-600 x5
-
-
-Standard Mindflood Booster
+Hammerhead II x2
+Hornet EC-300 x5
+Hornet EC-300 x3
 
 
 Nanite Repair Paste x50
+Standard Mindflood Booster x2
 ```

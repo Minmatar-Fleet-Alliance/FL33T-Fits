@@ -8,23 +8,23 @@ Arty-based advanced battlecruiser for skirmish fights.
 ```
 [Sleipnir, [ADV-30] Sleipnir]
 
-Gyrostabilizer II
-Gyrostabilizer II
-Gyrostabilizer II
 Damage Control II
 Tracking Enhancer II
+Gyrostabilizer II
+Gyrostabilizer II
+Gyrostabilizer II
 
-Multispectrum Shield Hardener II
-Large Shield Extender II
-Multispectrum Shield Hardener II
-Large Shield Extender II
 50MN Quad LiF Restrained Microwarpdrive
+Large Shield Extender II
+Large Shield Extender II
+Multispectrum Shield Hardener II
+Multispectrum Shield Hardener II
 
-720mm Howitzer Artillery II, Republic Fleet Phased Plasma M
-720mm Howitzer Artillery II, Republic Fleet Phased Plasma M
-720mm Howitzer Artillery II, Republic Fleet Phased Plasma M
-720mm Howitzer Artillery II, Republic Fleet Phased Plasma M
-720mm Howitzer Artillery II, Republic Fleet Phased Plasma M
+720mm Howitzer Artillery II
+720mm Howitzer Artillery II
+720mm Howitzer Artillery II
+720mm Howitzer Artillery II
+720mm Howitzer Artillery II
 Small Energy Neutralizer II
 Small Energy Neutralizer II
 
@@ -32,19 +32,23 @@ Medium Core Defense Field Extender II
 Medium Core Defense Field Extender II
 
 
-Warrior II x5
+Acolyte II x5
 
 
-Agency 'Pyrolancea' DB3 Dose I
-
-
-Tremor M x1000
-Hail M x5000
-Republic Fleet Depleted Uranium M x1500
-Republic Fleet EMP M x1500
-Republic Fleet Phased Plasma M x1500
-Republic Fleet Titanium Sabot M x1500
-Drone Link Augmentor I x2
-Medium Infectious Scoped Energy Neutralizer x2
+Quake M x1000
+Tremor M x2000
+Barrage M x2000
+Hail M x2000
+Nanite Repair Paste x100
+Republic Fleet Depleted Uranium M x2000
+Republic Fleet EMP M x2000
+Republic Fleet Fusion M x2000
+Republic Fleet Phased Plasma M x2000
+Republic Fleet Titanium Sabot M x2000
+Agency 'Pyrolancea' DB3 Dose I x1
+Synth Drop Booster x1
+Medium Energy Neutralizer II x2
 425mm AutoCannon II x5
+425mm Medium 'Scout' Autocannon I x6
+720mm 'Scout' Artillery I x6
 ```

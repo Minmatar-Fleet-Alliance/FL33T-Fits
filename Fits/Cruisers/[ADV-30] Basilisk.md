@@ -11,16 +11,16 @@ Shield logistics cruiser with capacitor chain
 Damage Control II
 Signal Amplifier II
 
-EM Shield Hardener II
-Multispectrum Shield Hardener II
-Multispectrum Shield Hardener II
-Republic Fleet Large Shield Extender
 50MN Quad LiF Restrained Microwarpdrive
+Republic Fleet Large Shield Extender
+Multispectrum Shield Hardener II
+Multispectrum Shield Hardener II
+EM Shield Hardener II
 
 Large Remote Shield Booster II
 Large Remote Shield Booster II
 Large Murky Compact Remote Shield Booster
-Medium Remote Shield Booster II
+Pithum C-Type Medium Remote Shield Booster
 Large Inductive Compact Remote Capacitor Transmitter
 Large Inductive Compact Remote Capacitor Transmitter
 
@@ -28,5 +28,9 @@ Medium Core Defense Field Extender II
 Medium Core Defense Field Extender II
 
 
-Warrior II x5
+Acolyte II x5
+
+
+Nanite Repair Paste x100
+Standard Mindflood Booster x2
 ```
