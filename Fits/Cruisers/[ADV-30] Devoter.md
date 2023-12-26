@@ -12,23 +12,23 @@ Important: Warp disruption scripts will shut down a microjumpdrive, and these ar
 ```
 [Devoter, [ADV-30] Devoter]
 
-Damage Control II
-1600mm Steel Plates II
-1600mm Steel Plates II
-Multispectrum Energized Membrane II
-Multispectrum Energized Membrane II
-Centum C-Type EM Energized Membrane
 Centum C-Type Thermal Energized Membrane
+Centum C-Type EM Energized Membrane
+Multispectrum Energized Membrane II
+Multispectrum Energized Membrane II
+1600mm Steel Plates II
+1600mm Steel Plates II
+Damage Control II
 
 50MN Y-T8 Compact Microwarpdrive
 Medium F-RX Compact Capacitor Booster
 Sensor Booster II
 
 M-36 Enduring Warp Disruption Field Generator
-125mm Gatling AutoCannon II
+[Empty High slot]
 Small Knave Scoped Energy Nosferatu
 Small Knave Scoped Energy Nosferatu
-Small Knave Scoped Energy Nosferatu
+[Empty High slot]
 M-36 Enduring Warp Disruption Field Generator
 
 Medium Trimark Armor Pump II
@@ -39,14 +39,12 @@ Acolyte II x5
 Hornet EC-300 x5
 
 
-Hail S x1500
-Navy Cap Booster 400 x28
-Nanite Repair Paste x75
+Agency 'Overclocker' SB5 Dose II x1
+Standard Mindflood Booster x1
+Navy Cap Booster 400 x25
 ECCM Script x1
 Scan Resolution Script x1
 Targeting Range Script x1
 Focused Warp Disruption Script x2
 Focused Warp Scrambling Script x2
-Standard Mindflood Booster x1
-Agency 'Overclocker' SB5 Dose II x1
 ```
