@@ -16,44 +16,41 @@ effectively with the FCs and broadcast targets that it caught.
 ```
 [Vindicator, [ADV-30] Vindicator]
 
+Core C-Type Explosive Armor Hardener
 Damage Control II
 Imperial Navy 1600mm Steel Plates
 Imperial Navy 1600mm Steel Plates
-Centum C-Type Multispectrum Energized Membrane
-Centum C-Type Multispectrum Energized Membrane
-Corpum A-Type Explosive Energized Membrane
+Imperial Navy Multispectrum Energized Membrane
+Imperial Navy Multispectrum Energized Membrane
 Reactive Armor Hardener
 
 500MN Quad LiF Restrained Microwarpdrive
+Sensor Booster II
+Federation Navy Stasis Webifier
 Heavy Capacitor Booster II
-Signature Radius Suppressor I
-Federation Navy Stasis Webifier
 Federation Navy Stasis Webifier
 
 Neutron Blaster Cannon II
 Neutron Blaster Cannon II
 Neutron Blaster Cannon II
 Neutron Blaster Cannon II
-Corpum A-Type Medium Energy Nosferatu
 Neutron Blaster Cannon II
 Neutron Blaster Cannon II
 Neutron Blaster Cannon II
+Neutron Blaster Cannon II
 
-Large Trimark Armor Pump II
-Large Trimark Armor Pump II
-Large Trimark Armor Pump II
-
-
-Wasp II x5
+Large Trimark Armor Pump I
+Large Trimark Armor Pump I
+Large Trimark Armor Pump I
 
 
-Null L x2000
-Void L x2000
-Navy Cap Booster 800 x27
-Caldari Navy Antimatter Charge L x2000
-Nanite Repair Paste x75
+Federation Navy Ogre x5
+
 ECCM Script x1
 Scan Resolution Script x1
 Targeting Range Script x1
-Sensor Booster II x1
+Null L x2000
+Void L x2000
+Caldari Navy Antimatter Charge L x2000
+Navy Cap Booster 3200 x7
 ```
