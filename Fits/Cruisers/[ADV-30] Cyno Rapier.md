@@ -1,24 +1,24 @@
-# Arazu
+# Rapier
 
-Utility ship
+Utility
 
 ## Description
 
-Placeholder description
+Placeholder
 
 ## Fit
 ```
-[Arazu, [X] Cyno]
+[Rapier, [ADV-30] Cyno Rapier]
 
 Damage Control II
+Co-Processor II
 Power Diagnostic System II
-Co-Processor II
-Co-Processor II
+Power Diagnostic System II
 
 50MN Quad LiF Restrained Microwarpdrive
 Large Shield Extender II
 Large Shield Extender II
-Large Azeotropic Restrained Shield Extender
+Large Shield Extender II
 Multispectrum Shield Hardener II
 Multispectrum Shield Hardener II
 
@@ -39,6 +39,6 @@ Nanite Repair Paste x50
 Sisters Combat Scanner Probe x8
 Sisters Core Scanner Probe x8
 Liquid Ozone x250
+Stasis Webifier II x1
 Warp Disruptor II x1
-Warp Scrambler II x1
 ```
