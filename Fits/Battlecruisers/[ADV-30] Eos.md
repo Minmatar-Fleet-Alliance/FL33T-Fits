@@ -14,12 +14,12 @@ reaching to that fit.
 [Eos, [ADV-30] Eos]
 
 Damage Control II
-Federation Navy 1600mm Steel Plates
-Federation Navy 1600mm Steel Plates
+Imperial Navy 1600mm Steel Plates
+Imperial Navy 1600mm Steel Plates
 Imperial Navy Multispectrum Energized Membrane
-Corpum A-Type Explosive Energized Membrane
+Corpum C-Type Explosive Energized Membrane
 Reactive Armor Hardener
-Caldari Navy Power Diagnostic System
+Reactor Control Unit II
 
 50MN Quad LiF Restrained Microwarpdrive
 Sensor Booster II

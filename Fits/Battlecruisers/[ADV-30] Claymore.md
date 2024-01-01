@@ -13,29 +13,29 @@ adding more Cap boosters/Missile before undocking once you take out the unused l
 ## Fit
 
 ```
-[Claymore, [ADV-30] Command Claymore]
+[Claymore, [ADV-30] Claymore]
 
 Damage Control II
+Overdrive Injector System II
 Nanofiber Internal Structure II
-Power Diagnostic System II
-Reactor Control Unit II
+Nanofiber Internal Structure II
 
-50MN Quad LiF Restrained Microwarpdrive
+Federation Navy 100MN Afterburner
 Republic Fleet Large Shield Extender
 Republic Fleet Large Shield Extender
-Republic Fleet Large Shield Extender
+Medium Capacitor Booster II, Navy Cap Booster 400
 Multispectrum Shield Hardener II
 Multispectrum Shield Hardener II
 
-Heavy Missile Launcher II
-Heavy Missile Launcher II
-Heavy Missile Launcher II
-Heavy Missile Launcher II
-Shield Command Burst II
-Shield Command Burst II
-Shield Command Burst II
+Shield Command Burst II, Active Shielding Charge
+Shield Command Burst II, Shield Extension Charge
+Shield Command Burst II, Shield Harmonizing Charge
+200mm AutoCannon II
+[Empty High slot]
+[Empty High slot]
+[Empty High slot]
 
-Medium Polycarbon Engine Housing II
+Medium Core Defense Field Extender II
 Medium Command Processor I
 
 
@@ -43,15 +43,9 @@ Acolyte II x8
 Hornet EC-300 x7
 
 
-Inferno Fury Heavy Missile x2400
-Mjolnir Fury Heavy Missile x1200
-Nova Fury Heavy Missile x1200
-Scourge Fury Heavy Missile x2400
-Caldari Navy Inferno Heavy Missile x1200
-Caldari Navy Mjolnir Heavy Missile x1200
-Caldari Navy Nova Heavy Missile x1200
-Caldari Navy Scourge Heavy Missile x1200
-Electronic Hardening Charge x1
+Barrage S x1000
+Navy Cap Booster 400 x25
+Electronic Hardening Charge x1000
 Electronic Superiority Charge x1000
 Sensor Optimization Charge x1000
 Nanite Repair Paste x50
@@ -61,9 +55,6 @@ Shield Harmonizing Charge x1000
 Evasive Maneuvers Charge x1000
 Interdiction Maneuvers Charge x1000
 Rapid Deployment Charge x1000
-Synth Crash Booster x2
-Republic Fleet Large Cap Battery x1
-Mark I Compact Power Diagnostic System x1
-Shadow Serpentis 100MN Afterburner x1
-Warp Disruptor II x1
+Power Diagnostic System II x3
+50MN Quad LiF Restrained Microwarpdrive x1
 ```

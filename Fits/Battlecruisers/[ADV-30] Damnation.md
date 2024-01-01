@@ -14,10 +14,10 @@ reaching to that fit.
 [Damnation, [ADV-30] Damnation]
 
 Damage Control II
-Federation Navy 1600mm Steel Plates
-Federation Navy 1600mm Steel Plates
+1600mm Steel Plates II
+1600mm Steel Plates II
 Imperial Navy Multispectrum Energized Membrane
-Corpum A-Type Thermal Energized Membrane
+Corpum C-Type Thermal Energized Membrane
 Reactive Armor Hardener
 
 50MN Quad LiF Restrained Microwarpdrive

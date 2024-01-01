@@ -10,45 +10,49 @@ Best paired with the Scythe or Scimitar, with multiple recons and support cruise
 
 ## Fit
 ```
-[Cyclone Fleet Issue, [NVY-30] Cyclone Fleet Issue]
+[Cyclone Fleet Issue, [ADV-30] Cyclone Fleet Issue]
 
 Damage Control II
-Signal Amplifier II
-Ballistic Control System II
+Nanofiber Internal Structure II
+Nanofiber Internal Structure II
 Ballistic Control System II
 Ballistic Control System II
 
-50MN Cold-Gas Enduring Microwarpdrive
+100MN Afterburner II
 Large Shield Extender II
 Large Shield Extender II
 Multispectrum Shield Hardener II
 Multispectrum Shield Hardener II
 
-Heavy Missile Launcher II
-Heavy Missile Launcher II
-Heavy Missile Launcher II
+Heavy Missile Launcher II, Caldari Navy Scourge Heavy Missile
+Heavy Missile Launcher II, Caldari Navy Scourge Heavy Missile
+Heavy Missile Launcher II, Caldari Navy Scourge Heavy Missile
+Heavy Missile Launcher II, Caldari Navy Scourge Heavy Missile
+Heavy Missile Launcher II, Caldari Navy Scourge Heavy Missile
+Heavy Missile Launcher II, Caldari Navy Scourge Heavy Missile
 Drone Link Augmentor II
-Medium Energy Neutralizer II
-Heavy Missile Launcher II
-Heavy Missile Launcher II
-Heavy Missile Launcher II
+Drone Link Augmentor II
 
 Medium EM Shield Reinforcer II
 Medium Thermal Shield Reinforcer II
-Medium Core Defense Field Extender I
+Medium Hydraulic Bay Thrusters II
 
 
-Warrior II x5
+Acolyte II x5
 Hornet EC-300 x5
 
 
-100MN Monopropellant Enduring Afterburner x1
+Inferno Fury Heavy Missile x2400
+Mjolnir Fury Heavy Missile x1200
+Nova Fury Heavy Missile x1200
+Scourge Fury Heavy Missile x2400
 Caldari Navy Inferno Heavy Missile x1200
 Caldari Navy Mjolnir Heavy Missile x1200
 Caldari Navy Nova Heavy Missile x1200
 Caldari Navy Scourge Heavy Missile x1200
 Nanite Repair Paste x50
-X5 Enduring Stasis Webifier x1
-Faint Scoped Warp Disruptor x1
-Drone Link Augmentor I x2
+Small Energy Neutralizer II x1
+50MN Quad LiF Restrained Microwarpdrive x1
+Target Painter II x1
+Warp Disruptor II x1
 ```

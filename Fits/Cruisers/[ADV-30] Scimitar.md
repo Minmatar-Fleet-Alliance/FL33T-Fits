@@ -13,25 +13,29 @@ Power Diagnostic System II
 Power Diagnostic System II
 Damage Control II
 
-50MN Quad LiF Restrained Microwarpdrive
+100MN Y-S8 Compact Afterburner
 Large Shield Extender II
 Large Shield Extender II
 Multispectrum Shield Hardener II
 Multispectrum Shield Hardener II
 
-Large Asymmetric Enduring Remote Shield Booster
-Medium Remote Shield Booster II
-Medium Remote Shield Booster II
-Medium Remote Shield Booster II
+Pithum C-Type Medium Remote Shield Booster
+Pithum C-Type Medium Remote Shield Booster
+Pithum C-Type Medium Remote Shield Booster
+Pithum C-Type Medium Remote Shield Booster
 
-Medium Core Defense Field Extender II
+Medium Capacitor Control Circuit II
 Medium Core Defense Field Extender II
 
 
 Light Shield Maintenance Bot I x1
 Medium Shield Maintenance Bot I x4
 
+
+Standard Mindflood Booster
+
+
+Nanite Repair Paste x50
 Standard Mindflood Booster x1
-100MN Monopropellant Enduring Afterburner x1
-Medium Asymmetric Enduring Remote Shield Booster x4
+50MN Quad LiF Restrained Microwarpdrive x1
 ```
