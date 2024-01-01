@@ -11,53 +11,73 @@ This is a fleet armor Tempest Fleet Issue with both armor brawling and a sniping
 ```
 [Tempest Fleet Issue, [ADV-30] Tempest Fleet Issue]
 
+Damage Control II
 Imperial Navy 1600mm Steel Plates
 Imperial Navy 1600mm Steel Plates
 Imperial Navy Multispectrum Energized Membrane
-Damage Control II
-Corpum C-Type Thermal Energized Membrane
-Corpum C-Type Kinetic Energized Membrane
 Corpus X-Type Explosive Armor Hardener
+Centum B-Type Kinetic Energized Membrane
+Corpum C-Type Thermal Energized Membrane
 
 100MN Afterburner II
-Medium Capacitor Booster II
-Warp Disruptor II
-Ladar ECM II
-Ladar ECM II
+Large Micro Jump Drive
+Heavy F-RX Compact Capacitor Booster
+Stasis Webifier II
+Warp Scrambler II
 
+800mm Repeating Cannon II
 800mm Repeating Cannon II
 800mm Repeating Cannon II
 Heavy Infectious Scoped Energy Neutralizer
-800mm Repeating Cannon II
-800mm Repeating Cannon II
 Heavy Infectious Scoped Energy Neutralizer
 800mm Repeating Cannon II
 800mm Repeating Cannon II
+800mm Repeating Cannon II
 
 Large Trimark Armor Pump I
 Large Trimark Armor Pump I
 Large Trimark Armor Pump I
 
 
-Republic Fleet Bouncer x3
+Acolyte II x5
+Hammerhead II x5
 Hornet EC-300 x5
 
 
-Barrage L x2000
+Quake L x1000
+Tremor L x1000
+Barrage L x1000
 Hail L x2000
+Navy Cap Booster 800 x10
+Missile Precision Disruption Script x2
+Missile Range Disruption Script x2
+Nanite Repair Paste x75
 Republic Fleet Depleted Uranium L x1000
-Republic Fleet EMP L x2000
-Republic Fleet Fusion L x2000
-Republic Fleet Phased Plasma L x2000
-Tracking Computer II x2
+Republic Fleet EMP L x1000
+Republic Fleet Fusion L x1000
+Republic Fleet Phased Plasma L x1000
+ECCM Script x1
+Scan Resolution Script x1
+Targeting Range Script x1
+Scan Resolution Dampening Script x2
+Targeting Range Dampening Script x2
+Optimal Range Disruption Script x2
+Tracking Speed Disruption Script x2
 Optimal Range Script x2
 Tracking Speed Script x2
-Targeting Range Dampening Script x2
+Agency 'Pyrolancea' DB3 Dose I x2
+Drone Link Augmentor I x2
+Gravimetric ECM II x2
+Ladar ECM II x2
+Magnetometric ECM II x2
 Radar ECM II x2
-Remote Sensor Dampener II x2
-Phased Scoped Target Painter x1
-Warp Scrambler II x1
-Stasis Webifier II x1
 1400mm Howitzer Artillery II x6
-Navy Cap Booster 400 x25
+500MN Quad LiF Restrained Microwarpdrive x1
+Sensor Booster II x1
+Remote Sensor Dampener II x2
+Signature Radius Suppressor I x1
+Heavy Jigoro Enduring Stasis Grappler x1
+Tracking Computer II x2
+Guidance Disruptor II x2
+Tracking Disruptor II x2
 ```
