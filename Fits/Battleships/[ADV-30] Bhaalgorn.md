@@ -12,42 +12,48 @@ The strongest neuting ship in the game, the Bhaalgorn can both severely disrupt 
 ```
 [Bhaalgorn, [ADV-30] Bhaalgorn]
 
-Signal Amplifier II
-Imperial Navy 1600mm Steel Plates
 Damage Control II
-Imperial Navy Multispectrum Energized Membrane
-Imperial Navy Multispectrum Energized Membrane
 Imperial Navy 1600mm Steel Plates
+Imperial Navy 1600mm Steel Plates
+Imperial Navy Multispectrum Energized Membrane
+Corpus A-Type Explosive Armor Hardener
+Corpus A-Type Kinetic Armor Hardener
 Reactive Armor Hardener
 
 500MN Quad LiF Restrained Microwarpdrive
-Thukker Large Cap Battery
 Heavy Capacitor Booster II
+Republic Fleet Large Cap Battery
+Federation Navy Stasis Webifier
 Sensor Booster II
-Sensor Booster II
 
-Heavy Energy Nosferatu II
-Heavy Energy Nosferatu II
-Heavy Energy Nosferatu II
-Heavy Energy Nosferatu II
+Corpus B-Type Heavy Energy Nosferatu
+Corpus B-Type Heavy Energy Nosferatu
+Corpus B-Type Heavy Energy Nosferatu
 Heavy Energy Neutralizer II
 Heavy Energy Neutralizer II
 Heavy Energy Neutralizer II
+Heavy Energy Neutralizer II
 
-Large Trimark Armor Pump I
-Large Trimark Armor Pump I
-Large Trimark Armor Pump I
+Large Trimark Armor Pump II
+Large Trimark Armor Pump II
+Large Trimark Armor Pump II
 
 
-Warrior II x5
+Acolyte II x5
+Acolyte II x2
 Infiltrator II x5
-Valkyrie II x5
+Infiltrator II x2
 Hornet EC-300 x5
+Hornet EC-300 x2
 
 
-Navy Cap Booster 3200 x8
+Navy Cap Booster 800 x34
+Nanite Repair Paste x75
 ECCM Script x2
 Scan Resolution Script x2
 Targeting Range Script x2
-Federation Navy Stasis Webifier x1
+Sensor Booster II x1
+Ship Scanner II x1
+Signature Radius Suppressor I x1
+Stasis Webifier II x1
 ```

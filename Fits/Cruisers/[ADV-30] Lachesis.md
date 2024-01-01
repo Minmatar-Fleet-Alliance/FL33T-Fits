@@ -13,28 +13,31 @@ Max tank cause those will often be primaried on field.
 [Lachesis, [ADV-30] Lachesis]
 
 Damage Control II
-Capacitor Power Relay II
-Capacitor Power Relay II
+Power Diagnostic System II
+Power Diagnostic System II
 Power Diagnostic System II
 
 50MN Quad LiF Restrained Microwarpdrive
-EM Shield Amplifier II
-Republic Fleet Large Shield Extender
-Republic Fleet Large Shield Extender
+Large Shield Extender II
+Large Shield Extender II
 Multispectrum Shield Hardener II
 Multispectrum Shield Hardener II
-Warp Disruptor II
+Pithum C-Type EM Shield Amplifier
+Shadow Serpentis Warp Disruptor
 
-Medium EMP Smartbomb II
-Medium EMP Smartbomb II
-Medium EMP Smartbomb II
-[Empty High slot]
+Medium 'Vehemence' Shockwave Charge
+Medium 'Vehemence' Shockwave Charge
+Drone Link Augmentor I
+125mm Gatling AutoCannon II
 
 Medium EM Shield Reinforcer II
 Medium Core Defense Field Extender II
 
 
-Acolyte II x5
-Hornet EC-300 x5
+Valkyrie II x5
+
+
+Nanite Repair Paste x50
+Standard Mindflood Booster x2
 100MN Monopropellant Enduring Afterburner x1
 ```

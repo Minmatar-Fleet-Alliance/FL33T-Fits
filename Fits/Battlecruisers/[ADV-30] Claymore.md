@@ -20,7 +20,7 @@ Overdrive Injector System II
 Nanofiber Internal Structure II
 Nanofiber Internal Structure II
 
-Federation Navy 100MN Afterburner
+50MN Quad LiF Restrained Microwarpdrive
 Republic Fleet Large Shield Extender
 Republic Fleet Large Shield Extender
 Medium Capacitor Booster II, Navy Cap Booster 400
@@ -56,5 +56,5 @@ Evasive Maneuvers Charge x1000
 Interdiction Maneuvers Charge x1000
 Rapid Deployment Charge x1000
 Power Diagnostic System II x3
-50MN Quad LiF Restrained Microwarpdrive x1
+Federation Navy 100MN Afterburner x1
 ```
