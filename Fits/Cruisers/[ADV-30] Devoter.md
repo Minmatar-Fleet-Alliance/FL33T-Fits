@@ -10,7 +10,7 @@ Important: Warp disruption scripts will shut down a microjumpdrive, and these ar
 ## Fit
 
 ```
-[Devoter, HA Devoter]
+[Devoter, [ADV-30] Devoter]
 
 Damage Control II
 1600mm Steel Plates II
