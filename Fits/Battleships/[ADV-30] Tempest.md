@@ -23,7 +23,7 @@ Warp Scrambler II
 X5 Enduring Stasis Webifier
 Large Micro Jump Drive
 Medium Capacitor Booster II, Navy Cap Booster 400
-100MN Afterburner II
+500MN Quad LiF Restrained Microwarpdrive
 
 800mm Repeating Cannon II, Republic Fleet Fusion L
 800mm Repeating Cannon II, Republic Fleet Fusion L
@@ -65,7 +65,7 @@ Gloom Enduring Radar ECM x2
 Languid Enduring Ladar ECM x2
 Morpheus Enduring Magnetometric ECM x2
 1400mm 'Scout' Artillery I x6
-500MN Quad LiF Restrained Microwarpdrive x1
+100MN Afterburner II x1
 Sensor Booster II x1
 Phased Muon Scoped Sensor Dampener x2
 Signature Radius Suppressor I x1

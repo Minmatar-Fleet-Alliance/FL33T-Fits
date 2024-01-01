@@ -4,12 +4,12 @@ Heavy Armor Battleship for maximum escalation
 
 ## Description
 
-Heavy response battleship with long range refits. Flash form defaults to generic mids, but typically we will be refitting mids to 2x EWAR and 100mn AB. 
+Artillery refit
 
 ## Fit
 
 ```
-[Tempest Fleet Issue, [ADV-30] Tempest Fleet Issue]
+[Tempest Fleet Issue, [ADV-30] TFI Refit]
 
 Damage Control II
 Imperial Navy 1600mm Steel Plates
@@ -19,20 +19,20 @@ Corpus X-Type Explosive Armor Hardener
 Centum B-Type Kinetic Energized Membrane
 Corpum C-Type Thermal Energized Membrane
 
-500MN Quad LiF Restrained Microwarpdrive
-Heavy F-RX Compact Capacitor Booster
-Stasis Webifier II
-Warp Scrambler II
-Warp Disruptor II
+100MN Afterburner II
+Medium F-RX Compact Capacitor Booster
+Signature Radius Suppressor I
+Sensor Booster II
+Tracking Computer II
 
-800mm Repeating Cannon II
-800mm Repeating Cannon II
-800mm Repeating Cannon II
-Heavy Infectious Scoped Energy Neutralizer
-Heavy Infectious Scoped Energy Neutralizer
-800mm Repeating Cannon II
-800mm Repeating Cannon II
-800mm Repeating Cannon II
+1400mm Howitzer Artillery II, Tremor L
+1400mm Howitzer Artillery II, Tremor L
+1400mm Howitzer Artillery II, Tremor L
+Drone Link Augmentor I
+Drone Link Augmentor I
+1400mm Howitzer Artillery II, Tremor L
+1400mm Howitzer Artillery II, Tremor L
+1400mm Howitzer Artillery II, Tremor L
 
 Large Trimark Armor Pump I
 Large Trimark Armor Pump I
@@ -66,18 +66,19 @@ Tracking Speed Disruption Script x2
 Optimal Range Script x2
 Tracking Speed Script x2
 Agency 'Pyrolancea' DB3 Dose I x2
-Medium F-RX Compact Capacitor Booster x1
-Drone Link Augmentor I x2
+Heavy F-RX Compact Capacitor Booster x1
 Gravimetric ECM II x2
 Ladar ECM II x2
 Magnetometric ECM II x2
 Radar ECM II x2
-1400mm Howitzer Artillery II x6
-100MN Afterburner II x1
-Sensor Booster II x1
+Heavy Infectious Scoped Energy Neutralizer x2
+800mm Repeating Cannon II x6
+500MN Quad LiF Restrained Microwarpdrive x1
 Remote Sensor Dampener II x2
-Signature Radius Suppressor I x1
-Tracking Computer II x2
+Stasis Webifier II x1
+Tracking Computer II x1
+Warp Disruptor II x1
+Warp Scrambler II x1
 Guidance Disruptor II x2
 Tracking Disruptor II x2
 ```
