@@ -8,25 +8,26 @@ Used to provide high DPS against other capital ships.  Highly ineffective for us
 
 ## Fit
 ```
-[Phoenix, T2 Anti-Cap Phoenix]
-Ballistic Control System II
-Ballistic Control System II
-Ballistic Control System II
-Reactor Control Unit II
-Damage Control II
+[Phoenix, Anti-Cap Phoenix V2]
 
-Multispectrum Shield Hardener II
+Damage Control II
+Missile Guidance Enhancer II
+Ballistic Control System II
+Ballistic Control System II
+Ballistic Control System II
+
+Pithum C-Type Multispectrum Shield Hardener
 Capital F-S9 Regolith Compact Shield Extender
-Capital Capacitor Booster II
+Pithum C-Type Multispectrum Shield Hardener
 Capital F-S9 Regolith Compact Shield Extender
-Pith C-Type EM Shield Hardener
-Multispectrum Shield Hardener II
-Capital F-S9 Regolith Compact Shield Extender
+Capital F-RX Compact Capacitor Booster
+Pith X-Type Thermal Shield Hardener
+Gist X-Type EM Shield Hardener
 
 XL Torpedo Launcher II
 Siege Module II
 XL Torpedo Launcher II
-Capital Gremlin Compact Energy Neutralizer
+Capital Infectious Scoped Energy Neutralizer
 XL Torpedo Launcher II
 
 Capital Core Defense Field Extender I
@@ -34,17 +35,18 @@ Capital Core Defense Field Extender I
 Capital Core Defense Field Extender I
 
 
-
-Guristas Nova XL Torpedo x1000
-Guristas Inferno XL Torpedo x1000
-Guristas Scourge XL Torpedo x1000
-Guristas Mjolnir XL Torpedo x1000
-Mjolnir Javelin XL Torpedo x1000
-Nova Javelin XL Torpedo x1000
-Mjolnir Rage XL Torpedo x1000
-Nova Rage XL Torpedo x1000
-Synth Crash Booster x2
+Inferno Javelin XL Torpedo x600
+Inferno Rage XL Torpedo x600
+Mjolnir Javelin XL Torpedo x600
+Mjolnir Rage XL Torpedo x600
+Nova Javelin XL Torpedo x600
+Nova Rage XL Torpedo x600
+Scourge Javelin XL Torpedo x600
+Scourge Rage XL Torpedo x600
+Navy Cap Booster 3200 x13
+Nanite Repair Paste x250
 Agency 'Pyrolancea' DB5 Dose II x2
-Heavy Warp Scrambler I x1
-
+Synth Crash Booster x2
+Zainou 'Deadeye' Rapid Launch RL-1003 x1
+Zainou 'Gnome' Shield Management SM-703 x1
 ```

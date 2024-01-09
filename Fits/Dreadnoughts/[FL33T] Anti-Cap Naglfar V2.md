@@ -8,26 +8,26 @@ Used to provide high DPS against other capital ships.  Highly ineffective for us
 
 ## Fit
 ```
-[Naglfar, T2 Anti-Cap Naglfar]
+[Naglfar, Anti-Cap Naglfar V2]
 
-Gyrostabilizer II
-Gyrostabilizer II
-Gyrostabilizer II
-Reactor Control Unit II
-Tracking Enhancer II
 Damage Control II
+Gyrostabilizer II
+Gyrostabilizer II
+Gyrostabilizer II
+Gyrostabilizer II
+Tracking Enhancer II
 
-Multispectrum Shield Hardener II
-Capital Shield Extender II
-Capital Capacitor Booster II
-Capital Shield Extender II
-Pith C-Type EM Shield Hardener
-Multispectrum Shield Hardener II
+Pithum C-Type Multispectrum Shield Hardener
+Capital F-S9 Regolith Compact Shield Extender
+Gist X-Type EM Shield Hardener
+Capital F-S9 Regolith Compact Shield Extender
+Pith X-Type Thermal Shield Hardener
+Capital F-RX Compact Capacitor Booster
 
 Hexa 2500mm Repeating Cannon II
 Siege Module II
 Hexa 2500mm Repeating Cannon II
-Capital Energy Neutralizer I
+Capital Gremlin Compact Energy Neutralizer
 Hexa 2500mm Repeating Cannon II
 
 Capital Core Defense Field Extender I
@@ -35,14 +35,14 @@ Capital Core Defense Field Extender I
 Capital Core Defense Field Extender I
 
 
-Cap Booster 3200 x17
-Arch Angel Depleted Uranium XL x1500
-Arch Angel EMP XL x1500
-Arch Angel Fusion XL x1500
-Hail XL x1500
-Barrage XL x1500
-Heavy Warp Scrambler I x1
-
+Barrage XL x1600
+Hail XL x1600
+Navy Cap Booster 3200 x23
+Nanite Repair Paste x250
+Arch Angel EMP XL x800
+Arch Angel Phased Plasma XL x800
 Agency 'Pyrolancea' DB5 Dose II x2
 Synth Drop Booster x2
+Inherent Implants 'Lancer' Gunnery RF-903 x1
+Zainou 'Gnome' Shield Management SM-703 x1
 ```

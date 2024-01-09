@@ -8,40 +8,43 @@ Used to provide high DPS against other capital ships.  Highly ineffective for us
 
 ## Fit
 ```
-[Moros, T2 Anti-Cap Moros]
+[Moros, Anti-Cap Moros V2]
 
-Damage Control II
-25000mm Rolled Tungsten Compact Plates
-25000mm Rolled Tungsten Compact Plates
-Multispectrum Energized Membrane II
-Multispectrum Energized Membrane II
+25000mm Crystalline Carbonide Restrained Plates
+25000mm Crystalline Carbonide Restrained Plates
+Corpus A-Type Thermal Armor Hardener
+25000mm Crystalline Carbonide Restrained Plates
+Corpus X-Type EM Armor Hardener
+True Sansha Multispectrum Energized Membrane
 Reactive Armor Hardener
 Magnetic Field Stabilizer II
-Magnetic Field Stabilizer II
 
-Capital F-RX Compact Capacitor Booster
-Capital F-RX Compact Capacitor Booster
-Heavy Warp Scrambler I
+Heavy Capacitor Booster II
+Tracking Computer II
+Heavy Capacitor Booster II
 Tracking Computer II
 
+Ion Siege Blaster II
 Siege Module II
 Ion Siege Blaster II
+Capital Infectious Scoped Energy Neutralizer
 Ion Siege Blaster II
-Ion Siege Blaster II
-Large 'Vehemence' Shockwave Charge
 
 Capital Trimark Armor Pump I
 Capital Trimark Armor Pump I
 Capital Trimark Armor Pump I
 
 
-Null XL x1000
-Void XL x1000
-Cap Booster 3200 x15
-Guristas Antimatter Charge XL x1000
-Guristas Iron Charge XL x1000
+Null XL x1600
+Void XL x1600
+Navy Cap Booster 3200 x20
+Guristas Thorium Charge XL x800
+Shadow Antimatter Charge XL x800
+Nanite Repair Paste x250
 Optimal Range Script x2
 Tracking Speed Script x2
 Agency 'Pyrolancea' DB5 Dose II x2
 Synth Drop Booster x2
+Inherent Implants 'Noble' Hull Upgrades HG-1003 x1
+Eifyr and Co. 'Gunslinger' Surgical Strike SS-903 x1
 ```
