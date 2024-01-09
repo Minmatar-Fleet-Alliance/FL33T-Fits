@@ -49,6 +49,4 @@ Agency 'Pyrolancea' DB3 Dose I x1
 Synth Drop Booster x1
 Medium Energy Neutralizer II x2
 425mm AutoCannon II x5
-425mm Medium 'Scout' Autocannon I x6
-720mm 'Scout' Artillery I x6
 ```
