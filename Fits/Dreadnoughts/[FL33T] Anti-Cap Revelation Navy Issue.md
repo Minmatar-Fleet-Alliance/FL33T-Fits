@@ -4,7 +4,7 @@ Anti-Capital RevNavy
 
 ## Description
 
-Used to provide high DPS against other capital ships.  Highly ineffective for use against sub-capital targets.  Fuel bay should have 60k Nitrogen Isotopes and be topped up with Strontium Clathrates. Fleet hangar should have an additional 1000 Strontium Clathrates.  The remainder of cargo space in both the fleet hangar and main hold should be filled with Cap Booster 3200s.
+Used to provide high DPS against other capital ships.  Highly ineffective for use against sub-capital targets.  Fuel bay should have 60k Helium Isotopes and be topped up with Strontium Clathrates. Fleet hangar should have an additional 1000 Strontium Clathrates.  The remainder of cargo space in both the fleet hangar and main hold should be filled with Cap Booster 3200s.
 
 ## Fit
 ```
