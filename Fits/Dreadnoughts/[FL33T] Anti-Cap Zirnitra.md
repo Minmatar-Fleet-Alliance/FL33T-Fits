@@ -17,7 +17,7 @@ Corpus X-Type EM Armor Hardener
 Corpus X-Type Thermal Armor Hardener
 25000mm Crystalline Carbonide Restrained Plates
 Reactive Armor Hardener
-Corpum A-Type Multispectrum Energized Membrane
+Coreli A-Type Multispectrum Coating
 Entropic Radiation Sink II
 
 Heavy Capacitor Booster II
