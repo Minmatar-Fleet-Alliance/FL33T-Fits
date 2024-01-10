@@ -16,7 +16,7 @@ Corpus X-Type Thermal Armor Hardener
 Corpus X-Type EM Armor Hardener
 25000mm Rolled Tungsten Compact Plates
 Reactive Armor Hardener
-True Sansha Multispectrum Energized Membrane
+Corpum A-Type Multispectrum Energized Membrane
 Heat Sink II
 
 Capital F-RX Compact Capacitor Booster
