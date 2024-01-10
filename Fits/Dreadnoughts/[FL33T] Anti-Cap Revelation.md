@@ -12,12 +12,12 @@ Used to provide high DPS against other capital ships.  Highly ineffective for us
 
 25000mm Crystalline Carbonide Restrained Plates
 Corpus A-Type Thermal Armor Hardener
-25000mm Rolled Tungsten Compact Plates
+25000mm Crystalline Carbonide Restrained Plates
 Corpus X-Type EM Armor Hardener
 25000mm Crystalline Carbonide Restrained Plates
 Reactive Armor Hardener
-True Sansha Multispectrum Energized Membrane
-Imperial Navy Heat Sink
+Coreli A-Type Multispectrum Coating
+Heat Sink II
 
 Heavy Capacitor Booster II
 Tracking Computer II
