@@ -10,14 +10,14 @@ Used to provide high DPS against other capital ships.  Highly ineffective for us
 ```
 [Revelation, Anti-Cap Revelation]
 
-25000mm Rolled Tungsten Compact Plates
 25000mm Crystalline Carbonide Restrained Plates
 Corpus A-Type Thermal Armor Hardener
-25000mm Crystalline Carbonide Restrained Plates
+25000mm Rolled Tungsten Compact Plates
 Corpus X-Type EM Armor Hardener
-Corelum C-Type Multispectrum Energized Membrane
+25000mm Crystalline Carbonide Restrained Plates
 Reactive Armor Hardener
-True Sansha Heat Sink
+True Sansha Multispectrum Energized Membrane
+Imperial Navy Heat Sink
 
 Heavy Capacitor Booster II
 Tracking Computer II
