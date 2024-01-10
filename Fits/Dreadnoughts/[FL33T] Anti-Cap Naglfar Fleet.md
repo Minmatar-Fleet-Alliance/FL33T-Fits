@@ -21,7 +21,7 @@ Pithum C-Type Multispectrum Shield Hardener
 Capital Shield Extender II
 Pith X-Type Thermal Shield Hardener
 Capital Shield Extender II
-Gist X-Type EM Shield Hardener
+Pith X-Type EM Shield Hardener
 Capital F-RX Compact Capacitor Booster
 
 Hexa 2500mm Repeating Cannon II
