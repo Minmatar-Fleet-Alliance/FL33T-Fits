@@ -15,7 +15,7 @@ Corpus X-Type Thermal Armor Hardener
 25000mm Rolled Tungsten Compact Plates
 Corpus X-Type EM Armor Hardener
 25000mm Rolled Tungsten Compact Plates
-True Sansha Multispectrum Energized Membrane
+Corpum A-Type Multispectrum Energized Membrane
 Reactive Armor Hardener
 Magnetic Field Stabilizer II
 
