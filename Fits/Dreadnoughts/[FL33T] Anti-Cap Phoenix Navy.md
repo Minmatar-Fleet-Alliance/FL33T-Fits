@@ -11,7 +11,7 @@ Used to provide high DPS against other capital ships.  Highly ineffective for us
 [Phoenix Navy Issue, Anti-Cap Phoenix Navy]
 
 Damage Control II
-Dread Guristas Ballistic Control System
+Domination Ballistic Control System
 Ballistic Control System II
 Ballistic Control System II
 Missile Guidance Enhancer II
@@ -28,7 +28,7 @@ Capital Capacitor Booster II
 XL Torpedo Launcher II
 Siege Module II
 XL Torpedo Launcher II
-Imperial Navy Large EMP Smartbomb
+Dark Blood Large EMP Smartbomb
 XL Torpedo Launcher II
 
 Capital Core Defense Field Extender I
