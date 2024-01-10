@@ -17,7 +17,7 @@ Corpus X-Type EM Armor Hardener
 Corpus X-Type Thermal Armor Hardener
 25000mm Crystalline Carbonide Restrained Plates
 Reactive Armor Hardener
-True Sansha Multispectrum Energized Membrane
+Corpum A-Type Multispectrum Energized Membrane
 Entropic Radiation Sink II
 
 Heavy Capacitor Booster II
@@ -27,7 +27,7 @@ Tracking Computer II
 
 Ultratidal Entropic Disintegrator I
 Siege Module II
-Imperial Navy Large EMP Smartbomb
+Dark Blood Large EMP Smartbomb
 
 Capital Trimark Armor Pump I
 Capital Trimark Armor Pump I
