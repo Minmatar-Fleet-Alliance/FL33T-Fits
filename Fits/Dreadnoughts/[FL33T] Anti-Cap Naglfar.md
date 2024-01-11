@@ -37,10 +37,12 @@ Capital Core Defense Field Extender I
 
 Barrage XL x1600
 Hail XL x1600
-Navy Cap Booster 3200 x22
+Navy Cap Booster 3200 x20
 Nanite Repair Paste x250
+Arch Angel Depleted Uranium XL x800
 Arch Angel EMP XL x800
 Arch Angel Phased Plasma XL x800
+Arch Angel Titanium Sabot XL x800
 Agency 'Pyrolancea' DB5 Dose II x2
 Synth Drop Booster x2
 Inherent Implants 'Lancer' Gunnery RF-903 x1
