@@ -15,7 +15,7 @@ Corpus A-Type Thermal Armor Hardener
 25000mm Crystalline Carbonide Restrained Plates
 Corpus X-Type EM Armor Hardener
 25000mm Crystalline Carbonide Restrained Plates
-Reactive Armor Hardener
+Damage Control II
 True Sansha Multispectrum Energized Membrane
 Magnetic Field Stabilizer II
 
