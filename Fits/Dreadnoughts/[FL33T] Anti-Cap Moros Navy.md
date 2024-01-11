@@ -16,7 +16,7 @@ Corpus X-Type Thermal Armor Hardener
 Corpus X-Type EM Armor Hardener
 25000mm Rolled Tungsten Compact Plates
 Coreli A-Type Multispectrum Coating
-Reactive Armor Hardener
+Damage Control II
 Magnetic Field Stabilizer II
 
 Capital F-RX Compact Capacitor Booster
