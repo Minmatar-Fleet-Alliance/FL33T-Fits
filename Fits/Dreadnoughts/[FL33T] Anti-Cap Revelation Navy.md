@@ -15,7 +15,7 @@ Corpus X-Type Thermal Armor Hardener
 25000mm Crystalline Carbonide Restrained Plates
 Corpus X-Type EM Armor Hardener
 25000mm Rolled Tungsten Compact Plates
-Reactive Armor Hardener
+Damage Control II
 Coreli A-Type Multispectrum Coating
 Heat Sink II
 
