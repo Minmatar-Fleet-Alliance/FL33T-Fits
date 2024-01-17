@@ -8,7 +8,7 @@ Fast moving cyno with combat probes and both covert/standard cyno. Can refit for
 
 ## Fit
 ```
-[Falcon, [X] Cyno]
+[Falcon, [X] Falcon Cyno]
 
 Damage Control II
 Power Diagnostic System II
