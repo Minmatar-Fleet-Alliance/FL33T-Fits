@@ -33,5 +33,7 @@ Small EM Shield Reinforcer II
 Barrage S x2000
 Hail S x2000
 Nanite Repair Paste x50
+Burst Jammer II x1
+Fleeting Compact Stasis Webifier x1
 ```
 
