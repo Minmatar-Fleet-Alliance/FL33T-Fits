@@ -22,7 +22,7 @@ Signal Amplifier II
 Large Shield Extender II
 Large Shield Extender II
 Multispectrum Shield Hardener II
-Multispectrum Shield Hardener II
+EM Shield Hardener II
 Medium Capacitor Booster II
 
 M-36 Enduring Warp Disruption Field Generator
