@@ -1,16 +1,17 @@
 # Devoter
-Advanced armor support cruiser
+
+Armor Heavy Interdictor
 
 ## Description
-Excellent ship for supporting armor composisions. The primary purpose of the Devoter is to shut down
-enemy command destroyers, and lock down primary targets. This allows us to fit maximum tank on our DPS ships.
 
-Important: Warp disruption scripts will shut down a microjumpdrive, and these are very long range. 
+Heavy armor support cruiser. Focus on locking down hostile Command Destroyers and securing tackle on primaries. 100km+ lock range allows you to negate spearfishing as well by locking them and spamming your warp disruption field generator on them with a script loaded. Try to isolate the second boosh that gets activated since that's the one you want to target, but in a pinch it's a 50/50 shot. 
+
+Important: Warp disruption scripts will shut down a hostile boosher's microjumpdrive, and these are very long range.
 
 ## Fit
 
 ```
-[Devoter, [ADV-30] Devoter]
+[Devoter, [ADV-30] Armor HIC Devoter]
 
 Damage Control II
 1600mm Steel Plates II
@@ -18,9 +19,9 @@ Damage Control II
 Multispectrum Energized Membrane II
 Multispectrum Energized Membrane II
 Centum C-Type EM Energized Membrane
-Centum C-Type Thermal Energized Membrane
+Corelum B-Type Thermal Energized Membrane
 
-50MN Y-T8 Compact Microwarpdrive
+50MN Quad LiF Restrained Microwarpdrive
 Medium F-RX Compact Capacitor Booster
 Sensor Booster II
 
@@ -40,13 +41,12 @@ Hornet EC-300 x5
 
 
 Hail S x1500
-Navy Cap Booster 400 x30
+Navy Cap Booster 800 x15
 Nanite Repair Paste x75
 ECCM Script x1
 Scan Resolution Script x1
 Targeting Range Script x1
 Focused Warp Disruption Script x2
 Focused Warp Scrambling Script x2
-Agency 'Overclocker' SB5 Dose II x1
 Standard Mindflood Booster x2
 ```
