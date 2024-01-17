@@ -8,7 +8,7 @@ Used to provide triage to friendly ships, better for large scale engagements. Fu
 
 ## Fit
 ```
-[Minokawa, Buffer Triage Minokawa]
+[Minokawa, [FLEET] Buffer Triage Minokawa]
 
 Damage Control II
 Caldari Navy Power Diagnostic System

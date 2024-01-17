@@ -8,7 +8,7 @@ Used to provide triage to friendly ships, better at small-mid scale engagements.
 
 ## Fit
 ```
-[Apostle, Active Triage Apostle]
+[Apostle, [FLEET] Active Triage Apostle]
 
 Capital I-a Enduring Armor Repairer
 Damage Control II
