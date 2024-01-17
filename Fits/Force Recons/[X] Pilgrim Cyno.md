@@ -8,7 +8,7 @@ Tankier cyno with combat probes and both covert/standard cyno. Offline probe lau
 
 ## Fit
 ```
-[Pilgrim, [X] TD Cyno]
+[Pilgrim, [X] Pilgrim Cyno]
 
 IFFA Compact Damage Control
 1600mm Crystalline Carbonide Restrained Plates
