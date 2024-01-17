@@ -1,10 +1,10 @@
 # Arazu
 
-Utility ship
+Shield Hard Cyno
 
 ## Description
 
-Placeholder description
+Fast moving cyno with combat probes and both covert/standard cyno. Can refit for support.
 
 ## Fit
 ```
@@ -31,14 +31,13 @@ Medium Hyperspatial Velocity Optimizer II
 Medium Hyperspatial Velocity Optimizer II
 
 
-Acolyte II x5
-Acolyte II x3
+Acolyte II x8
 
 
 Nanite Repair Paste x50
 Sisters Combat Scanner Probe x8
 Sisters Core Scanner Probe x8
-Liquid Ozone x250
+Liquid Ozone x700
 Warp Disruptor II x1
 Warp Scrambler II x1
 ```

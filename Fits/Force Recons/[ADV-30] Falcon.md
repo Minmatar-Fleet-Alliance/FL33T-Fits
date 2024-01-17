@@ -1,10 +1,10 @@
 # Falcon
 
-Utility
+Shield Hard Cyno
 
 ## Description
 
-Placeholder
+Fast moving cyno with combat probes and both covert/standard cyno. Can refit for support.
 
 ## Fit
 ```
@@ -37,6 +37,6 @@ Acolyte II x2
 Nanite Repair Paste x50
 Sisters Combat Scanner Probe x8
 Sisters Core Scanner Probe x8
-Liquid Ozone x250
+Liquid Ozone x700
 Warp Disruptor II x1
 ```

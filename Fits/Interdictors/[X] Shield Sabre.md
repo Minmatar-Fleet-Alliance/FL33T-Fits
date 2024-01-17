@@ -1,14 +1,14 @@
 # Sabre
 
-This is a utility destroyer, commonly stocked in corporation hangars. 
+Shield Interdictor for NS deployment.
 
 ## Description
 
-Placeholder description.
+Faster than the Flycatcher but less resilient, emphasis on evasion.
 
 ## Fit
 ```
-[Sabre, [ADV-30] Sabre]
+[Sabre, [X] Shield Dictor]
 
 Nanofiber Internal Structure II
 Nanofiber Internal Structure II
