@@ -8,7 +8,7 @@ Used for Entosising null sec systems. Most cost-effective T1 entosis hull alongs
 
 ## Fit
 ```
-[Jaguar, [X] T1 Toaster Jaguar]
+[Jaguar, [ADV-30] Toaster Jaguar]
 
 Assault Damage Control II
 Vigor Compact Micro Auxiliary Power Core
