@@ -8,7 +8,7 @@ Used for Entosising null sec systems. Most cost-effective T1 entosis hull alongs
 
 ## Fit
 ```
-[Harpy, [X] T1 Toaster Harpy]
+[Harpy, [ADV-30] Toaster Harpy]
 
 Assault Damage Control II
 Vigor Compact Micro Auxiliary Power Core
