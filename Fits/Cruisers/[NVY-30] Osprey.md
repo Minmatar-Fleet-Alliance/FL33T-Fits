@@ -1,4 +1,4 @@
-# Osprey Navy Issue
+# Osprey
 
 High Damage/Mobility Fleet Logi
 
