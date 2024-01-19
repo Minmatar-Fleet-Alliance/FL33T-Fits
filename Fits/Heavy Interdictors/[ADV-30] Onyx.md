@@ -11,7 +11,7 @@ Important: Warp disruption scripts will shut down a hostile boosher's microjumpd
 ## Fit
 
 ```
-[Onyx, [ADV-30] Shield HIC Onyx]
+[Onyx, [ADV-30] Onyx]
 
 Damage Control II
 Power Diagnostic System II

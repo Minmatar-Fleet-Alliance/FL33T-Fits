@@ -9,7 +9,7 @@ Important: Warp disruption scripts will shut down a hostile boosher's microjumpd
 
 ## Fit
 ```
-[Phobos, [ADV-30] Armor HIC Phobos]
+[Phobos, [ADV-30] Phobos]
 
 Damage Control II
 1600mm Steel Plates II

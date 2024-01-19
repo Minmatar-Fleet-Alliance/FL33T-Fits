@@ -8,7 +8,7 @@ Disruption destroyers that doubles as command links for fleet.
 
 ## Fit
 ```
-[Pontifex, [ADV-30] 2Burst Armor Pontifex]
+[Pontifex, [ADV-30] 2X Pontifex]
 
 IFFA Compact Damage Control
 400mm Rolled Tungsten Compact Plates

@@ -8,7 +8,7 @@ Tankier than the Eris, emphasis on staying power.
 
 ## Fit
 ```
-[Heretic, [X] Armor Dictor]
+[Heretic, [ADV-30] Heretic]
 
 Damage Control II
 400mm Steel Plates II

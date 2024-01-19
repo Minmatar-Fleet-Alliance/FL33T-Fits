@@ -8,7 +8,7 @@ Fast moving cyno with combat probes and both covert/standard cyno. Can refit for
 
 ## Fit
 ```
-[Rapier, [X] Rapier Cyno]
+[Rapier, [ADV-30] Cyno Rapier]
 
 Damage Control II
 Co-Processor II

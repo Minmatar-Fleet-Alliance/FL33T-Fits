@@ -8,7 +8,7 @@ Used to provide high DPS against other capital ships.  Highly ineffective for us
 
 ## Fit
 ```
-[Moros Navy Issue, Anti-Cap Moros Navy]
+[Moros Navy Issue, [FLEET] Anti-Cap Moros Navy]
 
 25000mm Rolled Tungsten Compact Plates
 Corpus X-Type Thermal Armor Hardener

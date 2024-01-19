@@ -10,7 +10,7 @@ Important: Warp disruption scripts will shut down a hostile boosher's microjumpd
 
 ## Fit
 ```
-[Broadsword, [ADV-30] Shield HIC Broadsword]
+[Broadsword, [ADV-30] Broadsword]
 
 Damage Control II
 Photonic Upgraded Co-Processor

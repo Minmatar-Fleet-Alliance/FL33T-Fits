@@ -8,7 +8,7 @@ Used to provide high DPS against other capital ships.  Highly ineffective for us
 
 ## Fit
 ```
-[Moros, Anti-Cap Moros]
+[Moros, [FLEET] Anti-Cap Moros]
 
 25000mm Crystalline Carbonide Restrained Plates
 Corpus A-Type Thermal Armor Hardener

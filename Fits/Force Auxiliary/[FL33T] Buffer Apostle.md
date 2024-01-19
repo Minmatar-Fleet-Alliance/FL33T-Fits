@@ -8,7 +8,7 @@ Used to provide triage to friendly ships, better for large scale engagements. Fu
 
 ## Fit
 ```
-[Apostle, [FLEET] Buffer Triage Apostle]
+[Apostle, [FLEET] Buffer Apostle]
 
 Centus X-Type Thermal Armor Hardener
 25000mm Rolled Tungsten Compact Plates

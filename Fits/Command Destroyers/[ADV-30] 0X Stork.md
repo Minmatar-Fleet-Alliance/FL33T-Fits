@@ -8,7 +8,7 @@ Tanky boosher for shield fleets.
 
 ## Fit
 ```
-[Stork, [ADV-30] NoBurst Shield Stork]
+[Stork, [ADV-30] 0X Stork]
 
 Damage Control II
 Mark I Compact Reactor Control Unit

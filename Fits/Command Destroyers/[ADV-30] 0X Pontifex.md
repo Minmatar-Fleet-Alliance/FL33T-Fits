@@ -8,7 +8,7 @@ Tanky boosher for armor fleets.
 
 ## Fit
 ```
-[Pontifex, [ADV-30] NoBurst Armor Pontifex]
+[Pontifex, [ADV-30] 0X Pontifex]
 
 Damage Control II
 400mm Rolled Tungsten Compact Plates

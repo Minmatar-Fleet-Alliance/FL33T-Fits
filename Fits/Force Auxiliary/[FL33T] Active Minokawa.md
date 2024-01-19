@@ -8,7 +8,7 @@ Used to provide triage to friendly ships, better at small-mid scale engagements.
 
 ## Fit
 ```
-[Minokawa, [FLEET] Active Triage Minokawa]
+[Minokawa, [FLEET] Active Minokawa]
 
 Damage Control II
 Capacitor Flux Coil II

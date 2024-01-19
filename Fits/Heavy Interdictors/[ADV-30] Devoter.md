@@ -11,7 +11,7 @@ Important: Warp disruption scripts will shut down a hostile boosher's microjumpd
 ## Fit
 
 ```
-[Devoter, [ADV-30] Armor HIC Devoter]
+[Devoter, [ADV-30] Devoter]
 
 Damage Control II
 1600mm Steel Plates II

@@ -8,7 +8,7 @@ Tanky boosher for shield fleets.
 
 ## Fit
 ```
-[Bifrost, [ADV-30] NoBurst Shield Bifrost]
+[Bifrost, [ADV-30] 0X Bifrost]
 
 Damage Control II
 Mark I Compact Reactor Control Unit

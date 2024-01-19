@@ -8,7 +8,7 @@ Disruption destroyers that doubles as command links for fleet.
 
 ## Fit
 ```
-[Bifrost, [ADV-30] 2Burst Shield Bifrost]
+[Bifrost, [ADV-30] 2X Bifrost]
 
 Damage Control II
 Mark I Compact Reactor Control Unit

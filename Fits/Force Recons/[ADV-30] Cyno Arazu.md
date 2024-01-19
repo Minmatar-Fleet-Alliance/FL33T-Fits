@@ -8,7 +8,7 @@ Fast moving cyno with combat probes and both covert/standard cyno. Can refit for
 
 ## Fit
 ```
-[Arazu, [X] Arazu Cyno]
+[Arazu, [ADV-30] Cyno Arazu]
 
 Damage Control II
 Power Diagnostic System II

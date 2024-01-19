@@ -8,7 +8,7 @@ Faster than the Flycatcher but less resilient, emphasis on evasion.
 
 ## Fit
 ```
-[Sabre, [X] Shield Dictor]
+[Sabre, [ADV-30] Sabre]
 
 Nanofiber Internal Structure II
 Nanofiber Internal Structure II

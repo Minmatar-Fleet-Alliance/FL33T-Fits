@@ -8,7 +8,7 @@ Faster than the Heretic but less resilent, emphasis on evasion.
 
 ## Fit
 ```
-[Eris, [X] Armor Dictor]
+[Eris, [ADV-30] Eris]
 
 Damage Control II
 400mm Steel Plates II

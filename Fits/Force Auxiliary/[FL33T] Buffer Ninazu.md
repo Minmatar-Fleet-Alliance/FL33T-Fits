@@ -8,7 +8,7 @@ Used to provide triage to friendly ships, better for large scale engagements. Fu
 
 ## Fit
 ```
-[Ninazu, [FLEET] Buffer Triage Ninazu]
+[Ninazu, [FLEET] Buffer Ninazu]
 
 Damage Control II
 25000mm Rolled Tungsten Compact Plates

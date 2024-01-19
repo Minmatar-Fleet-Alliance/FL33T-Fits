@@ -8,7 +8,7 @@ Disruption destroyers that doubles as command links for fleet.
 
 ## Fit
 ```
-[Magus, [ADV-30] 2Burst Armor Magus]
+[Magus, [ADV-30] 2X Magus]
 
 IFFA Compact Damage Control
 400mm Steel Plates II

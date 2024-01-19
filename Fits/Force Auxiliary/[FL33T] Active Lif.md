@@ -8,7 +8,7 @@ Used to provide triage to friendly ships, better at small-mid scale engagements.
 
 ## Fit
 ```
-[Lif, [FLEET] Active Triage Lif]
+[Lif, [FLEET] Active Lif]
 
 Damage Control II
 Capacitor Flux Coil II

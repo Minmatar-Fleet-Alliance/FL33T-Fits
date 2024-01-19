@@ -8,7 +8,7 @@ Tankier than the Sabre, emphasis on staying power.
 
 ## Fit
 ```
-[Flycatcher, [X] Shield Dictor]
+[Flycatcher, [ADV-30] Flycatcher]
 
 Damage Control II
 

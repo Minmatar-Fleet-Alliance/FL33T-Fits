@@ -8,7 +8,7 @@ Disruption destroyers that doubles as command links for fleet.
 
 ## Fit
 ```
-[Stork, [ADV-30] 2Burst Shield Stork]
+[Stork, [ADV-30] 2X Stork]
 
 IFFA Compact Damage Control
 Mark I Compact Power Diagnostic System

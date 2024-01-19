@@ -8,7 +8,7 @@ Tanky boosher for armor fleets.
 
 ## Fit
 ```
-[Magus, [ADV-30] NoBurst Armor Magus]
+[Magus, [ADV-30] 0X Magus]
 
 Damage Control II
 400mm Steel Plates II
