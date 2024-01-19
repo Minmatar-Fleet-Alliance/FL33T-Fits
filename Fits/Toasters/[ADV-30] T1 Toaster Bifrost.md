@@ -8,7 +8,7 @@ Used for Entosising null sec systems. This is a middleground between the T2 Bifr
 
 ## Fit
 ```
-[Bifrost, [X] T1 Toaster Bifrost]
+[Bifrost, [ADV-30] T1 Toaster Bifrost]
 
 Vigor Compact Micro Auxiliary Power Core
 Nanofiber Internal Structure II
