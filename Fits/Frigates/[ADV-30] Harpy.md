@@ -8,7 +8,7 @@ A hard tackle Harpy designed to support our Kiki and Kirin fleet. With the help 
 
 ## Fit
 ```
-[Harpy, [X] Kiki Hard Tackle Harpy]
+[Harpy, [ADV-30] Harpy]
 
 Assault Damage Control II
 Power Diagnostic System II
