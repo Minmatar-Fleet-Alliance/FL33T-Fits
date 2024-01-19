@@ -8,7 +8,7 @@ Used for Entosising null sec systems. Only use this if you have the ISK + T2 Ski
 
 ## Fit
 ```
-[Bifrost, [X] T2 Toaster Bifrost]
+[Bifrost, [ADV-30] T2 Toaster Bifrost]
 
 Micro Auxiliary Power Core II
 Nanofiber Internal Structure II
