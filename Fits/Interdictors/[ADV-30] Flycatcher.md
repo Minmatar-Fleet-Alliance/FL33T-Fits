@@ -1,10 +1,10 @@
 # Flycatcher
 
-This is a utility destroyer, commonly stocked in corporation hangars. 
+Shield Interdictor for NS deployment.
 
 ## Description
 
-Placeholder description.
+Tankier than the Sabre, emphasis on staying power.
 
 ## Fit
 ```

@@ -8,7 +8,7 @@ Used to provide high DPS against other capital ships.  Highly ineffective for us
 
 ## Fit
 ```
-[Phoenix, Anti-Cap Phoenix]
+[Phoenix, [FLEET] Anti-Cap Phoenix]
 
 Damage Control II
 Missile Guidance Enhancer II

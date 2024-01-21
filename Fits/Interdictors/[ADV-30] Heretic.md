@@ -1,11 +1,10 @@
 # Heretic
 
-Armor Dictor for NS deployment
+Armor Interdictor for NS deployment.
 
 ## Description
 
-Our favoured armor Interdictor, the Heretic. Everything you want from a Dictor, some nice tank,
-a bit of dps to kill pods and drones, cloak, bubbles and a defender launcher.
+Tankier than the Eris, emphasis on staying power.
 
 ## Fit
 ```

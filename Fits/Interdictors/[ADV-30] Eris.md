@@ -1,28 +1,28 @@
-# Sabre
+# Eris
 
-This is a utility destroyer, commonly stocked in corporation hangars. 
+Armor Interdictor for NS deployment.
 
 ## Description
 
-Placeholder description.
+Faster than the Heretic but less resilent, emphasis on evasion.
 
 ## Fit
 ```
-[Sabre, [ADV-30] Sabre]
+[Eris, [ADV-30] Eris]
 
-Nanofiber Internal Structure II
-Nanofiber Internal Structure II
+Damage Control II
+400mm Steel Plates II
+Compact Multispectrum Energized Membrane
+Centii A-Type Explosive Coating
 
 5MN Quad LiF Restrained Microwarpdrive
-Medium Shield Extender II
-Medium Shield Extender II
 Warp Scrambler II
 
-125mm Gatling AutoCannon II
-125mm Gatling AutoCannon II
-125mm Gatling AutoCannon II
-125mm Gatling AutoCannon II
-125mm Gatling AutoCannon II
+200mm AutoCannon II
+200mm AutoCannon II
+200mm AutoCannon II
+200mm AutoCannon II
+200mm AutoCannon II
 Defender Launcher I
 Prototype Cloaking Device I
 Interdiction Sphere Launcher I

@@ -8,7 +8,7 @@ Used to provide high DPS against other capital ships.  Highly ineffective for us
 
 ## Fit
 ```
-[Phoenix Navy Issue, Anti-Cap Phoenix Navy]
+[Phoenix Navy Issue, [FLEET] Anti-Cap Phoenix Navy]
 
 Damage Control II
 Domination Ballistic Control System

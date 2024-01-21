@@ -8,7 +8,7 @@ Used to provide high DPS against other capital ships.  Highly ineffective for us
 
 ## Fit
 ```
-[Revelation, Anti-Cap Revelation]
+[Revelation, [FLEET] Anti-Cap Revelation]
 
 25000mm Crystalline Carbonide Restrained Plates
 Corpus A-Type Thermal Armor Hardener

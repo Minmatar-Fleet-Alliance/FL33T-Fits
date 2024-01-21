@@ -8,7 +8,7 @@ Used to provide high DPS against other capital ships.  Highly ineffective for us
 
 ## Fit
 ```
-[Naglfar, Anti-Cap Naglfar]
+[Naglfar, [FLEET] Anti-Cap Naglfar]
 
 Damage Control II
 Gyrostabilizer II

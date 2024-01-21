@@ -9,7 +9,7 @@ Used to provide high DPS against other capital ships.  Highly ineffective for us
 ## Fit
 
 ```
-[Zirnitra, Anti-Cap Zirnitra]
+[Zirnitra, [FLEET] Anti-Cap Zirnitra]
 
 25000mm Crystalline Carbonide Restrained Plates
 Corpus X-Type EM Armor Hardener
