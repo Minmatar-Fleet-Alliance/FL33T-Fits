@@ -1,8 +1,10 @@
 # Basilisk
-Advanced shield logistics
+
+Advanced Shield Logistics
 
 ## Description
-Shield logistics cruiser with capacitor chain
+
+Shield logistics cruiser with capacitor chain.
 
 ## Fit
 ```
@@ -12,25 +14,25 @@ Damage Control II
 Signal Amplifier II
 
 50MN Quad LiF Restrained Microwarpdrive
-Republic Fleet Large Shield Extender
+Large Shield Extender II
 Multispectrum Shield Hardener II
+Large Shield Extender II
 Multispectrum Shield Hardener II
-EM Shield Hardener II
 
-Large Remote Shield Booster II
-Large Remote Shield Booster II
 Large Murky Compact Remote Shield Booster
-Pithum C-Type Medium Remote Shield Booster
 Large Inductive Compact Remote Capacitor Transmitter
+Large Murky Compact Remote Shield Booster
+Medium Remote Shield Booster II
 Large Inductive Compact Remote Capacitor Transmitter
+Large Murky Compact Remote Shield Booster
 
-Medium Core Defense Field Extender II
-Medium Core Defense Field Extender II
+Medium Core Defense Field Extender I
+Medium EM Shield Reinforcer II
 
 
 Acolyte II x5
 
 
-Nanite Repair Paste x100
+Nanite Repair Paste x75
 Standard Mindflood Booster x2
 ```
