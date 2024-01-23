@@ -36,6 +36,7 @@ Medium Core Defense Field Extender I
 Acolyte II x4
 
 
+Navy Cap Booster 150 x100
 Nanite Repair Paste x25
 Standard Mindflood Booster x2
 Large Azeotropic Restrained Shield Extender x1
