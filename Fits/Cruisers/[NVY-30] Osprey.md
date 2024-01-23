@@ -10,7 +10,7 @@ LARSB is the primary repping power of this fit so be sure to reload when able, e
 ## Fit
 
 ```
-[Osprey, Oni-HAM Logi]
+[Osprey, [NVY-30] Osprey]
 
 Damage Control II
 Photonic Upgraded Co-Processor
