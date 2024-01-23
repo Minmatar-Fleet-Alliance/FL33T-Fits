@@ -1,6 +1,6 @@
 # Bifrost
 
-T1 Entosis Toaster
+T1 Entosis Shield Toaster
 
 ## Description
 
