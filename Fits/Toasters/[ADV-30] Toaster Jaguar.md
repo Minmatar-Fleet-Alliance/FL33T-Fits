@@ -18,7 +18,7 @@ Vigor Compact Micro Auxiliary Power Core
 Medium Shield Extender II
 Small Shield Extender II
 Small Shield Extender II
-Small Shield Extender II
+Compact Multispectrum Shield Hardener
 
 125mm Gatling AutoCannon II
 [Empty High slot]
@@ -29,8 +29,7 @@ Small Ancillary Current Router II
 Small Kinetic Shield Reinforcer II
 
 
-Acolyte II x2
-Acolyte II x2
+Acolyte II x4
 
 
 Hail S x1000
