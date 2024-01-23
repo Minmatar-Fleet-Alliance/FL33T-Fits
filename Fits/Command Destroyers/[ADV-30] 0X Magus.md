@@ -23,7 +23,6 @@ Warp Scrambler II
 200mm AutoCannon II
 200mm AutoCannon II
 200mm AutoCannon II
-[Empty High slot]
 Defender Launcher I
 Prototype Cloaking Device I
 
