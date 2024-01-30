@@ -10,7 +10,7 @@ LARSB is the primary repping power of this fit so be sure to reload when able, e
 ## Fit
 
 ```
-[Osprey, Oni-HAM Logi]
+[Osprey, [NVY-30] Osprey]
 
 Damage Control II
 Photonic Upgraded Co-Processor
@@ -36,7 +36,8 @@ Medium Core Defense Field Extender I
 Acolyte II x4
 
 
+Navy Cap Booster 150 x90
 Nanite Repair Paste x25
-Standard Mindflood Booster x2
+Standard Mindflood Booster x1
 Large Azeotropic Restrained Shield Extender x1
 ```

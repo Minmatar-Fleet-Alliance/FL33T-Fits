@@ -10,7 +10,7 @@ HAMs go brrrr. ONI fast. Kinetic > Other 3 damage types as default, but all are 
 ## Fit
 
 ```
-[Osprey Navy Issue, Oni-HAM]
+[Osprey Navy Issue, [NVY-30] Osprey Navy Issue]
 
 Damage Control II
 Ballistic Control System II
