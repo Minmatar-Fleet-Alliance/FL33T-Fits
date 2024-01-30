@@ -1,35 +1,31 @@
 # Guardian
 
- Heavy Armor logistics cruiser
+ Heavy Armor Logistics Cruiser
 
 ## Description
 
-The step-up from the Augoror: the Guardian. Pretty much the best logistic cruiser in the game,
-it sig tanks for days, rep like a truck from long distance. This is the rolls royce of
-armor logi (until you step into a Nestor) and deserves excellent support skills and
-Logistic Cruiser V in the long run. Load ECCM script by default.
-
+Armor logistics cruiser with capacitor chain. Default to ECCM.
 
 ## Fit
 
 ```
 [Guardian, [ADV-30] Guardian]
 
+Damage Control II
 Imperial Navy 1600mm Steel Plates
+Corpus B-Type Thermal Armor Hardener
 Imperial Navy Multispectrum Energized Membrane
-Corpus C-Type Thermal Armor Hardener
-Corpus B-Type EM Armor Hardener
-Reactive Armor Hardener
+Centus B-Type EM Armor Hardener
 
 10MN Afterburner II
 Sensor Booster II
 
 Large Remote Armor Repairer II
-Large Solace Scoped Remote Armor Repairer
+Large Inductive Compact Remote Capacitor Transmitter
 Large Coaxial Compact Remote Armor Repairer
 Medium Remote Armor Repairer II
-Large Inductive Compact Remote Capacitor Transmitter
 Corpum A-Type Medium Remote Capacitor Transmitter
+Large Coaxial Compact Remote Armor Repairer
 
 Medium Ancillary Current Router II
 Medium Trimark Armor Pump II
