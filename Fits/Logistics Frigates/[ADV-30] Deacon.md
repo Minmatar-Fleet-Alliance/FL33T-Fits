@@ -30,6 +30,7 @@ Small Trimark Armor Pump I
 Acolyte II x1
 
 
+Navy Cap Booster 400 x20
 Nanite Repair Paste x50
 Standard Mindflood Booster x1
 1MN Monopropellant Enduring Afterburner x1
