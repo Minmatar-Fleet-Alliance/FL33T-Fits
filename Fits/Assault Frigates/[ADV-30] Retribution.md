@@ -36,7 +36,7 @@ Gleam S x4
 Imperial Navy Multifrequency S x4
 Imperial Navy Radio S x4
 Imperial Navy Standard S x4
-Nanite Repair Paste x75
+Nanite Repair Paste x50
 1MN Monopropellant Enduring Afterburner x1
 Faint Epsilon Scoped Warp Scrambler x1
 ```
