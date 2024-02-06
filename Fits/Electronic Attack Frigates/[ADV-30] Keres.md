@@ -42,4 +42,5 @@ Scan Resolution Dampening Script x4
 Targeting Range Dampening Script x4
 Standard Mindflood Booster x1
 Warp Disruptor II x1
+Warp Scrambler II x1
 ```
