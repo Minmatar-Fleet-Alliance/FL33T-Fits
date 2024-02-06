@@ -1,7 +1,6 @@
-# Crucifier
+# Sentinel
 
-Entry EWAR Frigate
-
+Advanced EWAR Frigate
 
 ## Description
 
@@ -13,36 +12,37 @@ Range Disruption - Use against ships with long range capabilities.
 Tracking Speed / Precision Disruption - Use against bigger ships shooting smaller ships.
 
 ## Fit
-
 ```
-[Crucifier, [NVY-30] Crucifier]
+[Sentinel, [ADV-30] Sentinel]
 
-Damage Control I
-200mm Crystalline Carbonide Restrained Plates
-Type-D Restrained Capacitor Power Relay
+400mm Crystalline Carbonide Restrained Plates
+Signal Amplifier II
+Overdrive Injector System II
 
-5MN Cold-Gas Enduring Microwarpdrive
-Baker Nunn Enduring Tracking Disruptor I
-Baker Nunn Enduring Tracking Disruptor I
-Baker Nunn Enduring Tracking Disruptor I
+5MN Quad LiF Restrained Microwarpdrive
+Tracking Disruptor II
+Tracking Disruptor II
+Tracking Disruptor II
 
+Prototype Cloaking Device I
 [Empty High slot]
 [Empty High slot]
 
-Small Ionic Field Projector I
-Small Ionic Field Projector I
-Small Capacitor Control Circuit I
+Small Ionic Field Projector II
+Small Particle Dispersion Projector II
 
 
-Acolyte I x3
-Acolyte I x2
-Hornet EC-300 x3
-Hornet EC-300 x1
+Acolyte II x4
+Acolyte II x2
+Hornet EC-300 x4
+Hornet EC-300 x2
 
 
 Missile Precision Disruption Script x3
 Missile Range Disruption Script x3
+Nanite Repair Paste x25
 Optimal Range Disruption Script x3
 Tracking Speed Disruption Script x3
-A-211 Enduring Guidance Disruptor x3
+Standard Mindflood Booster x1
+Guidance Disruptor II x3
 ```
