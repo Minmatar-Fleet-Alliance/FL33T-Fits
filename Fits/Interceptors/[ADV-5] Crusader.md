@@ -13,8 +13,8 @@ A very fast Interceptor focued on burning pings and repositioning, with DPS to t
 [Crusader, [ADV-5] Crusader]
 
 Damage Control II
-Compact Multispectrum Energized Membrane
 200mm Steel Plates II
+Overdrive Injector System II
 Overdrive Injector System II
 
 5MN Cold-Gas Enduring Microwarpdrive
