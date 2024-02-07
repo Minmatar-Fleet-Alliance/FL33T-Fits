@@ -13,19 +13,19 @@ A very fast Interceptor focued on burning pings and repositioning, with DPS to t
 [Taranis, [ADV-5] Taranis]
 
 Damage Control II
-Reinforced Bulkheads II
-Vigor Compact Micro Auxiliary Power Core
+Type-D Restrained Reinforced Bulkheads
+Overdrive Injector System II
 
 5MN Quad LiF Restrained Microwarpdrive
-1MN Afterburner II
 Warp Scrambler II
+Warp Disruptor II
 
 Light Ion Blaster II
 Light Ion Blaster II
 Light Ion Blaster II
-Small Knave Scoped Energy Nosferatu
+[Empty High slot]
 
-Small Transverse Bulkhead II
+Small Polycarbon Engine Housing II
 Small Polycarbon Engine Housing II
 
 
@@ -37,5 +37,4 @@ Void S x2000
 Caldari Navy Antimatter Charge S x1000
 Nanite Repair Paste x25
 Agency 'Overclocker' SB3 Dose I x2
-Initiated Compact Warp Disruptor x1
 ```
