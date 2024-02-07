@@ -12,18 +12,18 @@ A very fast Interceptor focued on burning pings and repositioning, with DPS to t
 ```
 [Raptor, [ADV-5] Raptor]
 
-Damage Control II
+IFFA Compact Damage Control
 Overdrive Injector System II
 Overdrive Injector System II
 
 5MN Quad LiF Restrained Microwarpdrive
-Small Shield Extender II
-Small Shield Extender II
+Medium Ancillary Shield Booster
+Warp Disruptor II
 Warp Scrambler II
 
-Light Neutron Blaster II
-Light Neutron Blaster II
-Light Neutron Blaster II
+Light Ion Blaster II
+Light Ion Blaster II
+Light Electron Blaster II
 
 Small Polycarbon Engine Housing II
 Small Polycarbon Engine Housing II
@@ -31,8 +31,8 @@ Small Polycarbon Engine Housing II
 
 Null S x2000
 Void S x2000
+Navy Cap Booster 50 x29
 Caldari Navy Antimatter Charge S x1000
 Nanite Repair Paste x25
 Agency 'Overclocker' SB3 Dose I x2
-Warp Disruptor II x1
 ```
