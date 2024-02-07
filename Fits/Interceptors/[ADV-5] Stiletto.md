@@ -16,12 +16,12 @@ Damage Control II
 Nanofiber Internal Structure II
 Overdrive Injector System II
 
-5MN Quad LiF Restrained Microwarpdrive
+5MN Y-T8 Compact Microwarpdrive
 Republic Fleet Medium Shield Extender
-Warp Scrambler II
+Faint Epsilon Scoped Warp Scrambler
 Warp Disruptor II
 
-[Empty High slot]
+Compact Interdiction Nullifier
 [Empty High slot]
 [Empty High slot]
 
@@ -31,4 +31,5 @@ Small Polycarbon Engine Housing II
 
 Nanite Repair Paste x25
 Agency 'Overclocker' SB3 Dose I x2
+Standard Mindflood Booster x1
 ```
