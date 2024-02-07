@@ -14,7 +14,7 @@ Emphasis on evasion and utilizing the 30km Warp Disruptor range. Interdiction nu
 
 Damage Control II
 400mm Rolled Tungsten Compact Plates
-Overdrive Injector System II
+Nanofiber Internal Structure II
 Overdrive Injector System II
 
 5MN Cold-Gas Enduring Microwarpdrive
