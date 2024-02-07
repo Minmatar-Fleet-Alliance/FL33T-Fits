@@ -14,7 +14,7 @@ A very fast Interceptor focued on burning pings and repositioning, with DPS to t
 
 IFFA Compact Damage Control
 200mm Steel Plates II
-Multispectrum Coating II
+Overdrive Injector System II
 Overdrive Injector System II
 
 5MN Quad LiF Restrained Microwarpdrive
