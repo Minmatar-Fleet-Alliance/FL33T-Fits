@@ -5,7 +5,7 @@ Fast Tackle Interceptor
 
 ## Description
 
-Emphasis on evasion and utilizing the 30km Warp Disruptor range.
+Emphasis on evasion and utilizing the 30km Warp Disruptor range. Interdiction nullifier for warping through bubbles.
 
 ## Fit
 
