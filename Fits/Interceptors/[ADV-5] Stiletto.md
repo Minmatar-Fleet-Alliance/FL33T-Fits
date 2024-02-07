@@ -16,12 +16,12 @@ Damage Control II
 Nanofiber Internal Structure II
 Overdrive Injector System II
 
-5MN Y-T8 Compact Microwarpdrive
-Medium F-S9 Regolith Compact Shield Extender
-Faint Epsilon Scoped Warp Scrambler
+5MN Quad LiF Restrained Microwarpdrive
+Republic Fleet Medium Shield Extender
+Warp Scrambler II
 Warp Disruptor II
 
-Compact Interdiction Nullifier
+[Empty High slot]
 [Empty High slot]
 [Empty High slot]
 
