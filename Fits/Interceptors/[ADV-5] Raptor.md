@@ -13,19 +13,19 @@ A very fast Interceptor focued on burning pings and repositioning, with DPS to t
 [Raptor, [ADV-5] Raptor]
 
 Damage Control II
-Vigor Compact Micro Auxiliary Power Core
+Overdrive Injector System II
 Overdrive Injector System II
 
 5MN Quad LiF Restrained Microwarpdrive
-1MN Afterburner II
-Medium Shield Extender II
+Small Shield Extender II
+Small Shield Extender II
 Warp Scrambler II
 
-Light Ion Blaster II
-Light Ion Blaster II
-Light Ion Blaster II
+Light Neutron Blaster II
+Light Neutron Blaster II
+Light Neutron Blaster II
 
-Small Ancillary Current Router II
+Small Polycarbon Engine Housing II
 Small Polycarbon Engine Housing II
 
 
