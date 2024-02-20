@@ -1,20 +1,19 @@
 # Stiletto
 
-Small gang/Medium fleet Stiletto fit 
+Fast Tackle Interceptor
 
 
 ## Description
 
-A regular non-blinged Stiletto, perfect to learn how to fly interceptors. A good tackle for
-nanogangs and very useful for nullsec fleets to provide warp-in, scout, hold juicy targets etc.
+Emphasis on evasion and utilizing the 30km Warp Disruptor range.
 
 ## Fit
 
 ```
 [Stiletto, [ADV-5] Stiletto]
 
-Nanofiber Internal Structure II
 Damage Control II
+Nanofiber Internal Structure II
 Overdrive Injector System II
 
 5MN Quad LiF Restrained Microwarpdrive
@@ -27,5 +26,10 @@ Warp Disruptor II
 [Empty High slot]
 
 Small Ionic Field Projector II
-Small EM Shield Reinforcer II
+Small Polycarbon Engine Housing II
+
+
+Nanite Repair Paste x25
+Agency 'Overclocker' SB3 Dose I x2
+Standard Mindflood Booster x1
 ```
