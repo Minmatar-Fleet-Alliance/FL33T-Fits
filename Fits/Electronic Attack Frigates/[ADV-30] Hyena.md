@@ -11,13 +11,13 @@ Utilizes Target Painters to enhance the friendly fleet's DPS against a hostile t
 [Hyena, [ADV-30] Hyena]
 
 IFFA Compact Damage Control
-200mm Crystalline Carbonide Restrained Plates
 Signal Amplifier II
+Nanofiber Internal Structure II
 
 5MN Cold-Gas Enduring Microwarpdrive
 Target Painter II
 Target Painter II
-X5 Enduring Stasis Webifier
+Medium Shield Extender II
 
 Prototype Cloaking Device I
 [Empty High slot]
@@ -30,5 +30,4 @@ Small Polycarbon Engine Housing II
 Nanite Repair Paste x25
 Standard Mindflood Booster x1
 Fleeting Compact Stasis Webifier x2
-Target Painter II x1
 ```
