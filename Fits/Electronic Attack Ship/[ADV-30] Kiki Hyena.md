@@ -1,21 +1,21 @@
 # Hyena
 
-Fleet Kiki fit
+Kiki Fleet EWAR Frigate
 
 ## Description
 
-A shield Hyena designed to support our Kiki and Kirin fleet with long range webs.
+A shield Hyena designed to support our Kiki/Kirin fleet with long range webbing.
 
 ## Fit
 ```
-[Hyena, [ADV-30] Hyena]
+[Hyena, [ADV-30] Kiki Hyena]
 
 Damage Control II
-Power Diagnostic System II
+Mark I Compact Power Diagnostic System
 Power Diagnostic System II
 
-1MN Monopropellant Enduring Afterburner
-Caldari Navy Medium Shield Extender
+1MN Afterburner II
+Republic Fleet Medium Shield Extender
 Multispectrum Shield Hardener II
 Stasis Webifier II
 
@@ -28,5 +28,5 @@ Small Core Defense Field Extender I
 
 
 Barrage S x1000
-Nanite Repair Paste x50
+Nanite Repair Paste x25
 ```
