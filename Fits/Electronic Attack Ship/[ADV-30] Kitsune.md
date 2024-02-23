@@ -35,6 +35,7 @@ Small Particle Dispersion Projector II
 
 
 Nanite Repair Paste x25
+Mobile Depot x1
 Standard Mindflood Booster x1
 BZ-5 Scoped Gravimetric ECM x4
 Enfeebling Scoped Ladar ECM x4
