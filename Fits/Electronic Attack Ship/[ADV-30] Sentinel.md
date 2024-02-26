@@ -15,7 +15,7 @@ Tracking Speed / Precision Disruption - Use against bigger ships shooting smalle
 ```
 [Sentinel, [ADV-30] Sentinel]
 
-400mm Crystalline Carbonide Restrained Plates
+400mm Rolled Tungsten Compact Plates
 Signal Amplifier II
 Overdrive Injector System II
 
@@ -43,6 +43,7 @@ Missile Range Disruption Script x3
 Nanite Repair Paste x25
 Optimal Range Disruption Script x3
 Tracking Speed Disruption Script x3
+Mobile Depot x1
 Standard Mindflood Booster x1
 Guidance Disruptor II x3
 ```
