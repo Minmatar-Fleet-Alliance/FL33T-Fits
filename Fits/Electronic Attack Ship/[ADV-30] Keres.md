@@ -10,7 +10,7 @@ Utilizes Remote Sensor Dampeners (Damps) to disrupt hostile DPS or Logistics. Th
 Targeting Range - Use on long range platforms like enemy ECM or ships with long engagement ranges.
 Scan Resolution - Use on Logistics ships that are close to the enemy fleet or against any ship that is too close for targeting range to make a difference.
 
-Small gang refit should replace the meta Dampener for the T2 Warp Disruptor and remove the cloak.
+Small gang refit replaces a meta dampener(s) for the Warp Disruptor II and/or Warp Scrambler II.
 
 ## Fit
 
