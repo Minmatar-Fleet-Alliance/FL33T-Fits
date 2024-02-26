@@ -12,13 +12,13 @@ High DPS/versatility destroyer that can act as a fleet's combat prober or as a s
 
 Damage Control II
 400mm Steel Plates II
-Compact Multispectrum Energized Membrane
-Heat Sink II
-Co-Processor II
+Multispectrum Energized Membrane II
+Multispectrum Coating II
+Coreli A-Type Thermal Coating
 
-5MN Quad LiF Restrained Microwarpdrive
-Warp Scrambler II
+5MN Y-T8 Compact Microwarpdrive
 Fleeting Compact Stasis Webifier
+Warp Scrambler II
 
 Expanded Probe Launcher II
 Defender Launcher I
@@ -40,4 +40,5 @@ Imperial Navy Standard S x4
 Nanite Repair Paste x25
 Sisters Combat Scanner Probe x8
 Sisters Core Scanner Probe x8
+1MN Monopropellant Enduring Afterburner x1
 ```
