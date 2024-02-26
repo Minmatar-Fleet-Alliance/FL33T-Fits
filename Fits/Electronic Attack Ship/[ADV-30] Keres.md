@@ -17,14 +17,14 @@ Small gang refit should replace the meta Dampener for the T2 Warp Disruptor and 
 ```
 [Keres, [ADV-30] Keres]
 
-IFFA Compact Damage Control
-Imperial Navy 200mm Steel Plates
+Damage Control II
+200mm Steel Plates II
 Small Ancillary Armor Repairer
 
 5MN Cold-Gas Enduring Microwarpdrive
-Remote Sensor Dampener II
-Remote Sensor Dampener II
-Remote Sensor Dampener II
+Phased Muon Scoped Sensor Dampener
+Phased Muon Scoped Sensor Dampener
+Phased Muon Scoped Sensor Dampener
 Phased Muon Scoped Sensor Dampener
 
 Prototype Cloaking Device I
