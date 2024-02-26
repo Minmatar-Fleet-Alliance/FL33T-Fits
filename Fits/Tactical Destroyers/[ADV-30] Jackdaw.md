@@ -11,24 +11,24 @@ High DPS/versatility destroyer that can act as a fleet's combat prober or as a s
 [Jackdaw, [ADV-30] Jackdaw]
 
 Damage Control II
-Reactor Control Unit II
-Ballistic Control System II
+Power Diagnostic System II
+Power Diagnostic System II
 
 5MN Quad LiF Restrained Microwarpdrive
+Republic Fleet Medium Shield Extender
 Medium Shield Extender II
-Medium Azeotropic Restrained Shield Extender
+Multispectrum Shield Hardener II
 Warp Scrambler II
-Stasis Webifier II
 
 Expanded Probe Launcher II
-Rocket Launcher II
+Defender Launcher I
 Rocket Launcher II
 Rocket Launcher II
 Rocket Launcher II
 Rocket Launcher II
 
-Small Bay Loading Accelerator II
-Small EM Shield Reinforcer I
+Small EM Shield Reinforcer II
+Small Core Defense Field Extender I
 Small Core Defense Field Extender I
 
 
@@ -40,6 +40,7 @@ Nova Javelin Rocket x2000
 Nova Rage Rocket x2000
 Scourge Javelin Rocket x2000
 Scourge Rage Rocket x2000
+Defender Missile I x100
 Nanite Repair Paste x25
 Sisters Combat Scanner Probe x8
 Sisters Core Scanner Probe x8
