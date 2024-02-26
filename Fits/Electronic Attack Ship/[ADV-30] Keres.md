@@ -37,7 +37,7 @@ Small Particle Dispersion Projector II
 Acolyte II x2
 
 
-Nanite Repair Paste x25
+Nanite Repair Paste x50
 Scan Resolution Dampening Script x4
 Targeting Range Dampening Script x4
 Standard Mindflood Booster x1
