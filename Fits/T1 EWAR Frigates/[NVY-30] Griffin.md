@@ -2,7 +2,6 @@
 
 Entry EWAR Frigate
 
-
 ## Description
 
 Utilizes Electronic Counter Measures (ECM) to disrupt hostile DPS or Logistics. This ship is entirely reliant on range to avoid incoming DPS so do not burn close unless absolutely necessary.

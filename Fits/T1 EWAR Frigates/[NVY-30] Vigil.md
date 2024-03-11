@@ -2,7 +2,6 @@
 
 Entry EWAR Frigate
 
-
 ## Description
 
 Utilizes Target Painters to enhance the friendly fleet's DPS against a hostile target. This ship is entirely reliant on range to avoid incoming DPS so do not burn close unless absolutely necessary.
