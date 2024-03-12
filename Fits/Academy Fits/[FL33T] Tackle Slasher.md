@@ -4,7 +4,7 @@ Entry Academy Fast Tackle
 
 ## Description
 
-A very fast/agile frigate designed to provide tackle for fleets, a good training step if you want to learn Interceptors. 1mn AB refit in cargo for dual prop practice, replace disruptor.
+A very fast/agile frigate designed to provide tackle for fleets, a good training step if you want to learn Interceptors. 1mn AB refit in cargo for dual prop practice, replace disruptor. Web refit if scram + web is desired.
 
 ## Fit
 
@@ -32,4 +32,5 @@ Small Core Defense Field Extender I
 Nanite Repair Paste x5
 EMP S x1000
 1MN Civilian Afterburner x1
+X5 Enduring Stasis Webifier x1
 ```
