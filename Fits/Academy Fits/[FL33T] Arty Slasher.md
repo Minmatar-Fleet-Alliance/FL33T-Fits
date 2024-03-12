@@ -9,7 +9,7 @@ An entry frigate for people interested in Artillery.
 ## Fit
 
 ```
-[Slasher, [FL33T] Slasher]
+[Slasher, [FL33T] Arty Slasher]
 
 Damage Control II
 Mark I Compact Power Diagnostic System
