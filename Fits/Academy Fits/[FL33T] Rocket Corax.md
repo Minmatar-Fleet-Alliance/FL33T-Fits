@@ -32,7 +32,6 @@ Small Core Defense Field Extender I
 Small Ancillary Current Router I
 
 
-Nanite Repair Paste x5
 Caldari Navy Mjolnir Rocket x750
 Caldari Navy Scourge Rocket x750
 Scourge Rocket x2000
