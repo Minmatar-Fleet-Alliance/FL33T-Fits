@@ -29,7 +29,6 @@ Small Core Defense Field Extender I
 Small Core Defense Field Extender I
 
 
-Nanite Repair Paste x5
 EMP S x1000
 1MN Civilian Afterburner x1
 X5 Enduring Stasis Webifier x1
