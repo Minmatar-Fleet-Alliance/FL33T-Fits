@@ -32,7 +32,6 @@ Small Core Defense Field Extender I
 Small Core Defense Field Extender I
 
 
-Nanite Repair Paste x5
 Fusion S x3000
 Republic Fleet EMP S x1440
 Republic Fleet Fusion S x1440
