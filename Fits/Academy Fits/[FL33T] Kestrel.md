@@ -29,10 +29,9 @@ Small Thermal Shield Reinforcer I
 Small Warhead Calefaction Catalyst I
 
 
-Mjolnir Rage Rocket x1000
-Nova Rage Rocket x1000
 Nanite Repair Paste x5
-Caldari Navy Mjolnir Rocket x400
-Caldari Navy Nova Rocket x400
+Caldari Navy Mjolnir Rocket x500
+Caldari Navy Nova Rocket x500
+Nova Rocket x2000
 Small Azeotropic Restrained Shield Extender x1
 ```
