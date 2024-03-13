@@ -29,7 +29,6 @@ Small Trimark Armor Pump I
 Small Trimark Armor Pump I
 
 
-Nanite Repair Paste x5
 Fusion S x2000
 Republic Fleet EMP S x720
 Republic Fleet Fusion S x720
