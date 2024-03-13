@@ -29,7 +29,6 @@ Small Thermal Shield Reinforcer I
 Small Warhead Calefaction Catalyst I
 
 
-Nanite Repair Paste x5
 Caldari Navy Mjolnir Rocket x500
 Caldari Navy Nova Rocket x500
 Nova Rocket x2000
