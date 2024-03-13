@@ -32,7 +32,6 @@ Small EM Shield Reinforcer I
 Small Core Defense Field Extender I
 
 
-Nanite Repair Paste x5
 Fusion S x2000
 Republic Fleet Carbonized Lead S x500
 Republic Fleet Depleted Uranium S x500
