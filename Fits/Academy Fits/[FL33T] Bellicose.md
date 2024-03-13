@@ -12,9 +12,9 @@ An entry cruiser for people interested in flying Heavy Assault Missiles. TP + sc
 [Bellicose, [FL33T] Bellicose]
 
 Damage Control II
-Ballistic Control System II
-Ballistic Control System II
 Ballistic Control System I
+Ballistic Control System II
+Ballistic Control System II
 
 50MN Quad LiF Restrained Microwarpdrive
 Large Azeotropic Restrained Shield Extender
@@ -32,7 +32,7 @@ Medium Core Defense Field Extender I
 Medium Core Defense Field Extender I
 
 
-Acolyte I x5
+Acolyte II x5
 Hornet EC-300 x5
 
 
@@ -40,8 +40,8 @@ Caldari Navy Inferno Heavy Assault Missile x1000
 Caldari Navy Mjolnir Heavy Assault Missile x1000
 Caldari Navy Nova Heavy Assault Missile x1000
 Caldari Navy Scourge Heavy Assault Missile x1000
-Nanite Repair Paste x10
+Nova Heavy Assault Missile x2000
+Nanite Repair Paste x25
 Phased Scoped Target Painter x1
 Faint Epsilon Scoped Warp Scrambler x1
-Initiated Compact Warp Disruptor x1
 ```
