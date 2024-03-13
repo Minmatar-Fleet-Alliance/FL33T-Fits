@@ -34,7 +34,6 @@ Small Core Defense Field Extender I
 
 Caldari Navy Scourge Light Missile x560
 Scourge Light Missile x1000
-Nanite Repair Paste x5
 Scan Resolution Script x1
 Targeting Range Script x1
 ```
