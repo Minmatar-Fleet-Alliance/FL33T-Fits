@@ -33,6 +33,5 @@ Acolyte I x2
 
 
 Navy Cap Booster 50 x45
-Nanite Repair Paste x5
 Mjolnir Rocket x1000
 ```
