@@ -33,7 +33,7 @@ Small Core Defense Field Extender I
 
 
 Nanite Repair Paste x5
-EMP S x2000
+Fusion S x2000
 Republic Fleet Carbonized Lead S x500
 Republic Fleet Depleted Uranium S x500
 Republic Fleet EMP S x500
