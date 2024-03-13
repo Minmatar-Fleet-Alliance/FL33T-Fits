@@ -30,6 +30,5 @@ Small Core Defense Field Extender I
 
 
 Navy Cap Booster 50 x45
-Nanite Repair Paste x5
 EMP S x1000
 ```
