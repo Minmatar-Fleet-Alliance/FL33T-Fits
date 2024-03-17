@@ -12,10 +12,10 @@ An entry option for learning capchain T1 logistics, emphasis on tank and output.
 [Augoror, [NVY-30] Augoror]
 
 Damage Control II
-800mm Rolled Tungsten Compact Plates
+800mm Steel Plates II
 Multispectrum Energized Membrane II
 Multispectrum Energized Membrane II
-Explosive Energized Membrane II
+Reactive Armor Hardener
 
 10MN Monopropellant Enduring Afterburner
 Alumel-Wired Enduring Sensor Booster
@@ -24,10 +24,10 @@ Alumel-Wired Enduring Sensor Booster
 Medium I-ax Enduring Remote Armor Repairer
 Medium I-ax Enduring Remote Armor Repairer
 Medium I-ax Enduring Remote Armor Repairer
-Medium I-ax Enduring Remote Armor Repairer
+Medium Inductive Compact Remote Capacitor Transmitter
 Medium Inductive Compact Remote Capacitor Transmitter
 
-Medium Kinetic Armor Reinforcer I
+Medium Trimark Armor Pump I
 Medium Trimark Armor Pump I
 Medium Trimark Armor Pump I
 
