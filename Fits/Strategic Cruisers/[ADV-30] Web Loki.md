@@ -8,7 +8,7 @@ Mobile T3C used to apply long-range webs onto primary targets or disrupt enemy a
 
 ## Fit
 ```
-[Loki, [ADV-30] Loki]
+[Loki, [ADV-30] Web Loki]
 
 Federation Navy 1600mm Steel Plates
 Multispectrum Energized Membrane II
