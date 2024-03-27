@@ -4,22 +4,22 @@ T3 DPS Cruiser
 
 ## Description
 
-Mainline DPS option for the T3C fleet. EWAR refits in cargo.
+Mainline DPS option for the T3C fleet. EWAR refits in cargo. If you don't have AWU5 make sure to plug in the 2% PG implant in cargo.
 
 ## Fit
 ```
 [Legion, [ADV-30] DPS Legion]
 
 Damage Control II
-Imperial Navy 1600mm Steel Plates
-Multispectrum Energized Membrane II
+1600mm Rolled Tungsten Compact Plates
+Imperial Navy Multispectrum Energized Membrane
 Imperial Navy Multispectrum Energized Membrane
 Core C-Type Kinetic Armor Hardener
 Core C-Type EM Armor Hardener
 Core B-Type Thermal Armor Hardener
-Extruded Compact Heat Sink
+Heat Sink II
 
-10MN Afterburner II
+10MN Y-S8 Compact Afterburner
 Balmer Series Compact Tracking Disruptor I
 
 Heavy Beam Laser II
@@ -28,9 +28,9 @@ Heavy Beam Laser II
 Heavy Beam Laser II
 Heavy Beam Laser II
 Heavy Beam Laser II
-Auto Targeting System I
+[Empty High slot]
 
-Medium Ancillary Current Router I
+Medium Trimark Armor Pump II
 Medium Trimark Armor Pump II
 Medium Trimark Armor Pump II
 
@@ -55,6 +55,7 @@ Scan Resolution Dampening Script x1
 Targeting Range Dampening Script x1
 Optimal Range Disruption Script x1
 Tracking Speed Disruption Script x1
+Inherent Implants 'Squire' Power Grid Management EG-602 x1
 Covert Ops Cloaking Device II x1
 Sensor Booster II x1
 Phased Muon Scoped Sensor Dampener x1
