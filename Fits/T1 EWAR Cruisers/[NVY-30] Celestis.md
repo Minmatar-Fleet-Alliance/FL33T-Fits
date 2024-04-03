@@ -1,10 +1,10 @@
 # Celestis
 
-Entry EWAR Cruiser
+10mn Support EWAR Cruiser
 
 ## Description
 
-Utilizes Remote Sensor Dampeners (Damps) to disrupt hostile DPS or Logistics. This ship is entirely reliant on range to avoid incoming DPS so do not burn close unless absolutely necessary.
+Utilizes Remote Sensor Dampeners (Damps) to disrupt hostile DPS or Logistics. This ship is meant to be used with the 10mn Legion fleet, emphasizing tank over versatility.
 
 Targeting Range - Use on long range platforms like enemy ECM or ships with long engagement ranges.
 Scan Resolution - Use on Logistics ships that are close to the enemy fleet or against any ship that is too close for targeting range to make a difference.
@@ -12,35 +12,36 @@ Scan Resolution - Use on Logistics ships that are close to the enemy fleet or ag
 ## Fit
 
 ```
-[Celestis, [NVY-30] Celestis]
+[Celestis, [NVY-30] Celestis Brick]
 
 Damage Control II
-1600mm Crystalline Carbonide Restrained Plates
-Compact Multispectrum Energized Membrane
-Compact Multispectrum Energized Membrane
-F-89 Compact Signal Amplifier
+1600mm Rolled Tungsten Compact Plates
+800mm Steel Plates II
+Multispectrum Energized Membrane II
+Multispectrum Energized Membrane II
 
-50MN Cold-Gas Enduring Microwarpdrive
-Phased Muon Scoped Sensor Dampener
-Phased Muon Scoped Sensor Dampener
-Phased Muon Scoped Sensor Dampener
-Small F-RX Compact Capacitor Booster
+10MN Afterburner II
+Alumel-Wired Enduring Sensor Booster
+LFT Enduring Sensor Dampener
+LFT Enduring Sensor Dampener
+LFT Enduring Sensor Dampener
 
 Drone Link Augmentor I
 Drone Link Augmentor I
-Auto Targeting System I
+Drone Link Augmentor I
 
-Medium Particle Dispersion Projector I
-Medium Particle Dispersion Projector I
-Medium Ionic Field Projector I
-
-
-Acolyte I x5
-Hornet EC-300 x5
+Medium Ancillary Current Router I
+Medium Trimark Armor Pump I
+Medium Trimark Armor Pump I
 
 
-Navy Cap Booster 400 x25
-Nanite Repair Paste x10
+Vespa EC-600 x5
+
+
+Nanite Repair Paste x25
+ECCM Script x1
+Scan Resolution Script x1
+Targeting Range Script x1
 Scan Resolution Dampening Script x3
 Targeting Range Dampening Script x3
 ```
