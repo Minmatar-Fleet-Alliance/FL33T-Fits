@@ -41,9 +41,9 @@ Spike M x3000
 Navy Cap Booster 400 x29
 Caldari Navy Antimatter Charge M x1200
 Caldari Navy Thorium Charge M x2000
-ECCM Script x2
-Scan Resolution Script x2
-Targeting Range Script x2
+ECCM Script x1
+Scan Resolution Script x1
+Targeting Range Script x1
 Optimal Range Script x1
 Tracking Speed Script x1
 Nanite Repair Paste x100
