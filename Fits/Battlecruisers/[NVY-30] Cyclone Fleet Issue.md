@@ -13,25 +13,25 @@ Best paired with the Scythe or Scimitar, with multiple recons and support cruise
 [Cyclone Fleet Issue, [ADV-30] Cyclone Fleet Issue]
 
 Damage Control II
-Nanofiber Internal Structure II
-Nanofiber Internal Structure II
+Signal Amplifier II
+Ballistic Control System II
 Ballistic Control System II
 Ballistic Control System II
 
-100MN Afterburner II
+100MN Monopropellant Enduring Afterburner
 Large Shield Extender II
 Large Shield Extender II
 Multispectrum Shield Hardener II
 Multispectrum Shield Hardener II
 
-Heavy Missile Launcher II, Caldari Navy Scourge Heavy Missile
-Heavy Missile Launcher II, Caldari Navy Scourge Heavy Missile
-Heavy Missile Launcher II, Caldari Navy Scourge Heavy Missile
-Heavy Missile Launcher II, Caldari Navy Scourge Heavy Missile
-Heavy Missile Launcher II, Caldari Navy Scourge Heavy Missile
-Heavy Missile Launcher II, Caldari Navy Scourge Heavy Missile
-Drone Link Augmentor II
-Drone Link Augmentor II
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Heavy Missile Launcher II
+Drone Link Augmentor I
+[Empty High slot]
 
 Medium EM Shield Reinforcer II
 Medium Thermal Shield Reinforcer II
@@ -42,17 +42,18 @@ Acolyte II x5
 Hornet EC-300 x5
 
 
-Inferno Fury Heavy Missile x2400
-Mjolnir Fury Heavy Missile x1200
-Nova Fury Heavy Missile x1200
-Scourge Fury Heavy Missile x2400
-Caldari Navy Inferno Heavy Missile x1200
-Caldari Navy Mjolnir Heavy Missile x1200
-Caldari Navy Nova Heavy Missile x1200
-Caldari Navy Scourge Heavy Missile x1200
+Synth Mindflood Booster
+
+
+Inferno Fury Heavy Missile x2000
+Mjolnir Fury Heavy Missile x2000
+Nova Fury Heavy Missile x2000
+Scourge Fury Heavy Missile x2000
+Caldari Navy Inferno Heavy Missile x1500
+Caldari Navy Mjolnir Heavy Missile x1500
+Caldari Navy Nova Heavy Missile x1500
+Caldari Navy Scourge Heavy Missile x1500
 Nanite Repair Paste x50
-Small Energy Neutralizer II x1
+Synth Mindflood Booster x1
 50MN Quad LiF Restrained Microwarpdrive x1
-Target Painter II x1
-Warp Disruptor II x1
 ```

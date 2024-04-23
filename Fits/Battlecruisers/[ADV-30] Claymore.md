@@ -20,20 +20,20 @@ Overdrive Injector System II
 Nanofiber Internal Structure II
 Nanofiber Internal Structure II
 
-50MN Quad LiF Restrained Microwarpdrive
+Federation Navy 100MN Afterburner
 Republic Fleet Large Shield Extender
 Republic Fleet Large Shield Extender
-Medium Capacitor Booster II, Navy Cap Booster 400
+Medium Capacitor Booster II
 Multispectrum Shield Hardener II
 Multispectrum Shield Hardener II
 
-Shield Command Burst II, Active Shielding Charge
-Shield Command Burst II, Shield Extension Charge
-Shield Command Burst II, Shield Harmonizing Charge
+Shield Command Burst II
+Shield Command Burst II
+Shield Command Burst II
 200mm AutoCannon II
-[Empty High slot]
-[Empty High slot]
-[Empty High slot]
+Information Command Burst II
+Skirmish Command Burst II
+Skirmish Command Burst II
 
 Medium Core Defense Field Extender II
 Medium Command Processor I
@@ -44,7 +44,7 @@ Hornet EC-300 x7
 
 
 Barrage S x1000
-Navy Cap Booster 400 x25
+Navy Cap Booster 400 x12
 Electronic Hardening Charge x1000
 Electronic Superiority Charge x1000
 Sensor Optimization Charge x1000
@@ -55,6 +55,7 @@ Shield Harmonizing Charge x1000
 Evasive Maneuvers Charge x1000
 Interdiction Maneuvers Charge x1000
 Rapid Deployment Charge x1000
-Power Diagnostic System II x3
-Federation Navy 100MN Afterburner x1
+Information Command Burst II x2
+Skirmish Command Burst II x1
+50MN Quad LiF Restrained Microwarpdrive x1
 ```

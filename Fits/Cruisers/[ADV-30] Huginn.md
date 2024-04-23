@@ -17,7 +17,7 @@ Power Diagnostic System II
 Power Diagnostic System II
 Power Diagnostic System II
 
-50MN Quad LiF Restrained Microwarpdrive
+100MN Monopropellant Enduring Afterburner
 Large Shield Extender II
 Large Shield Extender II
 Multispectrum Shield Hardener II
@@ -40,5 +40,5 @@ Valkyrie TP-600 x4
 Barrage S x2500
 Nanite Repair Paste x50
 Standard Mindflood Booster x1
-100MN Monopropellant Enduring Afterburner x1
+50MN Quad LiF Restrained Microwarpdrive x1
 ```
