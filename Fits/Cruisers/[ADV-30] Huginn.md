@@ -41,4 +41,5 @@ Barrage S x2500
 Nanite Repair Paste x50
 Standard Mindflood Booster x1
 50MN Quad LiF Restrained Microwarpdrive x1
+Republic Fleet Target Painter x1
 ```
