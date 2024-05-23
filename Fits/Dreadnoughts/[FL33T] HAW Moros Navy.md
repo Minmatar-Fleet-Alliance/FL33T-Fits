@@ -13,17 +13,17 @@ Used to provide high DPS against sub-capital ships. Fuel bay should have 60k Oxy
 Capital Ancillary Armor Repairer
 Damage Control II
 25000mm Crystalline Carbonide Restrained Plates
-Centus X-Type Explosive Armor Hardener
+Corpus X-Type Explosive Armor Hardener
 Reactive Armor Hardener
-Corpus X-Type Kinetic Armor Hardener
-Centum C-Type Multispectrum Energized Membrane
-Core X-Type Thermal Armor Hardener
+Centus X-Type Kinetic Armor Hardener
+Corpum C-Type Multispectrum Energized Membrane
+Corpus X-Type Thermal Armor Hardener
 
 Capital F-RX Compact Capacitor Booster
 Tracking Computer II
 Heavy Capacitor Booster II
 Tracking Computer II
-Heavy Capacitor Booster II
+Republic Fleet Target Painter
 
 Triple Neutron Blaster Cannon II
 Siege Module II
@@ -40,7 +40,7 @@ Null XL x1600
 Void XL x1600
 Navy Cap Booster 3200 x18
 Guristas Antimatter Charge XL x800
-Guristas Thorium Charge XL x800
+Shadow Thorium Charge XL x800
 Nanite Repair Paste x500
 Optimal Range Script x2
 Tracking Speed Script x2
