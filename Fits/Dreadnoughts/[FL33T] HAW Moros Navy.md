@@ -32,7 +32,7 @@ Corpus X-Type Heavy Energy Neutralizer
 Triple Neutron Blaster Cannon II
 
 Capital EM Armor Reinforcer I
-Capital Hybrid Metastasis Adjuster II
+Capital Hybrid Collision Accelerator I
 Capital Hybrid Metastasis Adjuster II
 
 
