@@ -12,9 +12,9 @@ Used to provide high DPS against sub-capital ships. Fuel bay should have 60k Oxy
 
 Capital Ancillary Armor Repairer
 Damage Control II
-25000mm Rolled Tungsten Compact Plates
-Centus X-Type Explosive Armor Hardener
 25000mm Crystalline Carbonide Restrained Plates
+Centus X-Type Explosive Armor Hardener
+Reactive Armor Hardener
 Corpus X-Type Kinetic Armor Hardener
 Centum C-Type Multispectrum Energized Membrane
 Core X-Type Thermal Armor Hardener
@@ -31,9 +31,9 @@ Triple Neutron Blaster Cannon II
 Corpus X-Type Heavy Energy Neutralizer
 Triple Neutron Blaster Cannon II
 
-Capital Hybrid Collision Accelerator II
-Capital Explosive Armor Reinforcer I
 Capital EM Armor Reinforcer I
+Capital Hybrid Metastasis Adjuster II
+Capital Hybrid Metastasis Adjuster II
 
 
 Null XL x1600
