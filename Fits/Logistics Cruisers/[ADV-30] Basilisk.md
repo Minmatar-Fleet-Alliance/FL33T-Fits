@@ -4,38 +4,37 @@ Advanced Shield Logistics
 
 ## Description
 
-10mn shield logistics cruiser with capacitor chain. For use with the Vulture fleet.
+50mn shield logistics cruiser with capacitor chain.
 
 ## Fit
 ```
 [Basilisk, [ADV-30] Basilisk]
 
 Damage Control II
-Reactor Control Unit II
+Signal Amplifier II
 
-10MN Afterburner II
-Republic Fleet Large Shield Extender
+50MN Quad LiF Restrained Microwarpdrive
 Large Shield Extender II
 Multispectrum Shield Hardener II
+Large Shield Extender II
 Multispectrum Shield Hardener II
 
-Large S95a Scoped Remote Shield Booster
-Large S95a Scoped Remote Shield Booster
-Large S95a Scoped Remote Shield Booster
-Large S95a Scoped Remote Shield Booster
-Large S95a Scoped Remote Shield Booster
-Large Radiative Scoped Remote Capacitor Transmitter
+Large Murky Compact Remote Shield Booster
+Large Inductive Compact Remote Capacitor Transmitter
+Large Murky Compact Remote Shield Booster
+Medium Remote Shield Booster II
+Large Inductive Compact Remote Capacitor Transmitter
+Large Murky Compact Remote Shield Booster
 
+Medium Core Defense Field Extender I
 Medium EM Shield Reinforcer II
-Medium Core Defense Field Extender II
 
 
-Acolyte II x1
-Light Shield Maintenance Bot I x4
+Acolyte II x5
 
 
 Nanite Repair Paste x25
 Standard Mindflood Booster x2
-Large Inductive Compact Remote Capacitor Transmitter x1
+10MN Afterburner II x1
 Pithum C-Type EM Shield Amplifier x1
 ```
