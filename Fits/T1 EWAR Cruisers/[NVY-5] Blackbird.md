@@ -16,7 +16,7 @@ Gravimetric - Caldari, Guristas, Mordu's Legion.
 ## Fit
 
 ```
-[Blackbird, [NVY-30] Blackbird]
+[Blackbird, [NVY-5] Blackbird]
 
 Damage Control II
 1600mm Rolled Tungsten Compact Plates
