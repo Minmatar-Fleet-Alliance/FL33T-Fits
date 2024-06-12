@@ -9,7 +9,7 @@ An entry destroyer for people interested in Autocannons.
 ## Fit
 
 ```
-[Thrasher, [FL33T] AC Shield Thrasher]
+[Thrasher, [ACD] AC Shield Thrasher]
 
 Damage Control II
 Counterbalanced Compact Gyrostabilizer
