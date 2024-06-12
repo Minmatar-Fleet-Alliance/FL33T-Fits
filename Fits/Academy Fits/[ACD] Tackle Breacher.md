@@ -9,7 +9,7 @@ A tankier option for people looking to train towards tackle Assault Frigates.
 ## Fit
 
 ```
-[Breacher, [FL33T] Tackle Breacher]
+[Breacher, [ACD] Tackle Breacher]
 
 Damage Control II
 Micro Auxiliary Power Core I
