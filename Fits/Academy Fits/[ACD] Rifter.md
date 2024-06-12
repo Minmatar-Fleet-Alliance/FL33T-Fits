@@ -9,7 +9,7 @@ An entry frigate for people interested in Autocannons.
 ## Fit
 
 ```
-[Rifter, [FL33T] Rifter]
+[Rifter, [ACD] Rifter]
 
 Damage Control II
 400mm Rolled Tungsten Compact Plates
