@@ -9,7 +9,7 @@ An entry cruiser for people interested in flying Heavy Assault Missiles. TP + sc
 ## Fit
 
 ```
-[Bellicose, [FL33T] Bellicose]
+[Bellicose, [ACD] Bellicose]
 
 Damage Control II
 Ballistic Control System I
