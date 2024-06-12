@@ -9,7 +9,7 @@ A very fast/agile frigate designed to provide tackle for fleets, a good training
 ## Fit
 
 ```
-[Slasher, [FL33T] Tackle Slasher]
+[Slasher, [ACD] Tackle Slasher]
 
 Damage Control II
 Type-D Restrained Nanofiber Structure
