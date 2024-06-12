@@ -9,7 +9,7 @@ An entry destroyer for people interested in Autocannons.
 ## Fit
 
 ```
-[Thrasher, [FL33T] AC Armor Thrasher]
+[Thrasher, [ACD] AC Armor Thrasher]
 
 Damage Control II
 400mm Rolled Tungsten Compact Plates
