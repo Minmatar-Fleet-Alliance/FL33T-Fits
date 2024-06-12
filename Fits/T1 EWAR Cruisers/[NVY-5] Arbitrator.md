@@ -14,32 +14,35 @@ Tracking Speed / Precision Disruption - Use against bigger ships shooting smalle
 ## Fit
 
 ```
-[Arbitrator, [NVY-30] Arbitrator]
+[Arbitrator, [NVY-5] Arbitrator]
 
 Damage Control II
-1600mm Crystalline Carbonide Restrained Plates
-Compact Multispectrum Energized Membrane
-Compact Multispectrum Energized Membrane
-F-89 Compact Signal Amplifier
+1600mm Steel Plates II
+800mm Crystalline Carbonide Restrained Plates
+Multispectrum Energized Membrane II
+Multispectrum Energized Membrane II
 
-50MN Quad LiF Restrained Microwarpdrive
+10MN Afterburner II
 DDO Scoped Tracking Disruptor I
 DDO Scoped Tracking Disruptor I
 DDO Scoped Tracking Disruptor I
 
 Drone Link Augmentor I
 Drone Link Augmentor I
-[Empty High slot]
+Auto Targeting System I
 Auto Targeting System I
 
-Medium Particle Dispersion Projector I
-Medium Particle Dispersion Projector I
-Medium Ionic Field Projector I
+Medium Trimark Armor Pump I
+Medium Trimark Armor Pump I
+Medium Trimark Armor Pump I
 
 
-Acolyte I x7
-Hornet EC-300 x7
-Vespa EC-600 x8
+Acolyte I x5
+Acolyte I x3
+Valkyrie I x5
+Valkyrie I x2
+Hornet EC-300 x5
+Hornet EC-300 x3
 
 
 Missile Precision Disruption Script x3
