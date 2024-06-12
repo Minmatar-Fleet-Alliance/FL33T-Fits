@@ -9,7 +9,7 @@ An entry destroyer for people interested in Artillery. Tank + SEBO refit in carg
 ## Fit
 
 ```
-[Thrasher, [FL33T] Arty Thrasher]
+[Thrasher, [ACD] Arty Thrasher]
 
 Damage Control II
 Counterbalanced Compact Gyrostabilizer
