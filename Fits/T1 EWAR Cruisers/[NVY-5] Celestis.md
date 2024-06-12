@@ -12,11 +12,11 @@ Scan Resolution - Use on Logistics ships that are close to the enemy fleet or ag
 ## Fit
 
 ```
-[Celestis, [NVY-30] Celestis Brick]
+[Celestis, [NVY-5] Celestis]
 
 Damage Control II
 1600mm Rolled Tungsten Compact Plates
-800mm Steel Plates II
+800mm Crystalline Carbonide Restrained Plates
 Multispectrum Energized Membrane II
 Multispectrum Energized Membrane II
 
@@ -35,7 +35,8 @@ Medium Trimark Armor Pump I
 Medium Trimark Armor Pump I
 
 
-Vespa EC-600 x5
+Acolyte I x5
+Hornet EC-300 x5
 
 
 Nanite Repair Paste x25
