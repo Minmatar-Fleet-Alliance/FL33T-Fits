@@ -4,7 +4,7 @@ Advanced Shield Logistics
 
 ## Description
 
-Shield logistics cruiser with capacitor chain.
+50mn shield logistics cruiser with capacitor chain.
 
 ## Fit
 ```
@@ -33,6 +33,8 @@ Medium EM Shield Reinforcer II
 Acolyte II x5
 
 
-Nanite Repair Paste x75
+Nanite Repair Paste x25
 Standard Mindflood Booster x2
+10MN Afterburner II x1
+Pithum C-Type EM Shield Amplifier x1
 ```
