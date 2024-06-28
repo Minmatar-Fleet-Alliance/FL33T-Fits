@@ -11,30 +11,28 @@ Alternative fit for the Basilisk, used with 100mn compositions. Significantly mo
 [Basilisk, [ADV-30] 100mn Basilisk]
 
 Damage Control II
-Power Diagnostic System II
+Caldari Navy Power Diagnostic System
 
 Federation Navy 100MN Afterburner
-Republic Fleet Large Shield Extender
 Multispectrum Shield Hardener II
+Republic Fleet Large Shield Extender
 Multispectrum Shield Hardener II
 EM Shield Hardener II
 
-Large Inductive Compact Remote Capacitor Transmitter
-Medium Inductive Compact Remote Capacitor Transmitter
 Large Asymmetric Enduring Remote Shield Booster
-Large Asymmetric Enduring Remote Shield Booster
-Large Asymmetric Enduring Remote Shield Booster
-Large Asymmetric Enduring Remote Shield Booster
+Large Murky Compact Remote Shield Booster
+Large Murky Compact Remote Shield Booster
+Large Murky Compact Remote Shield Booster
+Large Murky Compact Remote Shield Booster
+Large Remote Capacitor Transmitter II
 
 Medium Ancillary Current Router II
 Medium Ancillary Current Router II
 
 
-Warrior II x5
+Acolyte II x5
 
 
-Nanite Repair Paste x100
-Glorification-1 'Devana' Filament x1
-Home-5 'Pochven' Filament x1
-Agency 'Overclocker' SB5 Dose II x2
+Nanite Repair Paste x50
+Standard Mindflood Booster x2
 ```
