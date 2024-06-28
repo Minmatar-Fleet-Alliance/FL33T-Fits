@@ -1,0 +1,47 @@
+# Firewall Scorpion Navy Issue
+
+Firewall support for missile defense
+
+## Description
+
+Requires capacitor injection from the logistics wing, coordinate with them. This is used to firewall incoming enemy missiles.
+Roll your smartbombs so that they're spread out a little bit, and position yourself between our fleet and their missile fleet.
+
+## Fit
+
+```
+[Scorpion Navy Issue, [ADV-30] Firewall Scorpion Navy Issue]
+
+Capacitor Power Relay II
+Capacitor Power Relay II
+Capacitor Power Relay II
+Capacitor Power Relay II
+Damage Control II
+
+500MN Quad LiF Restrained Microwarpdrive
+Republic Fleet Large Shield Extender
+Republic Fleet Large Shield Extender
+Multispectrum Shield Hardener II
+Multispectrum Shield Hardener II
+Pithum C-Type Thermal Shield Amplifier
+Pithum C-Type EM Shield Amplifier
+Heavy Capacitor Booster II
+
+Large EMP Smartbomb II
+Large EMP Smartbomb II
+Large EMP Smartbomb II
+Large EMP Smartbomb II
+Large EMP Smartbomb II
+Large EMP Smartbomb II
+Large EMP Smartbomb II
+
+Large Core Defense Field Extender I
+Large Core Defense Field Extender I
+Large Core Defense Field Extender I
+
+
+Valkyrie SW-600 x7
+
+
+Navy Cap Booster 3200 x8
+```

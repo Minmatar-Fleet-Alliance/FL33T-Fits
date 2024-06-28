@@ -11,30 +11,25 @@ Advanced Shield Logistics
 [Basilisk, [ADV-30] Basilisk]
 
 Damage Control II
-Signal Amplifier II
+Power Diagnostic System II
 
-50MN Quad LiF Restrained Microwarpdrive
-Large Shield Extender II
+50MN Y-T8 Compact Microwarpdrive
+Republic Fleet Large Shield Extender
 Multispectrum Shield Hardener II
-Large Shield Extender II
-Multispectrum Shield Hardener II
+Republic Fleet Large Shield Extender
+EM Shield Hardener II
 
-Large Murky Compact Remote Shield Booster
+Large Inductive Compact Remote Capacitor Transmitter
 Large Inductive Compact Remote Capacitor Transmitter
 Large Murky Compact Remote Shield Booster
-Medium Remote Shield Booster II
-Large Inductive Compact Remote Capacitor Transmitter
+Large Murky Compact Remote Shield Booster
+Large Murky Compact Remote Shield Booster
 Large Murky Compact Remote Shield Booster
 
-Medium Core Defense Field Extender I
-Medium EM Shield Reinforcer II
+Medium Core Defense Field Extender II
+Medium Core Defense Field Extender II
 
 
-Acolyte II x5
-
-
-Nanite Repair Paste x25
+Nanite Repair Paste x75
 Standard Mindflood Booster x2
-10MN Afterburner II x1
-Pithum C-Type EM Shield Amplifier x1
 ```

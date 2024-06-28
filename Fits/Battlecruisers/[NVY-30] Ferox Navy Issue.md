@@ -19,8 +19,8 @@ Large Shield Extender II
 Large Shield Extender II
 Multispectrum Shield Hardener II
 Multispectrum Shield Hardener II
-Pithum C-Type EM Shield Amplifier
 Small F-RX Compact Capacitor Booster
+Pithum C-Type EM Shield Amplifier
 
 250mm Railgun II
 250mm Railgun II
@@ -38,10 +38,12 @@ Medium Core Defense Field Extender I
 Acolyte II x5
 
 
-Javelin M x2000
-Spike M x2000
-Navy Cap Booster 400 x30
+Javelin M x5000
+Spike M x2500
+Navy Cap Booster 400 x20
 Caldari Navy Thorium Charge M x2500
-Federation Navy Antimatter Charge M x2500
+Federation Navy Antimatter Charge M x5000
 Nanite Repair Paste x25
+Pithum C-Type Kinetic Shield Amplifier x1
+Pithum C-Type Thermal Shield Amplifier x2
 ```

@@ -2,29 +2,29 @@
 Intermediate shield logistics cruiser
 
 ## Description
-Excellent ship against the current faction warfare meta, due to its high EM resistances. Most often flown with the Cyclone Fleet Issue on strategic operations.
+Excellent ship against the current faction warfare meta due to its high EM resistances. Rather than with 50mn, we stick this with Sleipnirs.
 
 ## Fit
 ```
 [Scimitar, [ADV-30] Scimitar]
 
-Power Diagnostic System II
-Power Diagnostic System II
-Power Diagnostic System II
 Damage Control II
+Capacitor Power Relay II
+Capacitor Power Relay II
+Power Diagnostic System II
 
-100MN Y-S8 Compact Afterburner
-Large Shield Extender II
-Large Shield Extender II
+Federation Navy 10MN Afterburner
+Republic Fleet Large Shield Extender
+Republic Fleet Large Shield Extender
 Multispectrum Shield Hardener II
 Multispectrum Shield Hardener II
 
-Pithum C-Type Medium Remote Shield Booster
-Pithum C-Type Medium Remote Shield Booster
-Pithum C-Type Medium Remote Shield Booster
-Pithum C-Type Medium Remote Shield Booster
+Medium Remote Shield Booster II
+Large Asymmetric Enduring Remote Shield Booster
+Large Asymmetric Enduring Remote Shield Booster
+Large Asymmetric Enduring Remote Shield Booster
 
-Medium Capacitor Control Circuit II
+Medium Core Defense Field Extender II
 Medium Core Defense Field Extender II
 
 
@@ -32,10 +32,7 @@ Light Shield Maintenance Bot I x1
 Medium Shield Maintenance Bot I x4
 
 
-Standard Mindflood Booster
-
-
 Nanite Repair Paste x50
-Standard Mindflood Booster x1
-50MN Quad LiF Restrained Microwarpdrive x1
+Agency 'Overclocker' SB5 Dose II x2
+Improved Mindflood Booster x2
 ```

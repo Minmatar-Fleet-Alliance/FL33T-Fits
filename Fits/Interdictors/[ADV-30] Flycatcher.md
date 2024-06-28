@@ -10,31 +10,28 @@ Tankier than the Sabre, emphasis on staying power.
 ```
 [Flycatcher, [ADV-30] Flycatcher]
 
-Nanofiber Internal Structure II
+Damage Control II
 
-5MN Quad LiF Restrained Microwarpdrive
-Medium F-S9 Regolith Compact Shield Extender
-Medium F-S9 Regolith Compact Shield Extender
 Multispectrum Shield Hardener II
-Warp Scrambler II
+EM Shield Hardener II
+Republic Fleet Medium Shield Extender
+Republic Fleet Medium Shield Extender
+1MN Afterburner II
 
-Rocket Launcher II
-Rocket Launcher II
 Rocket Launcher II
 Rocket Launcher II
 Rocket Launcher II
 Interdiction Sphere Launcher I
 Defender Launcher I
-Prototype Cloaking Device I
+Small Energy Nosferatu II
+[Empty High slot]
+[Empty High slot]
 
-Small EM Shield Reinforcer II
-Small Hyperspatial Velocity Optimizer II
+Small Core Defense Field Extender II
+Small Core Defense Field Extender II
 
 
-Scourge Javelin Rocket x2000
-Scourge Rage Rocket x2000
-Defender Missile I x100
+Scourge Rage Rocket x5000
 Stasis Webification Probe x50
-Warp Disrupt Probe x55
-Nanite Repair Paste x25
+Warp Disrupt Probe x50
 ```
