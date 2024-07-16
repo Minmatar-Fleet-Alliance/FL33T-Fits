@@ -1,8 +1,10 @@
 # Scimitar
+
 Intermediate shield logistics cruiser
 
 ## Description
-Excellent ship against the current faction warfare meta due to its high EM resistances. Rather than with 50mn, we stick this with Sleipnirs.
+
+Excellent ship against the current faction warfare meta due to its high EM resistances. Flown with the Sleipnir/HFI fleet.
 
 ## Fit
 ```
