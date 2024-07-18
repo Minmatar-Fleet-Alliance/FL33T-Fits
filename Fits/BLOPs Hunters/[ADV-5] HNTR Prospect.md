@@ -6,6 +6,9 @@ BLOPs Hunter Frigate
 
 Small/agile frigate optimal for hunting smaller targets or hunting down moving opponents.
 
+Speed-focused = Prospect/Hound
+Tank-focused = Purifier/Manticore/Nemesis
+
 ## Fit
 
 ```
@@ -24,8 +27,8 @@ Covert Ops Cloaking Device II
 Covert Cynosural Field Generator I
 Expanded Probe Launcher I
 
-Small Core Defense Field Extender I
-Small Core Defense Field Extender I
+Small Hyperspatial Velocity Optimizer II
+Small Hyperspatial Velocity Optimizer II
 
 
 Nanite Repair Paste x25

@@ -6,6 +6,9 @@ BLOPs Hunter Stealth Bomber
 
 Small/Agile hunter for BLOPs usage, primary benefit is the ability to lock immediately after decloaking.
 
+Speed-focused = Prospect/Hound
+Tank-focused = Purifier/Manticore/Nemesis
+
 ## Fit
 
 ```

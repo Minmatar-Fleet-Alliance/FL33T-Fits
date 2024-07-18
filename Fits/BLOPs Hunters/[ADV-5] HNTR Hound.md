@@ -6,6 +6,9 @@ BLOPs Hunter Stealth Bomber
 
 Small/Agile hunter for BLOPs usage, primary benefit is the ability to lock immediately after decloaking.
 
+Speed-focused = Prospect/Hound
+Tank-focused = Purifier/Manticore/Nemesis
+
 ## Fit
 
 ```
@@ -16,20 +19,19 @@ Co-Processor II
 Inertial Stabilizers II
 
 5MN Y-T8 Compact Microwarpdrive
-Medium F-S9 Regolith Compact Shield Extender
+Medium Azeotropic Restrained Shield Extender
 Warp Scrambler II
 
 Covert Ops Cloaking Device II
 Covert Cynosural Field Generator I
 Expanded Probe Launcher I
 [Empty High slot]
-125mm Gatling AutoCannon II
+[Empty High slot]
 
-Small Core Defense Field Extender I
-Small Core Defense Field Extender I
+Small Hyperspatial Velocity Optimizer II
+Small Hyperspatial Velocity Optimizer II
 
 
-Barrage S x1000
 Nanite Repair Paste x25
 Sisters Combat Scanner Probe x8
 Sisters Core Scanner Probe x8
