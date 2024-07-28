@@ -36,4 +36,5 @@ Nanite Repair Paste x25
 Sisters Combat Scanner Probe x8
 Sisters Core Scanner Probe x8
 Liquid Ozone x250
+Initiated Compact Warp Disruptor x1
 ```
