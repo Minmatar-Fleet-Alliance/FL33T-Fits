@@ -16,9 +16,9 @@ Be sure to fill up your fuel bay with Hydrogen Isotopes, and always check cargo 
 IFFA Compact Damage Control
 Imperial Navy 1600mm Steel Plates
 Imperial Navy 1600mm Steel Plates
+Shadow Serpentis Multispectrum Energized Membrane
 Multispectrum Energized Membrane II
-Republic Fleet Gyrostabilizer
-Republic Fleet Gyrostabilizer
+Domination Gyrostabilizer
 
 500MN Quad LiF Restrained Microwarpdrive
 Large Micro Jump Drive
@@ -26,7 +26,7 @@ Heavy F-RX Compact Capacitor Booster
 Dread Guristas Warp Scrambler
 Fleeting Compact Stasis Webifier
 
-Caldari Navy Cloaking Device
+Dread Guristas Cloaking Device
 800mm Repeating Cannon II
 800mm Repeating Cannon II
 800mm Repeating Cannon II
@@ -46,7 +46,7 @@ Hornet EC-300 x5
 
 Barrage L x2000
 Hail L x2000
-Navy Cap Booster 800 x16
+Navy Cap Booster 800 x18
 Nanite Repair Paste x50
 Republic Fleet Depleted Uranium L x1200
 Republic Fleet EMP L x1200
@@ -54,7 +54,7 @@ Republic Fleet Phased Plasma L x1200
 ECCM Script x1
 Scan Resolution Script x1
 Targeting Range Script x1
-Mobile Tractor Unit x1
+Mobile Depot x1
 Covert Jump Portal Generator I x1
 Sensor Booster II x1
 ```
