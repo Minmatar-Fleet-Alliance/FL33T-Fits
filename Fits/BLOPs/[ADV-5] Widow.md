@@ -4,7 +4,12 @@ Baseline Shield Black Ops Battleship
 
 ## Description
 
-Starting point for people interested in Black Ops Battleships. These fits are not meant to be niche/specific in use, they are just versatile BLOPs that apply DPS for general-use situations.
+Starting point for people interested in Black Ops Battleships. This is a more advanced/situational ship in general, so be more aware of your mid-slot setup and that you are less tanky than the other options.
+
+Ladar - Minmatar, Angel Cartel.
+Radar - Amarr, Blood Raiders, Sansha's Nation, Triglavian Collective.
+Magnometric - Gallente, ORE, Sisters of Eve.
+Gravimetric - Caldari, Guristas, Mordu's Legion.
 
 Be sure to fill up your fuel bay with Nitrogen Isotopes, and always check cargo for ammo/cap boosters.
 
@@ -14,18 +19,18 @@ Be sure to fill up your fuel bay with Nitrogen Isotopes, and always check cargo 
 [Widow, [ADV-5] Widow]
 
 Damage Control II
-Ballistic Control System II
-Ballistic Control System II
-Ballistic Control System II
+Imperial Navy 1600mm Steel Plates
+Imperial Navy Multispectrum Energized Membrane
+Centum A-Type Explosive Energized Membrane
 
 500MN Quad LiF Restrained Microwarpdrive
 Large Micro Jump Drive
 Heavy F-RX Compact Capacitor Booster
-Large Shield Extender II
-Large Shield Extender II
-Multispectrum Shield Hardener II
-Pith C-Type EM Shield Hardener
-Caldari Navy Warp Disruptor
+Radar ECM II
+Radar ECM II
+Republic Fleet Target Painter
+Republic Fleet Target Painter
+Dread Guristas Warp Disruptor
 
 Caldari Navy Cloaking Device
 Torpedo Launcher II
@@ -35,8 +40,8 @@ Torpedo Launcher II
 Torpedo Launcher II
 Medium Energy Neutralizer II
 
-Large Core Defense Field Extender II
-Large Core Defense Field Extender II
+Large Trimark Armor Pump I
+Large Trimark Armor Pump I
 
 
 Acolyte II x5
@@ -56,9 +61,12 @@ Caldari Navy Inferno Torpedo x600
 Caldari Navy Mjolnir Torpedo x600
 Caldari Navy Nova Torpedo x600
 Caldari Navy Scourge Torpedo x600
-Mobile Tractor Unit x1
+Mobile Depot x1
 Burst Jammer II x1
 Covert Jump Portal Generator I x1
+Gravimetric ECM II x4
+Ladar ECM II x4
+Magnetometric ECM II x4
+Radar ECM II x2
 Sensor Booster II x1
-Large Shield Extender II x1
 ```
