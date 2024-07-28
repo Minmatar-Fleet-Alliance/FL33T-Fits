@@ -44,14 +44,14 @@ Republic Fleet Berserker x5
 
 Conflagration L x12
 Scorch L x12
-Navy Cap Booster 800 x22
+Navy Cap Booster 800 x24
 Imperial Navy Multifrequency L x6
 Imperial Navy Standard L x6
 Nanite Repair Paste x50
 ECCM Script x1
 Scan Resolution Script x1
 Targeting Range Script x1
-Mobile Tractor Unit x1
+Mobile Depot x1
 Covert Jump Portal Generator I x1
 Sensor Booster II x1
 ```
