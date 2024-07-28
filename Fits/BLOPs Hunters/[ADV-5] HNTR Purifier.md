@@ -25,8 +25,8 @@ Warp Scrambler II
 Covert Ops Cloaking Device II
 Covert Cynosural Field Generator I
 Expanded Probe Launcher I
-[Empty High slot]
 125mm Gatling AutoCannon II
+[Empty High slot]
 
 Small Core Defense Field Extender I
 Small Core Defense Field Extender I
@@ -37,4 +37,5 @@ Nanite Repair Paste x25
 Sisters Combat Scanner Probe x8
 Sisters Core Scanner Probe x8
 Liquid Ozone x250
+Warp Disruptor II x1
 ```
