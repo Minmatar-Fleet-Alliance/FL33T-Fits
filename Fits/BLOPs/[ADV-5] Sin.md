@@ -47,13 +47,13 @@ Heavy Armor Maintenance Bot I x5
 
 Null L x2000
 Void L x2000
-Navy Cap Booster 800 x17
+Navy Cap Booster 800 x19
 Caldari Navy Thorium Charge L x1000
 Federation Navy Antimatter Charge L x1000
 Nanite Repair Paste x50
 ECCM Script x1
 Scan Resolution Script x1
 Targeting Range Script x1
-Mobile Tractor Unit x1
+Mobile Depot x1
 Covert Jump Portal Generator I x1
 ```
