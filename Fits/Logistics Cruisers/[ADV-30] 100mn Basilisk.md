@@ -4,7 +4,7 @@ Advanced Shield Logistics
 
 ## Description
 
-Alternative fit for the Basilisk, used with 100mn compositions. Significantly more repair power than the Scimitar.
+Alternative fit for the Basilisk, used with 100mn compositions. Significantly more repair power than the Scimitar. Flown with the 100mn CFI fleet.
 
 ## Fit
 ```
@@ -35,4 +35,5 @@ Acolyte II x5
 
 Nanite Repair Paste x50
 Standard Mindflood Booster x2
+Large Remote Capacitor Transmitter II x1
 ```

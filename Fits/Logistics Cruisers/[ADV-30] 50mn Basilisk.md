@@ -4,32 +4,35 @@ Advanced Shield Logistics
 
 ## Description
 
-50mn shield logistics cruiser with capacitor chain.
+50mn shield logistics cruiser with capacitor chain. Flown with the Vulture/FNI fleet.
 
 ## Fit
 ```
-[Basilisk, [ADV-30] Basilisk]
+[Basilisk, [ADV-30] 50mn Basilisk]
 
 Damage Control II
-Power Diagnostic System II
+Caldari Navy Power Diagnostic System
 
-50MN Y-T8 Compact Microwarpdrive
+50MN Quad LiF Restrained Microwarpdrive
 Republic Fleet Large Shield Extender
 Multispectrum Shield Hardener II
 Republic Fleet Large Shield Extender
 EM Shield Hardener II
 
+Large Murky Compact Remote Shield Booster
 Large Inductive Compact Remote Capacitor Transmitter
+Large Murky Compact Remote Shield Booster
+Large Murky Compact Remote Shield Booster
 Large Inductive Compact Remote Capacitor Transmitter
-Large Murky Compact Remote Shield Booster
-Large Murky Compact Remote Shield Booster
-Large Murky Compact Remote Shield Booster
 Large Murky Compact Remote Shield Booster
 
 Medium Core Defense Field Extender II
 Medium Core Defense Field Extender II
 
 
-Nanite Repair Paste x75
+Acolyte II x5
+
+
+Nanite Repair Paste x50
 Standard Mindflood Booster x2
 ```
