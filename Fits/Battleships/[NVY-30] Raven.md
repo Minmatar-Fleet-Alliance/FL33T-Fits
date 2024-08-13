@@ -1,0 +1,48 @@
+# Raven
+
+Long range battleship
+
+## Description
+
+Maximum range battleship for fighting on fortizars, battlefields, and various other grids where you can sit in place. Aimed to shut down skirmish compositions, kiting compositions, and other nonsense in high numbers.
+
+## Fit
+
+```
+[Raven, [ADV-30] Raven]
+
+1600mm Steel Plates II
+1600mm Steel Plates II
+Multispectrum Energized Membrane II
+Multispectrum Energized Membrane II
+Reactive Armor Hardener
+
+Signature Radius Suppressor I
+100MN Afterburner II
+Heavy F-RX Compact Capacitor Booster
+Radar ECM II
+Radar ECM II
+Radar ECM II
+Radar ECM II
+Radar ECM II
+
+Large 'Vehemence' Shockwave Charge
+Large 'Vehemence' Shockwave Charge
+Large 'Vehemence' Shockwave Charge
+Large 'Vehemence' Shockwave Charge
+Large 'Vehemence' Shockwave Charge
+
+Large Trimark Armor Pump I
+Large Trimark Armor Pump I
+Large Trimark Armor Pump I
+
+
+Hornet EC-300 x5
+
+
+Improved Mindflood Booster x1
+Navy Cap Booster 800 x20
+Gravimetric ECM II x5
+Ladar ECM II x5
+Magnetometric ECM II x5
+```
