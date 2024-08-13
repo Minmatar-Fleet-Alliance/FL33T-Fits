@@ -11,7 +11,7 @@ Capacitor transfers go up and down.
 ## Fit
 
 ```
-[Osprey, [ADV-30] Osprey]
+[Osprey, [NVY-30] Osprey]
 
 Damage Control II
 Power Diagnostic System II
