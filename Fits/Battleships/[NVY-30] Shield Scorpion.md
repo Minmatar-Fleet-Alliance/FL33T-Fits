@@ -37,6 +37,11 @@ Large Core Defense Field Extender I
 Large Core Defense Field Extender I
 
 
+Warrior II x5
+Warrior II x5
+Hornet EC-300 x5
+
+
 Gravimetric ECM II x3
 Ladar ECM II x3
 Magnetometric ECM II x3
