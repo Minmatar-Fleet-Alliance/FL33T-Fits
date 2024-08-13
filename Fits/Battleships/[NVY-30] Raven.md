@@ -9,40 +9,53 @@ Maximum range battleship for fighting on fortizars, battlefields, and various ot
 ## Fit
 
 ```
-[Raven, [ADV-30] Raven]
+[Raven, [NVY-30] Raven]
 
-1600mm Steel Plates II
-1600mm Steel Plates II
-Multispectrum Energized Membrane II
-Multispectrum Energized Membrane II
-Reactive Armor Hardener
+Damage Control II
+Ballistic Control System II
+Ballistic Control System II
+Ballistic Control System II
+Signal Amplifier II
 
-Signature Radius Suppressor I
-100MN Afterburner II
-Heavy F-RX Compact Capacitor Booster
-Radar ECM II
-Radar ECM II
-Radar ECM II
-Radar ECM II
-Radar ECM II
+Large Shield Extender II
+Large Shield Extender II
+Large Shield Extender II
+EM Shield Hardener II
+Multispectrum Shield Hardener II
+Multispectrum Shield Hardener II
+Sensor Booster II
 
-Large 'Vehemence' Shockwave Charge
-Large 'Vehemence' Shockwave Charge
-Large 'Vehemence' Shockwave Charge
-Large 'Vehemence' Shockwave Charge
-Large 'Vehemence' Shockwave Charge
+Cruise Missile Launcher II
+Cruise Missile Launcher II
+Cruise Missile Launcher II
+Cruise Missile Launcher II
+Cruise Missile Launcher II
+Cruise Missile Launcher II
+Heavy Gremlin Compact Energy Neutralizer
 
-Large Trimark Armor Pump I
-Large Trimark Armor Pump I
-Large Trimark Armor Pump I
+Large Hydraulic Bay Thrusters II
+Large Core Defense Field Extender I
+Large Core Defense Field Extender I
 
 
+Warrior II x5
+Warrior II x5
 Hornet EC-300 x5
 
 
-Improved Mindflood Booster x1
+Inferno Fury Cruise Missile x500
+Mjolnir Fury Cruise Missile x500
+Nova Fury Cruise Missile x500
+Scourge Fury Cruise Missile x500
 Navy Cap Booster 800 x20
-Gravimetric ECM II x5
-Ladar ECM II x5
-Magnetometric ECM II x5
+Caldari Navy Inferno Cruise Missile x1000
+Caldari Navy Mjolnir Cruise Missile x1000
+Caldari Navy Nova Cruise Missile x1000
+Caldari Navy Scourge Cruise Missile x1000
+Scan Resolution Script x1
+Targeting Range Script x1
+Heavy F-RX Compact Capacitor Booster x1
+Large Micro Jump Drive x1
+Missile Guidance Enhancer II x1
+500MN Quad LiF Restrained Microwarpdrive x1
 ```
