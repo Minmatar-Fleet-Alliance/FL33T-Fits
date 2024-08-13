@@ -17,7 +17,7 @@ Power Diagnostic System II
 Power Diagnostic System II
 Power Diagnostic System II
 
-Large Shield Extender II
+500MN Quad LiF Restrained Microwarpdrive
 Large Shield Extender II
 Multispectrum Shield Hardener II
 Multispectrum Shield Hardener II
@@ -46,5 +46,5 @@ Gravimetric ECM II x3
 Ladar ECM II x3
 Magnetometric ECM II x3
 Large Micro Jump Drive x1
-500MN Quad LiF Restrained Microwarpdrive x1
+Large Shield Extender II x1
 ```
