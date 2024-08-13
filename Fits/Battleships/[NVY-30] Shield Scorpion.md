@@ -45,5 +45,6 @@ Hornet EC-300 x5
 Gravimetric ECM II x3
 Ladar ECM II x3
 Magnetometric ECM II x3
+Large Micro Jump Drive x1
 500MN Quad LiF Restrained Microwarpdrive x1
 ```
