@@ -17,7 +17,7 @@ Ballistic Control System II
 Ballistic Control System II
 Signal Amplifier II
 
-Large Shield Extender II
+500MN Quad LiF Restrained Microwarpdrive
 Large Shield Extender II
 Large Shield Extender II
 EM Shield Hardener II
@@ -47,7 +47,7 @@ Inferno Fury Cruise Missile x500
 Mjolnir Fury Cruise Missile x500
 Nova Fury Cruise Missile x500
 Scourge Fury Cruise Missile x500
-Navy Cap Booster 800 x20
+Navy Cap Booster 800 x18
 Caldari Navy Inferno Cruise Missile x1000
 Caldari Navy Mjolnir Cruise Missile x1000
 Caldari Navy Nova Cruise Missile x1000
@@ -57,5 +57,5 @@ Targeting Range Script x1
 Heavy F-RX Compact Capacitor Booster x1
 Large Micro Jump Drive x1
 Missile Guidance Enhancer II x1
-500MN Quad LiF Restrained Microwarpdrive x1
+Large Shield Extender II x1
 ```
