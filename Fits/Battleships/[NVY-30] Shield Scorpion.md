@@ -22,9 +22,9 @@ Large Shield Extender II
 Multispectrum Shield Hardener II
 Multispectrum Shield Hardener II
 EM Shield Hardener II
-Radar ECM II
-Radar ECM II
-Radar ECM II
+Gloom Enduring Radar ECM
+Gloom Enduring Radar ECM
+Gloom Enduring Radar ECM
 
 Large 'Vehemence' Shockwave Charge
 Large 'Vehemence' Shockwave Charge
@@ -37,14 +37,13 @@ Large Core Defense Field Extender I
 Large Core Defense Field Extender I
 
 
-Warrior II x5
-Warrior II x5
+Warrior II x10
 Hornet EC-300 x5
 
 
-Gravimetric ECM II x3
-Ladar ECM II x3
-Magnetometric ECM II x3
+FZ-3a Enduring Gravimetric ECM x3
+Languid Enduring Ladar ECM x3
+Morpheus Enduring Magnetometric ECM x3
 Large Micro Jump Drive x1
 Large Shield Extender II x1
 ```
