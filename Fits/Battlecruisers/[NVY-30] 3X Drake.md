@@ -13,26 +13,26 @@ Utilized for getting command bursts into battlefield fleets. 10mn refit in cargo
 Damage Control II
 Power Diagnostic System II
 Power Diagnostic System II
-Signal Amplifier II
+Power Diagnostic System II
 
 50MN Quad LiF Restrained Microwarpdrive
 Large Shield Extender II
 Large Shield Extender II
 Multispectrum Shield Hardener II
 Multispectrum Shield Hardener II
-Large Compact Pb-Acid Cap Battery
+EM Shield Hardener II
 
 Shield Command Burst II
 Shield Command Burst II
 Shield Command Burst II
-Skirmish Command Burst II
-Skirmish Command Burst II
+Information Command Burst II
+Information Command Burst II
 Information Command Burst II
 'Arbalest' Rocket Launcher I
 
 Medium Command Processor I
 Medium Command Processor I
-Medium EM Shield Reinforcer II
+Medium Therma Shield Reinforcer II
 
 
 Acolyte II x5
@@ -46,9 +46,6 @@ Caldari Navy Mjolnir Rocket x1000
 Active Shielding Charge x1000
 Shield Extension Charge x1000
 Shield Harmonizing Charge x1000
-Evasive Maneuvers Charge x1000
-Interdiction Maneuvers Charge x1000
-Rapid Deployment Charge x1000
 Standard Mindflood Booster x1
 10MN Afterburner II x1
 ```
