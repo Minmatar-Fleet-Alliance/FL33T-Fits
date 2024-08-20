@@ -32,7 +32,7 @@ Information Command Burst II
 
 Medium Command Processor I
 Medium Command Processor I
-Medium Therma Shield Reinforcer II
+Medium Thermal Shield Reinforcer II
 
 
 Acolyte II x5
