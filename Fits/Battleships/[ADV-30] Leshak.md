@@ -11,39 +11,40 @@ High DPS, brick tanked armor battleship. Weak to ECM, energy neutralizers, and a
 ```
 [Leshak, [ADV-30] Leshak]
 
-Entropic Radiation Sink II
+Centum A-Type Explosive Energized Membrane
+Centum A-Type Kinetic Energized Membrane
+Imperial Navy Multispectrum Energized Membrane
 Corpum A-Type Thermal Energized Membrane
-Centum B-Type Explosive Energized Membrane
-True Sansha Multispectrum Energized Membrane
-Corpum A-Type Kinetic Energized Membrane
-Federation Navy 1600mm Steel Plates
-Federation Navy 1600mm Steel Plates
-Damage Control II
+Entropic Radiation Sink II
+Imperial Navy 1600mm Steel Plates
+Imperial Navy Multispectrum Energized Membrane
+Imperial Navy 1600mm Steel Plates
 
-500MN Quad LiF Restrained Microwarpdrive
+100MN Afterburner II
+Republic Fleet Large Cap Battery
+Republic Fleet Large Cap Battery
 Sensor Booster II
-Sensor Booster II
-Heavy F-RX Compact Capacitor Booster
 
-Large Coaxial Compact Remote Armor Repairer
-Large Solace Scoped Remote Armor Repairer
-Large YF-12a Smartbomb
-Medium Remote Armor Repairer II
-Veles Supratidal Entropic Disintegrator
+Corpum A-Type Medium Energy Nosferatu
+Corpum A-Type Medium Energy Nosferatu
+Corpum A-Type Medium Energy Nosferatu
+Imperial Navy Heavy Energy Nosferatu
+Supratidal Entropic Disintegrator II
 
 Large Trimark Armor Pump I
 Large Trimark Armor Pump I
 Large Trimark Armor Pump I
 
 
-Wasp II x4
-Curator II x4
-Vespa EC-600 x5
+Republic Fleet Warrior x5
+Federation Navy Hammerhead x5
+Imperial Navy Infiltrator x5
+Imperial Navy Praetor x4
+Hornet EC-300 x5
 
 
-Mystic L x1500
-Occult L x1500
-Navy Cap Booster 800 x31
+Mystic L x5000
+Occult L x5000
 Baryon Exotic Plasma L x1500
 Meson Exotic Plasma L x1500
 Tetryon Exotic Plasma L x1500
@@ -53,7 +54,7 @@ Scan Resolution Script x2
 Targeting Range Script x2
 Heavy Energy Neutralizer II x1
 Medium Energy Neutralizer II x3
-100MN Monopropellant Enduring Afterburner x1
+500MN Quad LiF Restrained Microwarpdrive x1
 Large YF-12a Smartbomb x1
 Stasis Webifier II x1
 Warp Scrambler II x1

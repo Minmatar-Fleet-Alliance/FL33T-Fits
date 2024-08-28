@@ -15,15 +15,15 @@ Damage Control II
 Imperial Navy 1600mm Steel Plates
 Imperial Navy 1600mm Steel Plates
 Imperial Navy 1600mm Steel Plates
-True Sansha Multispectrum Energized Membrane
-True Sansha Multispectrum Energized Membrane
 Corpum A-Type Explosive Energized Membrane
+Centum C-Type Multispectrum Energized Membrane
+Centum C-Type Multispectrum Energized Membrane
 
 500MN Quad LiF Restrained Microwarpdrive
-Federation Navy Stasis Webifier
-Federation Navy Stasis Webifier
+Heavy Capacitor Booster II
 Sensor Booster II
-Dark Blood Heavy Capacitor Booster
+Federation Navy Stasis Webifier
+Federation Navy Stasis Webifier
 
 Neutron Blaster Cannon II
 Neutron Blaster Cannon II
@@ -34,29 +34,21 @@ Neutron Blaster Cannon II
 Neutron Blaster Cannon II
 Neutron Blaster Cannon II
 
-Large Trimark Armor Pump I
-Large Trimark Armor Pump I
-Large Trimark Armor Pump I
+Large Trimark Armor Pump II
+Large Trimark Armor Pump II
+Large Trimark Armor Pump II
 
 
-Warrior II x5
-Hammerhead II x5
-Vespa EC-600 x5
+Wasp II x5
 
 
-Null L x3000
-Void L x3000
-Navy Cap Booster 800 x16
-Federation Navy Antimatter Charge L x2000
-Federation Navy Iridium Charge L x2000
-Federation Navy Iron Charge L x2000
+Null L x2000
+Void L x2000
+Navy Cap Booster 800 x28
+Caldari Navy Antimatter Charge L x2000
+Nanite Repair Paste x75
 ECCM Script x1
 Scan Resolution Script x1
 Targeting Range Script x1
-Reactive Armor Hardener x1
-Prototype Cloaking Device I x1
-Magnetic Field Stabilizer II x1
-Large Micro Jump Drive x1
-100MN Afterburner II x1
-Federation Navy Stasis Webifier x1
+Signature Radius Suppressor I x1
 ```
