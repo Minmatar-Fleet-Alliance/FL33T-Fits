@@ -1,0 +1,42 @@
+# Guardian
+
+Most palatable logi ship in the heavy armour doctrine. If we are committing FAXes guardians will not be flown.
+
+## Description
+
+Heavily tanked Logistic Cruiser. Cost is more inline with the ships that they support.
+
+## Fit
+
+```
+[Guardian, [ADV-30] Heavy Armour]
+
+Core B-Type EM Armor Hardener
+Centus C-Type Thermal Armor Hardener
+Damage Control II
+Imperial Navy 1600mm Steel Plates
+Imperial Navy Multispectrum Energized Membrane
+
+Federation Navy 10MN Afterburner
+F-90 Compact Sensor Booster
+
+Large Inductive Compact Remote Capacitor Transmitter
+Large Inductive Compact Remote Capacitor Transmitter
+Centum C-Type Medium Remote Armor Repairer
+Centum C-Type Medium Remote Armor Repairer
+Large Remote Armor Repairer II
+Large Remote Armor Repairer II
+
+Medium Ancillary Current Router II
+Medium Trimark Armor Pump II
+
+
+Light Armor Maintenance Bot II x5
+
+
+Nanite Repair Paste x240
+ECCM Script x1
+Scan Resolution Script x1
+Targeting Range Script x1
+Improved X-Instinct Booster x1
+```
