@@ -13,40 +13,35 @@ Important: Warp disruption scripts will shut down a hostile boosher's microjumpd
 ```
 [Devoter, [ADV-30] Devoter]
 
+Centum B-Type Thermal Energized Membrane
+Corpum B-Type EM Energized Membrane
 Damage Control II
-1600mm Steel Plates II
-1600mm Steel Plates II
-Multispectrum Energized Membrane II
-Multispectrum Energized Membrane II
-Centum C-Type EM Energized Membrane
-Corelum B-Type Thermal Energized Membrane
+Imperial Navy 1600mm Steel Plates
+Imperial Navy 1600mm Steel Plates
+True Sansha Multispectrum Energized Membrane
+True Sansha Multispectrum Energized Membrane
 
-50MN Quad LiF Restrained Microwarpdrive
-Medium F-RX Compact Capacitor Booster
+50MN Y-T8 Compact Microwarpdrive
+Small F-RX Compact Capacitor Booster
 Sensor Booster II
 
+Small Energy Nosferatu II
+Small Energy Nosferatu II
+125mm Gatling AutoCannon I
 M-36 Enduring Warp Disruption Field Generator
-125mm Gatling AutoCannon II
-Small Knave Scoped Energy Nosferatu
-Small Knave Scoped Energy Nosferatu
-Small Knave Scoped Energy Nosferatu
+M-36 Enduring Warp Disruption Field Generator
 M-36 Enduring Warp Disruption Field Generator
 
 Medium Trimark Armor Pump II
 Medium Trimark Armor Pump II
 
 
-Acolyte II x5
-Hornet EC-300 x5
-
-
-Hail S x1500
-Navy Cap Booster 800 x15
-Nanite Repair Paste x75
+Navy Cap Booster 100 x120
+Nanite Repair Paste x300
+Republic Fleet EMP S x1000
 ECCM Script x1
 Scan Resolution Script x1
 Targeting Range Script x1
-Focused Warp Disruption Script x2
-Focused Warp Scrambling Script x2
-Standard Mindflood Booster x2
+Focused Warp Disruption Script x3
+Focused Warp Scrambling Script x3
 ```
