@@ -48,4 +48,5 @@ Scan Resolution Script x2
 Targeting Range Script x2
 100MN Afterburner II x1
 Ship Scanner II x1
+Stasis Webifier II x2
 ```
