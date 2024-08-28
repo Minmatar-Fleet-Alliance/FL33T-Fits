@@ -22,7 +22,7 @@ Imperial Navy 1600mm Steel Plates
 
 100MN Afterburner II
 Republic Fleet Large Cap Battery
-Republic Fleet Large Cap Battery
+Sensor Booster II
 Sensor Booster II
 
 Corpum A-Type Medium Energy Nosferatu
@@ -52,6 +52,7 @@ Nanite Repair Paste x300
 ECCM Script x2
 Scan Resolution Script x2
 Targeting Range Script x2
+Republic Fleet Large Cap Battery x1
 Heavy Energy Neutralizer II x1
 Medium Energy Neutralizer II x3
 500MN Quad LiF Restrained Microwarpdrive x1
